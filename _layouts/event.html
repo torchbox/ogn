@@ -1,0 +1,18 @@
+---
+layout: default
+body_class: event
+---
+
+ <div itemscope="itemscope" itemtype="http://schema.org/SocialEvent">
+
+  {% include header.html %}  
+
+  <div class="wrapper speakers">
+    {{ page.content }}
+  </div>
+
+  {% include sponsor.html %}  
+
+  {% include social-actions.html %}
+
+</div>

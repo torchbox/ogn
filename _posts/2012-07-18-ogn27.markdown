@@ -1,0 +1,72 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+sponsor: 
+- Sonnox: sponsor-sonnox.png
+
+# The Geek Night number
+geek_night_number: 27
+
+# Keynoters
+keynoters: [Paul Annett &amp; Tim Paul]
+---
+
+
+<ul class="keynotes">
+  <li>
+    <h2><a href="http://twitter.com/nicepaul">Paul Annett</a> &amp; <a href="https://twitter.com/timpaul">Tim Paul</a></h2>
+    <p><strong>Designing for everyone</strong> from the <a href="http://digital.cabinetoffice.gov.uk/" >Government Digital Service</a> and <a href="http://www.gov.uk/" >gov.uk</a></p>
+    <div class="downloads">
+      <a href="http://www.slideshare.net/DigEngHMG/designing-for-everyone" target="_blank">slides</a>
+    </div>
+  </li>
+ </ul>
+
+
+<ul class="microslots">
+  <li>
+    <h2>Chris Rimmer</h2>
+    <p>Getting mutants to test your tests</p>
+    <div class="downloads">
+      <a href="http://media.ogn.s3.amazonaws.com/microslot-ChrisRimmer.pdf" target="_blank">slides</a>
+    </div>
+  </li>
+  <li>
+    <h2><a href="http://www.jaani.net/" target="_blank">Jaani Riordan</a></h2>
+    <p><a href="http://www.playfi.com/" >Playfi.com</a> - The technology of streaming live video to the world</p>
+    <div class="downloads">
+      <a href="http://media.ogn.s3.amazonaws.com/microslot-JaaniRiordan.pptx" target="_blank">slides</a>
+    </div>
+  </li>
+  <li>
+   <h2>Phil Leichauer</h2>
+    <p>Lightning testing</p>
+    <div class="downloads">
+      <a href="http://media.ogn.s3.amazonaws.com/microslot-PhilLeichauer.pdf" target="_blank">slides</a> <a href="http://www.youtube.com/user/Electrophotography" target="_blank">video</a>
+    </div>
+  </li>
+  <li>
+    <h2><a href="http://www.jonbounds.co.uk">Jon Bounds</a></h2>
+    <p><a href="http://twitter.com/isoxfordhappy">Is Oxford Happy?</a></p>
+     <div class="downloads">
+      <a href="http://media.ogn.s3.amazonaws.com/microslot-JonBounds.pdf" target="_blank">slides</a>
+     </div>
+  </li>
+</ul>
+
+
+
+
+
+

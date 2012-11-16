@@ -1,0 +1,45 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+sponsor: 
+- Torchbox: sponsor-torchbox.png
+
+# The Geek Night number
+geek_night_number: 22
+
+# Keynoters
+keynoters: [Louise Crow, Tyler Tate]
+---
+<h2>Keynotes</h2>
+
+<p>Keynote speakers are invited to talk at Oxford Geek Nights. OGN22 will feature:</p>
+
+<ul>
+<li><strong>FixMyTransport</strong>, by Louise Crow, developer at <a href="http://www.mysociety.org/" >mySociety</a> (<a href="talks/keynote-LouiseCrow.pdf">slides</a>)</li>
+<li><strong>The UX of Learning</strong>, by <a href="http://tylertate.com/" >Tyler Tate</a>, UX lead at <a href="http://twigkit.com/" >TwigKit</a> (<a href="talks/keynote-TylerTate.pdf">slides</a>)</li>
+</ul>
+
+<h2>Microslots</h2>
+
+<p>Microslots are five-minute "lightning talks" that anyone can volunteer for. They consist of around five to ten slides and the audience is generally friendly and interested!</p>
+
+<ul>
+<li>Time and Relative Dimension in Cyberspace: Coming to a browser near you, by <a href="http://jonathanleighton.com/">Jon Leighton</a> (<a href="talks/microslot-JonathanLeighton.pdf">slides</a>)</li>
+<li><a href="http://vagrantup.com/" >Vagrant: How I stopped worrying and learned to love the VM</a>, by <a href="http://www.clockworkrobot.co.uk/">Branden Faulls</a> (<a href="talks/microslot-BrandenFaulls.pdf">slides</a>)</li>
+<li>Designing around bad business decisions, by <a href="http://simonclayson.co.uk/">Simon Clayson</a> (<a href="talks/microslot-SimonClayson.pdf">slides</a>)</li>
+<li><a href="http://www.pirateparty.org.uk/events/2011/jun/9/oxford-pirates-2011-06/">The Pirate Party: Politics for a digital information age</a>, by John Barron (<a href="talks/microslot-JohnBarron.png">slides</a>)</li>
+</ul>
+
+<p>Want to volunteer a microslot for OGN23, some time in September? <a href="http://bit.ly/ogn-microslot" >Submit your idea here</a> and we'll see you on the night!</p>
+

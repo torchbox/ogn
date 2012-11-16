@@ -1,0 +1,50 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+sponsor: 
+- Torchbox: sponsor-torchbox.png
+
+# The Geek Night number
+geek_night_number: 13
+
+# Keynoters
+keynoters: [Andrew Walkingshaw, Bruce Lawson]
+---
+<h2>OGN13 starting earlier!</h2>
+
+<p>Following feedback, the OGN13 keynotes will begin at <strong>eight o'clock</strong>, a full half hour earlier. The rest of the lineup will similarly start and finish that little bit earlier. This should be more convenient for those having to head to homes outside the ring road.</p>
+
+<h2>Keynotes</h2>
+
+Our confirmed keynotes are
+
+<ul>
+<li><strong><a href="http://timetric.com/" >Accidental journalism: data, drugs, the Government, Timetric.com, and the Guardian</a></strong>, by <a href="http://www.lexical.org.uk/" >Andrew Walkingshaw</a>, co-founder, <a href="http://inkling-software.co.uk/" >Inkling Software</a> (<a href="http://ogn.s3.amazonaws.com/13-AndrewWalkingshaw.mp4">video</a>)</li>
+<li><strong><a href="http://www.w3.org/TR/html5/">HTML 5 (tbc)</a></strong>, by Bruce Lawson, Open Web Standards evangelist, <a href="http://www.opera.com/">Opera</a> (<a href="talks/keynote-BruceLawson.pdf" >slides</a>) (<a href="http://ogn.s3.amazonaws.com/13-BruceLawson.mp4">video</a>)</li>
+</ul>
+
+<h2>Microslots</h2>
+
+<p>These are five-minute "lightning" talks that anyone can volunteer for. They're easy to do: pick something that excites you, or a project you've worked on that you think might be of interest; then talk to a friendly audience for just five minutes with a handful of slides. <a href="http://natbat.wufoo.com/forms/oxford-geek-night-microslot-proposal/" >Submit your microslot</a> and we'll see you on the night!</p>
+
+<p>Currently confirmed microslots:</p>
+
+<ul>
+<li><strong><a href="http://dorkbot.org/" >An introduction to Dorkbot</a></strong>, by <a href="http://mbharris.co.uk/" >Mike Harris</a> (<a href="talks/microslot-MikeHarris.pdf">slides</a>) (<a href="http://ogn.s3.amazonaws.com/13-MikeHarris.mp4">video</a>)</li>
+<li><strong>Don't fear the hexdump</strong>, by Glyn Kennington (<a href="talks/microslot-GlynKennington.pdf">slides</a>) (<a href="http://ogn.s3.amazonaws.com/13-GlynKennington.mp4">video</a>)</li>
+<li><strong>A year with Google Web Toolkit</strong>, by <a href="http://www.davidmaddison.co.uk/" >David Maddison</a> (<a href="talks/microslot-DavidMaddison.pdf">slides</a>) (<a href="http://ogn.s3.amazonaws.com/13-DavidMaddison.mp4">video</a>)</li>
+<li><strong><a href="http://barcamptransparency-uk.org/">#DigitalBritain fail</a></strong>, by <a href="http://www.marcus-povey.co.uk" >Marcus Povey</a> (<a href="http://www.slideshare.net/mapkyca/digital-britain-fail">slides</a>) (<a href="http://ogn.s3.amazonaws.com/13-MarcusPovey.mp4">video</a>)</li>
+<li><strong><a href="http://inlinestyler.torchboxapps.com" >A story about HTML emails with a beginning, a middle and a python</a></strong>, by Dave Cranwell (<a href="talks/microslot-DaveCranwell.ppt">slides</a>) (<a href="http://ogn.s3.amazonaws.com/13-DaveCranwell.mp4">video</a>)</li>
+<li><strong><a href="http://www.guardian.co.uk/open-platform" >The Guardian Open Platform in 5 minutes</a></strong>, by Michael Brunton-Spall (<a href="talks/microslot-MichaelBruntonSpall.pdf">slides</a>) (<a href="http://ogn.s3.amazonaws.com/13-MichaelBruntonSpall.mp4">video</a>)</li>
+</ul>

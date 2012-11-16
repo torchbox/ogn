@@ -1,0 +1,47 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+sponsor: 
+- Torchbox: sponsor-torchbox.png
+
+# The Geek Night number
+geek_night_number: 15
+
+# Keynoters
+keynoters: [Jeni Tennison, Fintan Galvin]
+---
+<h2>OGN15 starting earlier!</h2>
+
+<p>Following feedback, the OGN15 keynotes will begin at <strong>eight o'clock</strong>, a full half hour earlier. The rest of the lineup will similarly start and finish that little bit earlier. This should be more convenient for those having to head to homes outside the ring road.</p>
+
+<h2>Keynotes</h2>
+
+<p>Keynote speakers are invited to talk at Oxford Geek Nights. OGN15 will feature:</p>
+
+<ul>
+<li><strong>Linked data on data.gov.uk</strong>, by <a href="http://www.jenitennison.com/blog" >Jeni Tennison</a>, independent consultant specialising in markup technologies and the semantic web (<a href="talks/keynote-JeniTennison.pdf">slides</a>) (<a href="http://ogn.s3.amazonaws.com/15-JeniTennison.mp4">video</a>)</li>
+<li><strong>Drupal, the semantic web marketing engine</strong>, by <a href="http://www.io1.biz/">Fintan Galvin</a>, managing director of IO1 Ltd (<a href="talks/keynote-FintanGalvin.pdf">slides</a>) (<a href="http://ogn.s3.amazonaws.com/15-FintanGalvin.mp4">video</a>)</li>
+</ul>
+
+<h2>Microslots</h2>
+
+<p>These are five-minute "lightning" talks that anyone can volunteer for. They're easy to do: pick something that excites you, or a project you've worked on that you think might be of interest; then talk to a friendly audience for just five minutes with a handful of slides. <a href="http://natbat.wufoo.com/forms/oxford-geek-night-microslot-proposal/" >Submit your microslot</a> and we'll see you on the night!</p>
+
+<p>The microslots for OGN15 are:</p>
+
+<ul>
+<li><strong><a href="http://www.theatricalia.com/" >Theatricalia</a></strong>, by <a href="http://www.dracos.co.uk/" >Matthew Somerville</a> (<a href="http://ogn.s3.amazonaws.com/15-MatthewSomerville.mp4">video</a>)</li>
+<li><strong>Open Hardware</strong>, by <a href="http://www.moorcrofts.com/" >Andrew Katz</a> (<a href="talks/microslot-AndrewKatz.pdf">slides</a>) (<a href="http://ogn.s3.amazonaws.com/15-AndrewKatz.mp4">video</a>)</li>
+<li><strong>Hyperlocality and access to data (tbc)</strong>, by <a href="http://www.zachbeauvais.com/" >Zach Beauvais</a> (<a href="http://ogn.s3.amazonaws.com/15-ZachBeauvais.mp4">video</a>)</li>
+</ul>

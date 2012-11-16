@@ -1,0 +1,72 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+sponsor:
+- Sonnox: sponsor-sonnox.png
+- History Futures: sponsor-hf.png
+
+# The Geek Night number
+geek_night_number: 26
+
+# Keynoters
+keynoters: [Simon Whitaker, Michael W Story]
+---
+
+<ul class="keynotes">
+  <li>
+    <h2><a href="http://twitter.com/s1mn">Simon Whitaker</a></h2>
+    <p><a href="http://codeclass.tumblr.com/">Coding for Kids: Notes from the front line</a></p>
+    <div class="downloads">
+      <a href="http://media.ogn.s3.amazonaws.com/keynote-SimonWhitaker.pdf" target="_blank">slides</a> <a href="http://media.ogn.s3.amazonaws.com/26-keynote-SimonWhitaker.mp3" target="_blank">audio</a>
+    </div>
+  </li>
+  <li>
+    <h2><a href="https://twitter.com/mwstory">Michael W Story</a></h2>
+    <p>How and why your TV lies</p>
+    <div class="downloads">
+     <a href="http://media.ogn.s3.amazonaws.com/keynote-MichaelStory.odp" target="_blank">slides</a> <a href="http://media.ogn.s3.amazonaws.com/26-keynote-MichaelWStory.mp3" target="_blank">audio</a>
+    </div>
+  </li>
+</ul>
+
+<ul class="microslots">
+  <li>
+    <h2>Duncan Hodges</h2>
+    <p><a href="http://www.cybersecurity.ox.ac.uk/">Humans in Cyber Security</a>,</p>
+    <div class="downloads">
+      <a href="http://media.ogn.s3.amazonaws.com/microslot-DuncanHodges.pdf" target="_blank">slides</a> <a href="http://media.ogn.s3.amazonaws.com/26-microslot-DuncanHodges.mp3" target="_blank">audio</a>
+    </div>
+  </li>
+  <li>
+    <h2>Cyan Collier</h2>
+    <p>"Planet Hopper" and the International space apps challenge</p>
+    <div class="downloads">
+      <a href="http://media.ogn.s3.amazonaws.com/microslot-CyanCollier.pdf" target="_blank">slides</a> <a href="http://media.ogn.s3.amazonaws.com/26-microslot-CyanCollier.mp3" target="_blank">audio</a>
+    </div>
+  </li>
+  <li>
+   <h2><a href="http://www.secomputing.co.uk">Steve English</a></h2>
+    <p><a href="http://www.studentrobotics.org/">Kids building robots: it went well!</a>,</p>
+    <div class="downloads">
+      <a href="http://media.ogn.s3.amazonaws.com/26-microslot-SteveEnglish.mp3" target="_blank">audio</a>
+    </div>
+  </li>
+  <li>
+    <h2>Noam Shemtov</h2>
+    <p>Community norms and incentives in FOSS projects</p>
+	<div class="downloads">
+		<a href="http://media.ogn.s3.amazonaws.com/26-microslot-NoamShemtov.mp3" target="_blank">audio</a>
+	</div>
+  </li>
+</ul>

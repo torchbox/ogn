@@ -1,0 +1,47 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+sponsor: 
+- Torchbox: sponsor-torchbox.png
+
+# The Geek Night number
+geek_night_number: 2
+
+# Keynoters
+keynoters: [Jon Hicks, James Webster]
+---
+<h2>Keynotes</h2>
+
+<ul>
+<li><strong><a href="http://www.hicksdesign.co.uk/">Jon Hicks</a></strong> - Web Typography (<a href="/2007/april-11th/talks/jon-hicks.mp4">video</a>) (<a href="http://oxford.geeknights.net/2007/april-11th/talks/Jon_Hicks.pdf">slides</a>) (<a href="http://del.icio.us/jonhicks/geeknightwebtype">links</a>) (<a href="http://www.hicksdesign.co.uk/journal/oxford-geek-night-2">write-up</a>)</li>
+<li><strong>James Webster</strong> - Amazon's Web Service Suite (<a href="/2007/april-11th/talks/james-webster.mp4">video</a>) (<a href="http://oxford.geeknights.net/2007/april-11th/talks/James_Webster.pdf">slides</a>)</li>
+</ul>
+
+<h2>Microslot set one</h2>
+
+<ul>
+<li><strong>Jim Purbrick</strong> - <a href="http://lindenlab.com/">Second Life</a> Meets The Web (<a href="/2007/april-11th/talks/jim-purbrick.mp4">video</a>) (<a href="http://oxford.geeknights.net/2007/april-11th/talks/Jim_Purbrick.pdf">slides</a>)</li>
+<li><strong><a href="http://mademedia.co.uk/">Josh Hart</a></strong> - The making of <a href="http://diarised.com/">Diarised</a> (<a href="/2007/april-11th/talks/josh-hart.mp4">video</a>) (<a href="http://oxford.geeknights.net/2007/april-11th/talks/Josh_Hart.pdf">slides</a>)</li>
+<li><strong><a href="http://netcetera.org/">Simon Whitaker</a></strong> - <a href="http://pipes.yahoo.com/pipes/">Yahoo Pipes</a> introduction (<a href="/2007/april-11th/talks/simon-whitaker.mp4">video</a>)</li>
+<li><strong><a href="http://simonwillison.net">Simon Willison</a></strong> - What the heck is HTML 5? (<a href="/2007/april-11th/talks/simon-willison.mp4">video</a>) (<a href="http://oxford.geeknights.net/2007/april-11th/talks/Simon_Willison.pdf">slides</a>) (<a href="http://simonwillison.net/2007/talks/oxford-html5/">write-up</a>)</li>
+</ul>
+
+<h2>Microslot set two</h2>
+
+<ul>
+<li><strong>Nick Grandy</strong> - <a href="http://meta.wikimedia.org/wiki/Semantic_MediaWiki">Semantic Mediawiki</a> and <a href="http://discoursedb.org/wiki/Main_Page">DiscourseDB</a> (<a href="/2007/april-11th/talks/nick-grandy.mp4">video</a>) (<a href="http://oxford.geeknights.net/2007/april-11th/talks/Nick_Grandy.pdf">slides</a>)</li>
+<li><strong><a href="http://blog.nestoria.co.uk/">Marc Tobias Metten</a></strong> - Geocoding (<a href="/2007/april-11th/talks/marc-tobias-metten.mp4">video</a>) (<a href="http://oxford.geeknights.net/2007/april-11th/talks/Marc_Tobias_Metten/">slides</a>)</li>
+<li><strong><a href="http://matt.west.co.tt/">Matthew Westcott</a></strong> - DIY Javascript effects without Scriptaculous (<a href="/2007/april-11th/talks/matthew-westcott.mp4">video</a>) (<a href="http://oxford.geeknights.net/2007/april-11th/talks/Matthew_Westcott.pdf">slides</a>)</li>
+<li><strong>Dave Sant</strong> - <a href="http://www.quakr.co.uk/">Quakr</a>, 3D modeling of the world (<a href="/2007/april-11th/talks/dave-sant.mp4">video</a>)</li>
+</ul>

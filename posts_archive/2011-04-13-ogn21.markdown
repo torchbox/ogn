@@ -1,0 +1,47 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+sponsor: 
+- Torchbox: sponsor-torchbox.png
+
+# The Geek Night number
+geek_night_number: 21
+
+# Keynoters
+keynoters: [Paul Lloyd, Eewei Chen]
+---
+
+<h2>Keynotes</h2>
+
+<p>Keynote speakers are invited to talk at Oxford Geek Nights. OGN21 will feature:</p>
+
+<ul>
+<li><strong>Styleguides for the Web</strong>, by <a href="http://paulrobertlloyd.com/">Paul Lloyd</a>, visual designer at <a href="http://www.clearleft.com/" >Clearleft</a> (<a href="talks/keynote-PaulLloyd.pdf">slides</a>)</li>
+<li><strong>Rapid prototyping: fast, continuous, informed design and development</strong>, by <a href="http://www.eewei.com/" >Eewei Chen</a> and Nick Bailey, Experience Design at <a href="http://www.thoughtworks.com/">Thoughtworks</a> (<a href="talks/keynote-EeweiChen.pdf">slides</a>)</li>
+</ul>
+
+<h2>Microslots</h2>
+
+<p>Microslots are five-minute "lightning talks" that anyone can volunteer for. They consist of around five to ten slides and the audience is generally friendly and interested!</p>
+
+<p>Confirmed microslots for OGN21 are:</p>
+
+<ul>
+<li><strong>MacGyverism and Mobile Testing Rigs</strong>, by <a href="http://www.bunnyfoot.com/" >John Sulaitis</a> (<a href="talks/microslot-JohnSulaitis.pdf">slides</a>)</li>
+<li><strong><a href="http://oshug.org/" >Why Open Source Hardware matters</a></strong>, by <a href="http://blog.whatfettle.com/" >Paul Downey</a> (<a href="talks/microslot-PaulDowney.pdf">slides</a>)</li>
+<li><strong>HTML5 Canvas</strong>, by Paul King (<a href="talks/microslot-PaulKing.pdf">slides</a>)</li>
+<li><strong><a href="http://www.openstreetmap.org/">OpenStreetMap: Operation 'Complete Oxfordshire'</a></strong>, by <a href="http://www.systemed.net/">Richard Fairhurst</a> (<a href="talks/microslot-RichardFairhurst.pdf">slides</a>)</li>
+</ul>
+
+<p>Want to volunteer a microslot for OGN21? <a href="http://bit.ly/ogn-microslot" >Submit your idea here</a> and we'll see you on the night!</p>

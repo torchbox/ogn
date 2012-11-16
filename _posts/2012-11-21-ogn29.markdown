@@ -1,0 +1,54 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+sponsor: 
+- Sonnox: sponsor-sonnox.png
+
+# The Geek Night number
+geek_night_number: 29
+
+# Lanyrd short url
+lanyrd_short_url: ckggy
+
+# Keynoters
+keynoters: [Jamie Andrews, Chris Thorpe]
+---
+
+<ul class="keynotes">
+  <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <h2 itemprop="name">Jamie Andrews</h2>
+    <p><a href="http://www.wired.co.uk/news/archive/2011-06/15/european-rail-data">Tackling complex rail data challenges, without the data</a></p>
+  </li>
+  <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <a href="https://twitter.com/jaggeree" itemprop="url"><h2 itemprop="name">Chris Thorpe</h2></a>
+    <p>Scanning real trains with lasers and printing them back out again</p>
+  </li>
+</ul>
+
+<ul class="microslots">
+  <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <a href="http://www.babelquest.co.uk/" itemprop="url"><h2 itemprop="name">Eric Murphy</h2></a>
+    <p>Why text is better than sex</p>
+  </li>
+  <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <a href="http://afandian.com/" itemprop="url"><h2 itemprop="name">Joe Wass</h2></a>
+    <p>Unit testing in Go</p>
+  </li>
+  <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <a href="https://twitter.com/wwwUDEMIorg" itemprop="url"><h2 itemprop="name">Robert Gerlach</h2></a>
+    <p><a href="http://www.udemi.org/">Bottom-up participation</a></p>
+  </li>
+</ul>
+
+

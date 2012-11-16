@@ -1,0 +1,46 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+sponsor: 
+- Torchbox: sponsor-torchbox.png
+
+# The Geek Night number
+geek_night_number: 23
+
+# Keynoters
+keynoters: [Vicky Buser, Jim Webber]
+---
+<h2>Keynotes</h2>
+
+<p>Keynote speakers are invited to talk at Oxford Geek Nights. So far our confirmed keynotes for OGN23 are:</p>
+
+<ul>
+<li><strong>Telling stories: the ideas behind <a href="http://notube.tv/">NoTube</a></strong>, by Vicky Buser, IA/User Experience Researcher at BBC R&amp;D (<a href="talks/keynote-VickyBuser.pdf">slides</a>)</li>
+<li><strong>Euler be Back: Why graph data rocks my world</strong>, by <a href="http://jimwebber.org/shortbio.html">Jim Webber</a>, Chief Scientist at Neo Technology, the company behind the Neo4j database (<a href="talks/keynote-JimWebber.pdf">slides</a>)</li>
+</ul>
+
+
+<h2>Microslots</h2>
+
+<p>Microslots are five-minute "lightning talks" that anyone can volunteer for. They consist of around five to ten slides and the audience is generally friendly and interested! Here are the confirmed microslots for OGN23:</p>
+
+<ul>
+<li><a href="http://www.e-day.org.uk/" >The Energy Pet</a>, by Matt Prescott</li>
+<li>Linaro: Linux on ARM, by James Tunnicliffe (<a href="talks/microslot-JamesTunnicliffe.odp">slides</a>)</li>
+<li>Why contributing to Drupal is awesome, by <a href="http://twitter.com/robertdouglass">Robert Douglass</a> (<a href="talks/microslot-RobertDouglass.pdf">slides</a>)</li>
+<li>Swirl: Syntactic Sugar to Make Tornado Easy, by <a href="http://necaris.net">Rami Chowdhury</a> (<a href="talks/microslot-RamiChowdhury.tgz">slides</a>)</li>
+</ul>
+
+<p>Want to volunteer a microslot for OGN24 some time in November? <a href="http://bit.ly/ogn-microslot" >Submit your idea here</a> and we'll see you on the night!</p>
+

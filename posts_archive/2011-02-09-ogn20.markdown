@@ -1,0 +1,44 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+sponsor: 
+- Torchbox: sponsor-torchbox.png
+
+# The Geek Night number
+geek_night_number: 20
+
+# Keynoters
+keynoters: [Chris Govias &amp; Andrew Godwin, Alex Powell]
+---
+<h2>Keynotes</h2>
+
+<p>Keynote speakers are invited to talk at Oxford Geek Nights. OGN20 will feature:</p>
+
+<ul>
+<li><a href="http://spacelog.org/" ><strong>SPACE!</strong></a> by Chris Govias, Andrew Godwin and the rest of /dev/fort cohort 5 (<a href="talks/keynote-AndrewGodwin.pdf" >slides</a>, <a href="talks/keynote-JamesAylett.pdf" >slides</a>)</li>
+<li><strong>Mobile App Development: an F1 case study</strong> by Alex Powell, COO of Soft Pauer (<a href="talks/keynote-AlexPowell.ppt">slides</a>)</li>
+</ul>
+
+<h2>Microslots</h2>
+
+<p>These are five-minute "lightning" talks that anyone can volunteer for. Want to volunteer for a microslot at OGN20? They're easy to do: pick something that excites you, or a project you've worked on that you think might be of interest; then talk to a friendly audience for just five minutes with a handful of slides. <a href="http://bit.ly/ogn-microslot" >Submit your microslot</a> and we'll see you on the night!</p>
+
+<p>Currently confirmed microslots are:</p>
+
+<ul>
+<li><strong>Spicing up your web life</strong>, by <a href="http://alunr.com/" >Alun Rowe</a> (<a href="talks/microslot-AlunRowe.pdf">slides</a>)</li>
+<li><strong>Pie charts: good or evil?</strong>, by <a href="http://www.thedatastudio.co.uk/category/blog/the-data-studio-blog/andy-cotgreave" >Andy Cotgreave</a> (<a href="talks/microslot-AndyCotgreave.pdf">slides</a>)</li>
+<li><strong>Transparent swimwear</strong>, by Simon Crossley (<a href="talks/microslot-SimonCrossley.ppt">slides</a>)</li>
+<li><strong><a href="http://matt.west.co.tt/music/jasmid-midi-synthesis-with-javascript-and-html5-audio/" >HTML5 Audio: revenge of the MIDI files</a></strong>, by <a href="http://matt.west.co.tt/" >Matthew Westcott</a> (<a href="talks/microslot-MatthewWestcott.pdf">slides</a>)</li>
+</ul>

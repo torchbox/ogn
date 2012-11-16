@@ -1,0 +1,14 @@
+<section class="header" role="banner">
+  <a href="http://www.torchbox.com" target="_blank" class="tbx-link">Torchbox</a>
+  
+  <div class="animated fadeIn">
+    <h1>Oxford Geek Nights {% if page.geek_night_number %}<span class="event-number">#{{ page.geek_night_number }}</span>{% endif %}</h1>
+    {% if page.geek_night_number %}
+      <meta itemprop="name" content="Oxford Geek Nights #{{ page.geek_night_number }} " />
+      <meta itemprop="startDate" content="{{ page.date | date: "%Y-%m-%d" }}T19:30" />
+      <div class="date-time league">
+        <span class="date">{{ page.date | date: "%d %B %Y" }}</span> | <span class="time">{{ page.time }}</span>
+      </div>
+    {% endif %}
+  </div>
+</section>

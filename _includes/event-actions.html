@@ -1,0 +1,16 @@
+<section>
+  <div class="wrapper event-info">
+
+    {% if page.lanyrd_short_url %}
+      <div class="lanyrd">            
+        <a href="http://lanyrd.com/{{ page.lanyrd_short_url }}" class="button fat" target="_blank">Attend</a>
+        <h2>On Lanyrd</h2>
+      </div>
+    {% endif %}
+
+    <div class="venue" itemprop="location" itemscope itemtype="http://schema.org/Place">
+      <h2 itemprop="name">{{ page.short_address }}</h2>
+      <a class="link-fat" href="{{ page.map_url }}" target="_blank" itemprop="url">View map</a>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,20 @@
+---
+layout: default
+body_class: front
+---
+{% for page in site.posts limit:1 order:ascending %}
+  <div itemscope="itemscope" itemtype="http://schema.org/SocialEvent">
+
+    {% include header.html %}
+
+    <section class="wrapper speakers">
+      {{ page.content }}
+    </section>
+
+    {% include event-actions.html %}
+
+    {% include sponsor.html %}
+
+    {% include social-actions.html %}
+  </div>
+{% endfor %}
