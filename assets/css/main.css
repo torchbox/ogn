@@ -340,7 +340,7 @@ a:hover.link-fat {
     height: 28px;
     width: 120px;
     display: inline-block;
-    background: transparent url("/assets/images/torchbox-sprite.png") top left no-repeat;
+    background: transparent url("../images/torchbox-sprite.png") top left no-repeat;
     background-size: 120px 66px;
     margin: 0 auto 1em;
   }
@@ -580,7 +580,7 @@ a:hover.link-fat {
 @media only screen and (min-width: 35em) {
 
   .header{
-    background-image: url("/assets/images/garrett.jpeg");
+    background-image: url("../images/garrett.jpeg");
     background-position: center center;
     background-repeat: no-repeat;
   }
