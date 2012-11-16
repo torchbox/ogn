@@ -1,12 +1,12 @@
 <section class="sponsor">
   <div class="wrapper">
 	<h3>Organised by</h3>
-	<a href="http://torchbox.com"><img src="/assets/images/sponsor-torchbox.png" alt="Torchbox" style="margin-bottom:20px"/></a>
+	<a href="http://torchbox.com"><img src="{{ site.baseurl }}/assets/images/sponsor-torchbox.png" alt="Torchbox" style="margin-bottom:20px"/></a>
 
     <h3>Sponsored by</h3>
     {% for logo in page.sponsor %} 
       {% for item in logo %}
-        <img src="/assets/images/{{item[1]}}" alt="{{item[0]}}" />
+        <img src="{{ site.baseurl }}/assets/images/{{item[1]}}" alt="{{item[0]}}" />
       {% endfor %}
     {% endfor %}
   </div>

@@ -42,7 +42,7 @@
       {% for post in site.posts offset:1 %}
         {% cycle '<ul class="row">', '', '' %}
           <li>
-            <a href="{{ post.url }}">
+            <a href="{{ site.baseurl }}{{ post.url }}">
               <h3 class="event-number">#{{ post.geek_night_number }}</h3>
               <div class="date league">{{ post.date | date: "%d %B %Y" }}</div>
               <div class="speakers league">
