@@ -20,7 +20,3 @@ And the following gems installed ("sudo gem install xxxx"):
 ## Designers
 
 * Currently no way to get back to the home page
-
-## Developers
- 
-* Insert correct Google Analytics code
