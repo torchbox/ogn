@@ -7,10 +7,12 @@
         <h2>On Lanyrd</h2>
       </div>
     {% endif %}
-
+   
+    {% comment %}
     <div class="venue" itemprop="location" itemscope itemtype="http://schema.org/Place">
       <h2 itemprop="name">{{ page.short_address }}</h2>
-      <a class="link-fat" href="{{ page.map_url }}" target="_blank" itemprop="url">View map</a>
+      <a class="link-fat" href="{{ page.map_url }}" itemprop="url">View map</a>
     </div>
+    {% endcomment %}
   </div>
 </section>

@@ -5,8 +5,11 @@
     <h1 itemprop="name">Oxford Geek Nights {% if page.geek_night_number %}<span class="event-number">#{{ page.geek_night_number }}</span>{% endif %}</h1>
     {% if page.geek_night_number %}
       <meta itemprop="startDate" content="{{ page.date | date: "%Y-%m-%d" }}T19:30" />
-      <div class="date-time league">
+      <div class="date-time">
         <span class="date">{{ page.date | date: "%d %B %Y" }}</span> | <span class="time">{{ page.time }}</span>
+      </div>
+      <div class="venue" itemprop="location" itemscope itemtype="http://schema.org/Place">
+        <a href="{{ page.map_url }}" itemprop="url"><span itemprop="name">{{ page.short_address }}</span></a>
       </div>
     {% endif %}
   </div>

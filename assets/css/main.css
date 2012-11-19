@@ -98,10 +98,6 @@ a:active {
   color: #1aa9d5;
 }
 
-.league {
-  text-transform: uppercase;
-}
-
 p {
   font-size: 0.938em;
 }
@@ -145,10 +141,12 @@ input {
 
 h1, h2, h3, h4, h5, h6,
 input[type="submit"],
+.header,
 .button,
 .league, 
 .link-fat{
   font-family: "league-gothic", Arial Narrow, sans-serif;
+  text-transform:uppercase;
 }
 
 body, 
@@ -304,11 +302,11 @@ a:hover.link-fat {
   margin: 0 auto;
 }
 
-.venue, .lanyrd, .sponsor{
+.lanyrd, .sponsor{
   padding: 0.750em;
 }
 
-.venue, .lanyrd{
+.lanyrd{
   border-bottom: 1px dotted #ccc;
 }
 .vertically-padded{
@@ -328,11 +326,14 @@ a:hover.link-fat {
           background-size: cover;
   text-align: center;
   color: #fff;
-   padding: 1.125em 0;
+  padding: 1.125em 0;
 }
 
   .header a {
     color: #fff;
+  }
+  .header a:hover{
+    color: #DF532D
   }
 
   .tbx-link { 
@@ -349,7 +350,8 @@ a:hover.link-fat {
     background-position-y: -37px;
   }
 
-  .header .date-time {
+  .header .date-time,
+  .header .venue {
     font-size: 1.875em;
   }
 
