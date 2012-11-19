@@ -19,3 +19,4 @@ And the following gems installed ("sudo gem install xxxx"):
 * The site has launched with links to talks from the last 2 years. Others exist (unlinked and not prepared for the new style) in the posts_archive folder.
 * If supported (Github Pages doesn't) the CSS/JS/HTML compression can be toggled with the "compress" configuration variables in _config.yml. 
 * CNAME file in root is used by github to serve pages from the domain specified.
+* All previous OGNs have an explicit permalink in the format "[year]/[mmm]-[dd][ordinal]". This is purely to keep google juice. All future OGNs should have a permalink of "ogn[number]", thus dropping the non-memorable date.

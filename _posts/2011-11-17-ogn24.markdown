@@ -1,6 +1,7 @@
 ---
 # Layout, no need to change this
 layout: event
+permalink: /2011/nov-17th/
 
 # Event time
 time: 7:30pm
