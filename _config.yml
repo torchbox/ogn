@@ -39,6 +39,6 @@ kramdown:
     coderay_css: style
 
 compress:
-  html: true
-  css: true
-  js: true
+  html: false
+  css: false
+  js: false
