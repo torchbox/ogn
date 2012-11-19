@@ -380,8 +380,12 @@ a:hover.link-fat {
   }
 
   .speakers h2 {
+    font-size: 2em;
     line-height: 1em;
   }
+    .keynotes h2 {
+      font-size: 3.125em;
+    }
 
   .speakers a.button:link,
   .speakers a.button:visited { 
@@ -393,16 +397,6 @@ a:hover.link-fat {
   .speakers a.button:active { 
     background-color:  #c03510;
   }
-
-
-.keynotes h2 {
-  font-size: 3.125em;
-}
-
-.microslots h2 {
-  font-size: 2em;
-}
-
 
 .downloads {
   margin: 0.25em auto 0;
@@ -585,12 +579,12 @@ a:hover.link-fat {
     background-repeat: no-repeat;
   }
 
-  .keynotes h2 {
-    font-size: 4.125em;
-  }
-  .microslots h2 {
+  .speakers h2{
     font-size: 2.5em;
   }
+    .keynotes h2 {
+      font-size: 4.125em;
+    }
 
   .hashtag {
     font-size: 6em;

@@ -40,7 +40,7 @@ keynoters: [Simon Whitaker, Michael W Story]
   </li>
 </ul>
 
-<ul class="microslots">
+<ul>
   <li>
     <h2>Duncan Hodges</h2>
     <p><a href="http://www.cybersecurity.ox.ac.uk/">Humans in Cyber Security</a>,</p>

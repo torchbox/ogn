@@ -13,7 +13,6 @@ map_url: http://bit.ly/Pesy75
 
 # Sponsors in the form - [name]: [logo imag path (in /assets/images)]
 sponsor: 
-- Torchbox: sponsor-torchbox.png
 
 # The Geek Night number
 geek_night_number: 18
@@ -26,7 +25,7 @@ keynoters: [Russell M Davies]
 <p>Keynote speakers are invited to talk at Oxford Geek Nights. OGN18 will feature:</p>
 
 <ul>
-<li><strong>PhysiViz: what we've learned from printing the internet out and making it into stuff</strong>, by <a href="http://russelldavies.typepad.com/">Russell M Davies</a>, organizer of <a href="http://www.interesting2007.com/" >interesting2007</a> and <a href="http://www.interesting2008.com/" >2008</a>, writer for <a href="http://www.wired.co.uk/" >Wired</a> and <a href="http://www.speechification.com/" >Speechification</a> contributor (<a href="http://vimeo.com/13877537">video</a>)</li>
+<li><strong>PhysiViz: what we've learned from printing the internet out and making it into stuff</strong>, by <a href="http://russelldavies.typepad.com/">Russell M Davies</a>, organizer of <a href="http://www.interesting2007.com/" >interesting2007</a> and <a href="http://www.interesting2008.com/" >2008</a>, writer for <a href="http://www.wired.co.uk/" >Wired</a> and <a href="http://www.speechification.com/" >Speechification</a> contributor <div class="downloads"><a href="http://vimeo.com/13877537">video</a></div></li>
 </ul>
 
 <h2>Microslots</h2>
@@ -34,11 +33,11 @@ keynoters: [Russell M Davies]
 <p>These are five-minute "lightning" talks that anyone can volunteer for. Here's our confirmed microslots for OGN18:</p>
 
 <ul>
-<li><strong>Designing Backwards</strong>, by <a href="http://becausewesayso.co.uk/" >Wes West</a>  (<a href="http://vimeo.com/13828511">video</a>)</li>
-<li><strong><a href="http://opencorrespondence.org/">What the Dickens? - mining the 19th century web</a></strong>, by <a href="http://austgate.co.uk/" >Iain Emsley</a> (<a href="http://vimeo.com/13848090">video</a>) (<a href="talks/microslot-IainEmsley.odp">slides</a>) </li>
-<li><strong>A, T, C, G and You: an introduction to the new genomics</strong>, by <a href="http://greenisgood.co.uk/" >Matt Wood</a> (<a href="talks/microslot-MattWood.ppt">slides</a>)</li>
-<li><strong>CSS Filters</strong>, by <a href="http://hicksdesign.co.uk/" >Jon Hicks</a> (<a href="http://vimeo.com/13827969">video</a>) (<a href="talks/microslot-JonHicks.pdf">slides</a>)</li>
-<li><strong>#fridaymix</strong>, by <a href="http://jamesturnbull.org/">James Turnbull</a> (<a href="http://vimeo.com/13847895">video</a>) (<a href="talks/microslot-JamesTurnbull.ppt">slides (7MB)</a>)</li>
+<li><strong>Designing Backwards</strong>, by <a href="http://becausewesayso.co.uk/" >Wes West</a>  <div class="downloads"><a href="http://vimeo.com/13828511">video</a></div></li>
+<li><strong><a href="http://opencorrespondence.org/">What the Dickens? - mining the 19th century web</a></strong>, by <a href="http://austgate.co.uk/" >Iain Emsley</a> <div class="downloads"><a href="http://vimeo.com/13848090">video</a></div> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-IainEmsley.odp">slides</a></div> </li>
+<li><strong>A, T, C, G and You: an introduction to the new genomics</strong>, by <a href="http://greenisgood.co.uk/" >Matt Wood</a> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-MattWood.ppt">slides</a></div></li>
+<li><strong>CSS Filters</strong>, by <a href="http://hicksdesign.co.uk/" >Jon Hicks</a> <div class="downloads"><a href="http://vimeo.com/13827969">video</a></div> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-JonHicks.pdf">slides</a></div></li>
+<li><strong>#fridaymix</strong>, by <a href="http://jamesturnbull.org/">James Turnbull</a> <div class="downloads"><a href="http://vimeo.com/13847895">video</a></div> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-JamesTurnbull.ppt">slides (7MB)</a></div></li>
 </ul>
 
 <p>Want to volunteer for a microslot at OGN 19 some time in December? They're easy to do: pick something that excites you, or a project you've worked on that you think might be of interest; then talk to a friendly audience for just five minutes with a handful of slides. <a href="http://natbat.wufoo.com/forms/oxford-geek-night-microslot-proposal/" >Submit your microslot</a> and we'll see you on the night!</p>

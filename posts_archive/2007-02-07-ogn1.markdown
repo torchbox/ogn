@@ -13,7 +13,6 @@ map_url: http://bit.ly/Pesy75
 
 # Sponsors in the form - [name]: [logo imag path (in /assets/images)]
 sponsor: 
-- Torchbox: sponsor-torchbox.png
 
 # The Geek Night number
 geek_night_number: 1
@@ -24,26 +23,26 @@ keynoters: [Simon Willison, Olly Willans]
 
 <h2>Keynotes</h2>
 <ul>
-<li><strong><a href="http://simonwillison.net/">Simon Willison</a></strong> - An Introduction to OpenID (<a href="talks/Simon_Willison.mp3">podcast</a>) (<a href="talks/Simon_Willison.zip">slides as zip</a>) (<a href="http://simonwillison.net/2007/Feb/10/future/">write-up</a>)</li>
-<li><strong><a href="http://www.torchbox.com/people/olly/index.html">Olly Willans</a></strong> - Demonstration of Photoshop CS3 (<a href="talks/Olly_Willans.mp3">podcast</a>)</li>
+<li><strong><a href="http://simonwillison.net/">Simon Willison</a></strong> - An Introduction to OpenID <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Simon_Willison.mp3">podcast</a></div> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Simon_Willison.zip">slides as zip</a></div> <div class="downloads"><a href="http://simonwillison.net/2007/Feb/10/future/">write-up</a></div></li>
+<li><strong><a href="http://www.torchbox.com/people/olly/index.html">Olly Willans</a></strong> - Demonstration of Photoshop CS3 <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Olly_Willans.mp3">podcast</a></div></li>
 </ul>
 
 <h2>Microslot set one</h2>
 <ul>
-<li><strong><a href="http://www.throwingbeans.org/">Tom Dyson</a></strong> - Peastat (<a href="talks/Tom_Dyson.mp3">podcast</a>)</li>
-<li><strong><a href="http://jonathanleighton.com/">Jonathan Leighton</a></strong> - Ruby On Rails Migrations (<a href="talks/Jonathan_Leighton.mp3">podcast</a>) (<a href="talks/Jonathan_Leighton.pdf">slides</a>)</li>
-<li><strong><a href="http://www.timalmond.com/">Tim Almond</a></strong> - Wordpress as a CMS (<a href="talks/Tim_Almond.mp3">podcast</a>) (<a href="talks/Tim_Almond.pdf">slides</a>) (<a href="http://www.timalmond.com/journal/2007/2/10/an-eventful-few-days.html">write-up</a>)</li>
-<li><strong>Gemma Hentsch</strong> - Concatenating forms, a Django extension (<a href="talks/Gemma_Hentsch.mp3">podcast</a>) (<a href="talks/Gemma_Hentsch.pdf">slides</a>)</li>
-<li><strong><a href="http://polytechnic.co.uk/">Garrett Coakley</a></strong> - Drupal 5 (<a href="talks/Garrett_Coakley.mp3">podcast</a>) (<a href="talks/Garrett_Coakley.pdf">slides</a>) (<a href="http://polytechnic.co.uk/blog/2007/02/oxford_geek_night_drupal_presentation">write-up</a>)</li>
-<li><strong><a href="http://www.jpstacey.info/blog/">JP Stacey</a></strong> - Building an ultra thin CMS with XSL and Atom (<a href="talks/JP_Stacey.mp3">podcast</a>) (<a href="talks/JP_Stacey.pdf">slides</a>) (<a href="http://www.jpstacey.info/blog/2007/02/08/geeknight-1-collect-the-whole-series/">write-up</a>)</li>
+<li><strong><a href="http://www.throwingbeans.org/">Tom Dyson</a></strong> - Peastat <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Tom_Dyson.mp3">podcast</a></div></li>
+<li><strong><a href="http://jonathanleighton.com/">Jonathan Leighton</a></strong> - Ruby On Rails Migrations <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Jonathan_Leighton.mp3">podcast</a></div> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Jonathan_Leighton.pdf">slides</a></div></li>
+<li><strong><a href="http://www.timalmond.com/">Tim Almond</a></strong> - Wordpress as a CMS <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Tim_Almond.mp3">podcast</a></div> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Tim_Almond.pdf">slides</a></div> <div class="downloads"><a href="http://www.timalmond.com/journal/2007/2/10/an-eventful-few-days.html">write-up</a></div></li>
+<li><strong>Gemma Hentsch</strong> - Concatenating forms, a Django extension <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Gemma_Hentsch.mp3">podcast</a></div> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Gemma_Hentsch.pdf">slides</a></div></li>
+<li><strong><a href="http://polytechnic.co.uk/">Garrett Coakley</a></strong> - Drupal 5 <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Garrett_Coakley.mp3">podcast</a></div> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Garrett_Coakley.pdf">slides</a></div> <div class="downloads"><a href="http://polytechnic.co.uk/blog/2007/02/oxford_geek_night_drupal_presentation">write-up</a></div></li>
+<li><strong><a href="http://www.jpstacey.info/blog/">JP Stacey</a></strong> - Building an ultra thin CMS with XSL and Atom <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/JP_Stacey.mp3">podcast</a></div> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/JP_Stacey.pdf">slides</a></div> <div class="downloads"><a href="http://www.jpstacey.info/blog/2007/02/08/geeknight-1-collect-the-whole-series/">write-up</a></div></li>
 </ul>
 
 <h2>Microslot set two</h2>
 <ul>
-<li><strong><a href="http://gagravarr.org/">Nick Burch</a></strong> - <a href="http://www.npemap.org.uk/">New Popular Edition Maps</a> (<a href="talks/Nick_Burch.mp3">podcast</a>)</li>
-<li><strong>Artem Pavlenko</strong> - <a href="http://mapnik.org/">Mapnik</a>, a map rendering engine (<a href="talks/Artem_Pavlenko.mp3">podcast</a>) (<a href="talks/Artem_Pavlenko.pdf">slides</a>)</li>
-<li><strong><a href="http://matt.west.co.tt/">Matthew Westcott</a></strong> - London Underground Tube map demonstration (<a href="talks/Matthew_Westcott.mp3">podcast</a>)</li>
-<li><strong><a href="http://www.makemineatriple.com/">Bryan Gullan</a></strong> - Avoiding accessibility pitfalls (<a href="talks/Bryan_Gullan.mp3">podcast</a>) (<a href="talks/Bryan_Gullan.pdf">slides</a>) (<a href="http://www.makemineatriple.com/2007/02/geeknight1/">write-up</a>)</li>
-<li><strong><a href="http://james.wheare.org/notes/">James Wheare</a><a></a></strong><a> - </a><a href="http://www.livebus.org/">Live Bus Times</a>, a Google maps mashup (<a href="talks/James_Wheare.mp3">podcast</a>) (<a href="http://james.wheare.org/notes/2007/02/livebusorg-launched.php">write-up</a>)</li>
+<li><strong><a href="http://gagravarr.org/">Nick Burch</a></strong> - <a href="http://www.npemap.org.uk/">New Popular Edition Maps</a> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Nick_Burch.mp3">podcast</a></div></li>
+<li><strong>Artem Pavlenko</strong> - <a href="http://mapnik.org/">Mapnik</a>, a map rendering engine <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Artem_Pavlenko.mp3">podcast</a></div> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Artem_Pavlenko.pdf">slides</a></div></li>
+<li><strong><a href="http://matt.west.co.tt/">Matthew Westcott</a></strong> - London Underground Tube map demonstration <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Matthew_Westcott.mp3">podcast</a></div></li>
+<li><strong><a href="http://www.makemineatriple.com/">Bryan Gullan</a></strong> - Avoiding accessibility pitfalls <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Bryan_Gullan.mp3">podcast</a></div> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/Bryan_Gullan.pdf">slides</a></div> <div class="downloads"><a href="http://www.makemineatriple.com/2007/02/geeknight1/">write-up</a></div></li>
+<li><strong><a href="http://james.wheare.org/notes/">James Wheare</a><a></a></strong><a> - </a><a href="http://www.livebus.org/">Live Bus Times</a>, a Google maps mashup <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/James_Wheare.mp3">podcast</a></div> <div class="downloads"><a href="http://james.wheare.org/notes/2007/02/livebusorg-launched.php">write-up</a></div></li>
 </ul>
 

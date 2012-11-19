@@ -34,7 +34,7 @@ keynoters: [Paul Annett &amp; Tim Paul]
  </ul>
 
 
-<ul class="microslots">
+<ul>
   <li>
     <h2>Chris Rimmer</h2>
     <p>Getting mutants to test your tests</p>

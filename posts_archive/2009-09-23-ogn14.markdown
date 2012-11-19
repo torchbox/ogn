@@ -13,7 +13,6 @@ map_url: http://bit.ly/Pesy75
 
 # Sponsors in the form - [name]: [logo imag path (in /assets/images)]
 sponsor: 
-- Torchbox: sponsor-torchbox.png
 
 # The Geek Night number
 geek_night_number: 14
@@ -30,7 +29,7 @@ keynoters: [Michael Mahemoff, Richard Pope]
 <p>Our confirmed keynotes are:</p>
 
 <ul>
-<li><strong><a href="http://softwareas.com/the-new-registration-and-login-grammars" >Take a Walk on the Happy Path</a></strong>, by <a href="http://softwareas.com/" >Michael Mahemoff</a>, pattern and strategy wrangler at <a href="http://osmosoft.com/" >BT Osmosoft</a> (<a href="talks/keynote-MichaelMahemoff.zip">slides</a>) (<a href="http://ogn.s3.amazonaws.com/14-MichaelMahemoff.mp4">video</a>)</li>
+<li><strong><a href="http://softwareas.com/the-new-registration-and-login-grammars" >Take a Walk on the Happy Path</a></strong>, by <a href="http://softwareas.com/" >Michael Mahemoff</a>, pattern and strategy wrangler at <a href="http://osmosoft.com/" >BT Osmosoft</a> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/keynote-MichaelMahemoff.zip">slides</a></div> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/14-MichaelMahemoff.mp4">video</a></div></li>
 <li><strong>ErnestMarples.com: what YOU need to do to free the postcode</strong>, by <a href="http://memespring.co.uk/">Richard Pope</a>, co-founder of the <a href="http://ernestmarples.com/" >Ernest Marples postcode project</a></li>
 </ul>
 
@@ -43,8 +42,8 @@ keynoters: [Michael Mahemoff, Richard Pope]
 <p>Currently confirmed microslots:</p>
 
 <ul>
-<li><strong><a href="http://hth.im" >Happy To Help: a social search utility</a></strong>, by <a href="http://jivatechnology.com" >Peter Ferne</a> (<a href="talks/microslot-PeterFerne.pdf">slides</a>) (<a href="http://ogn.s3.amazonaws.com/14-PeterFerne.mp4">video</a>)</li>
-<li><strong>Estate Agency Two Point Zero</strong>, by  Kris Northfield (<a href="talks/microslot-KrisNorthfield.pdf">slides</a>) (<a href="http://ogn.s3.amazonaws.com/14-KrisNorthfield.mp4">video</a>)</li>
-<li><strong><a href="http://www.myvcorp.com  " >myvcorp</a></strong>, by  Anastasios Smeros (<a href="talks/microslot-AnastasiosSmeros.pdf">slides</a>) (<a href="http://ogn.s3.amazonaws.com/14-AnastasiosSmeros.mp4">video</a>)</li>
-<li><strong><a href="http://www.microsoft.com/expression/products/Sketchflow_Overview.aspx" >Rapid Application Prototyping with Sketchflow</a></strong>, by <a href="http://blogs.technet.com/tarpara" >Viral Tarpara</a> (<a href="http://www.slideshare.net/ukdpe/prototyping-with-sketchflow">slides</a>) (<a href="http://ogn.s3.amazonaws.com/14-ViralTarpara.mp4">video</a>)</li>
+<li><strong><a href="http://hth.im" >Happy To Help: a social search utility</a></strong>, by <a href="http://jivatechnology.com" >Peter Ferne</a> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-PeterFerne.pdf">slides</a></div> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/14-PeterFerne.mp4">video</a></div></li>
+<li><strong>Estate Agency Two Point Zero</strong>, by  Kris Northfield <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-KrisNorthfield.pdf">slides</a></div> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/14-KrisNorthfield.mp4">video</a></div></li>
+<li><strong><a href="http://www.myvcorp.com  " >myvcorp</a></strong>, by  Anastasios Smeros <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-AnastasiosSmeros.pdf">slides</a></div> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/14-AnastasiosSmeros.mp4">video</a></div></li>
+<li><strong><a href="http://www.microsoft.com/expression/products/Sketchflow_Overview.aspx" >Rapid Application Prototyping with Sketchflow</a></strong>, by <a href="http://blogs.technet.com/tarpara" >Viral Tarpara</a> <div class="downloads"><a href="http://www.slideshare.net/ukdpe/prototyping-with-sketchflow">slides</a></div> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/14-ViralTarpara.mp4">video</a></div></li>
 </ul>

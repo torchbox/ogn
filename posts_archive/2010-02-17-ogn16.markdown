@@ -13,7 +13,6 @@ map_url: http://bit.ly/Pesy75
 
 # Sponsors in the form - [name]: [logo imag path (in /assets/images)]
 sponsor: 
-- Torchbox: sponsor-torchbox.png
 
 # The Geek Night number
 geek_night_number: 16
@@ -30,8 +29,8 @@ keynoters: [Chris Thorpe, Garrett Coakley]
 <p>Keynote speakers are invited to talk at Oxford Geek Nights. OGN16 will feature:</p>
 
 <ul>
-<li><strong>The New Raw Materials and Data Chemistry</strong>, by Chris Thorpe, founder of <a href="http://blog.jaggeree.com/" >Jaggeree</a> (<a href="http://ogn.s3.amazonaws.com/16-ChrisThorpe.mp4">video</a>)</li>
-<li><strong>How To Herd Cats: tips on running a successful online community</strong>, by <a href="http://polytechnic.co.uk/" >Garrett Coakley</a> (<a href="http://www.slideshare.net/garrettc/how-to-herd-cats-tips-on-running-a-successful-online-community-oxford-geek-night-16">slides</a>) (<a href="http://ogn.s3.amazonaws.com/16-GarrettCoakley.mp4">video</a>)</li>
+<li><strong>The New Raw Materials and Data Chemistry</strong>, by Chris Thorpe, founder of <a href="http://blog.jaggeree.com/" >Jaggeree</a> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/16-ChrisThorpe.mp4">video</a></div></li>
+<li><strong>How To Herd Cats: tips on running a successful online community</strong>, by <a href="http://polytechnic.co.uk/" >Garrett Coakley</a> <div class="downloads"><a href="http://www.slideshare.net/garrettc/how-to-herd-cats-tips-on-running-a-successful-online-community-oxford-geek-night-16">slides</a></div> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/16-GarrettCoakley.mp4">video</a></div></li>
 </ul>
 
 <h2>Microslots</h2>
@@ -41,9 +40,9 @@ keynoters: [Chris Thorpe, Garrett Coakley]
 <p>Confirmed microslots for OGN16 are:</p>
 
 <ul>
-<li><strong>Dark Ages 2.0</strong>, by <a href="http://simonmhawkins.com/" >Simon Hawkins</a> (<a href="talks/microslot-SimonHawkins.ppt">slides</a>) (<a href="http://ogn.s3.amazonaws.com/16-SimonHawkins.mp4">video</a>)</li>
-<li><strong><a href="http://subj3ct.com/" >Subj3ct - Making the Semantic Web Work</a></strong>, by <a href="http://www.techquila.com/blog" >Kal Ahmed</a> (<a href="http://www.slideshare.net/NetworkedPlanet/subj3ct-oxford-geek-night">slides</a>) (<a href="http://ogn.s3.amazonaws.com/16-KalAhmed.mp4">video</a>)</li>
-<li><strong><a href="http://targetjobs.co.uk/" >Creating a graduate jobs and advice website with Drupal</a></strong>, by <a href="http://groupgti.com/" >Johan Gant</a> (<a href="talks/microslot-JohanGant.odp">slides</a>) (<a href="http://ogn.s3.amazonaws.com/16-JohanGant.mp4">video</a>)</li>
-<li><strong>The Zombie Cookie Apocalypse</strong>, by David Sheldon (<a href="talks/microslot-DavidSheldon.pdf">slides</a>) (<a href="http://ogn.s3.amazonaws.com/16-DavidSheldon.mp4">video</a>)</li>
-<li><strong><a href="http://snow.torchbox.com/">Snowtime at Torchbox</a>, by Wes West and Andrew Godwin</strong> (<a href="http://ogn.s3.amazonaws.com/16-WesWestAndAndrewGodwin.mp4">video</a>)</li>
+<li><strong>Dark Ages 2.0</strong>, by <a href="http://simonmhawkins.com/" >Simon Hawkins</a> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-SimonHawkins.ppt">slides</a></div> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/16-SimonHawkins.mp4">video</a></div></li>
+<li><strong><a href="http://subj3ct.com/" >Subj3ct - Making the Semantic Web Work</a></strong>, by <a href="http://www.techquila.com/blog" >Kal Ahmed</a> <div class="downloads"><a href="http://www.slideshare.net/NetworkedPlanet/subj3ct-oxford-geek-night">slides</a></div> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/16-KalAhmed.mp4">video</a></div></li>
+<li><strong><a href="http://targetjobs.co.uk/" >Creating a graduate jobs and advice website with Drupal</a></strong>, by <a href="http://groupgti.com/" >Johan Gant</a> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-JohanGant.odp">slides</a></div> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/16-JohanGant.mp4">video</a></div></li>
+<li><strong>The Zombie Cookie Apocalypse</strong>, by David Sheldon <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-DavidSheldon.pdf">slides</a></div> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/16-DavidSheldon.mp4">video</a></div></li>
+<li><strong><a href="http://snow.torchbox.com/">Snowtime at Torchbox</a>, by Wes West and Andrew Godwin</strong> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/16-WesWestAndAndrewGodwin.mp4">video</a></div></li>
 </ul>

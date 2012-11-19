@@ -13,7 +13,6 @@ map_url: http://bit.ly/Pesy75
 
 # Sponsors in the form - [name]: [logo imag path (in /assets/images)]
 sponsor: 
-- Torchbox: sponsor-torchbox.png
 
 # The Geek Night number
 geek_night_number: 17
@@ -26,8 +25,8 @@ keynoters: [Andrew Katz, Rebecca Gill]
 <p>Keynote speakers are invited to talk at Oxford Geek Nights. OGN17 will feature:</p>
 
 <ul>
-<li><strong>GPL: not very dangerous really</strong>, by Andrew Katz, partner at <a href="http://www.moorcrofts.com/" >Moorcrofts LLP</a> (<a href="http://ogn.s3.amazonaws.com/17-AndrewKatz.mp4">video</a>)</li>
-<li><strong>User centred design: be careful not to listen to everything your users say</strong>, by Rebecca Gill, head of customer insight at <a href="http://www.bunnyfoot.com/" >Bunnyfoot</a> (<a href="http://ogn.s3.amazonaws.com/17-RebeccaGill.mp4">video</a>)</li>
+<li><strong>GPL: not very dangerous really</strong>, by Andrew Katz, partner at <a href="http://www.moorcrofts.com/" >Moorcrofts LLP</a> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/17-AndrewKatz.mp4">video</a></div></li>
+<li><strong>User centred design: be careful not to listen to everything your users say</strong>, by Rebecca Gill, head of customer insight at <a href="http://www.bunnyfoot.com/" >Bunnyfoot</a> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/17-RebeccaGill.mp4">video</a></div></li>
 </ul>
 
 <h2>Microslots</h2>
@@ -37,8 +36,8 @@ keynoters: [Andrew Katz, Rebecca Gill]
 <p>Here's our confirmed microslots for OGN17:</p>
 
 <ul>
-<li><strong><a href="http://www.smartboxoftricks.com/">Twonky + smart box of tricks = &pound;</a></strong>, by Jon Baxter (<a href="http://ogn.s3.amazonaws.com/17-JonBaxter.mp4">video</a>)</li>
-<li><strong><a href="http://developer.yahoo.com/yql/">YQL for your mashup</a></strong>, by David Sheldon (<a href="http://ogn.s3.amazonaws.com/17-DavidSheldon.mp4">video</a> <a href="http://docs.google.com/present/view?id=dm6njpj_78hrn8dxdb">slides</a>)</li>
-<li><strong><a href="http://www.eventility.co.uk/">Eventility - event and venue provenance</a></strong>, by <a href="http://www.inapub.co.uk/">Robin Brattel</a> (<a href="http://ogn.s3.amazonaws.com/17-RobinBrattel.mp4">video</a>)</li>
-<li><strong>What Elvis and Bros have to do with Digital</strong>, by Rob Salmon (<a href="http://ogn.s3.amazonaws.com/17-RobSalmon.mp4">video</a>)</li>
+<li><strong><a href="http://www.smartboxoftricks.com/">Twonky + smart box of tricks = &pound;</a></strong>, by Jon Baxter <div class="downloads"><a href="http://ogn.s3.amazonaws.com/17-JonBaxter.mp4">video</a></div></li>
+<li><strong><a href="http://developer.yahoo.com/yql/">YQL for your mashup</a></strong>, by David Sheldon <div class="downloads"><a href="http://ogn.s3.amazonaws.com/17-DavidSheldon.mp4">video</a> <a href="http://docs.google.com/present/view?id=dm6njpj_78hrn8dxdb">slides</a></div></li>
+<li><strong><a href="http://www.eventility.co.uk/">Eventility - event and venue provenance</a></strong>, by <a href="http://www.inapub.co.uk/">Robin Brattel</a> <div class="downloads"><a href="http://ogn.s3.amazonaws.com/17-RobinBrattel.mp4">video</a></div></li>
+<li><strong>What Elvis and Bros have to do with Digital</strong>, by Rob Salmon <div class="downloads"><a href="http://ogn.s3.amazonaws.com/17-RobSalmon.mp4">video</a></div></li>
 </ul>

@@ -36,7 +36,7 @@ keynoters: [Jamie Andrews, Chris Thorpe]
   </li>
 </ul>
 
-<ul class="microslots">
+<ul>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <a href="http://www.babelquest.co.uk/" itemprop="url"><h2 itemprop="name">Eric Murphy</h2></a>
     <p>Why text is better than sex</p>

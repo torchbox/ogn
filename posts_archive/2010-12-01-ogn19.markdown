@@ -13,7 +13,6 @@ map_url: http://bit.ly/Pesy75
 
 # Sponsors in the form - [name]: [logo imag path (in /assets/images)]
 sponsor: 
-- Torchbox: sponsor-torchbox.png
 
 # The Geek Night number
 geek_night_number: 19
@@ -27,8 +26,8 @@ keynoters: [Leila Johnston, David Caruana]
 <p>Keynote speakers are invited to talk at Oxford Geek Nights. OGN19 will feature:</p>
 
 <ul>
-<li><a href="http://finalbullet.com/" ><strong>Making things fast</strong></a>, by <a href="http://enemyofchaos.wordpress.com/">Leila Johnston</a>, podcaster, newspaper editor, comedy writer and punk broadcaster (<a href="talks/keynote-LeilaJohnston.pdf">slides</a>, <a href="http://vimeo.com/17555310">video</a>)</li>
-<li><strong>CMIS: encouraging connections</strong>, by David Caruana, <a href="http://www.alfresco.com/" >Alfresco</a> (<a href="talks/keynote-DavidCaruana.pdf">slides</a>, <a href="http://vimeo.com/17555846">video</a>)</li>
+<li><a href="http://finalbullet.com/" ><strong>Making things fast</strong></a>, by <a href="http://enemyofchaos.wordpress.com/">Leila Johnston</a>, podcaster, newspaper editor, comedy writer and punk broadcaster <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/keynote-LeilaJohnston.pdf">slides</a>, <a href="http://vimeo.com/17555310">video</a></div></li>
+<li><strong>CMIS: encouraging connections</strong>, by David Caruana, <a href="http://www.alfresco.com/" >Alfresco</a> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/keynote-DavidCaruana.pdf">slides</a>, <a href="http://vimeo.com/17555846">video</a></div></li>
 </ul>
 
 <h2>Microslots</h2>
@@ -38,8 +37,8 @@ keynoters: [Leila Johnston, David Caruana]
 <p>Currently confirmed microslots are:</p>
 
 <ul>
-<li><strong>Internet Plumbing for Beginners</strong>, by <a href="http://crouchingbadger.com/" >Ben Ward</a> (<a href="talks/microslot-BenWard.pdf">slides</a>, <a href="http://vimeo.com/17556203" >video</a>)</li>
-<li><strong><a href="http://blog.mattythorne.com/2010/09/18/scribblybot-the-full-story/">Industrial Twitter Robot Slays Oxford Geeks; Total Carnage At Local Tech Event</a></strong>, by Matt Thorne (<a href="talks/microslot-MatthewThorne.pdf">slides</a>, <a href="http://vimeo.com/17556051" >video</a>)</li>
-<li><strong><a href="http://m.ox.ac.uk" >Mobile Ox and the Molly Project</a></strong>, by <a href="http://timfernando.com" >Tim Fernando</a> (<a href="talks/microslot-TimFernando.pdf" >slides</a>) (<a href="http://vimeo.com/17556309" >video</a>)</li>
-<li><strong>J2EE vs Python for web development</strong>, by <a href="http://www.dnorth.net" >David North</a> (<a href="talks/microslot-DavidNorth.odp">slides</a>, <a href="http://vimeo.com/17555446" >video</a>)</li>
+<li><strong>Internet Plumbing for Beginners</strong>, by <a href="http://crouchingbadger.com/" >Ben Ward</a> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-BenWard.pdf">slides</a>, <a href="http://vimeo.com/17556203" >video</a></div></li>
+<li><strong><a href="http://blog.mattythorne.com/2010/09/18/scribblybot-the-full-story/">Industrial Twitter Robot Slays Oxford Geeks; Total Carnage At Local Tech Event</a></strong>, by Matt Thorne <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-MatthewThorne.pdf">slides</a>, <a href="http://vimeo.com/17556051" >video</a></div></li>
+<li><strong><a href="http://m.ox.ac.uk" >Mobile Ox and the Molly Project</a></strong>, by <a href="http://timfernando.com" >Tim Fernando</a> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-TimFernando.pdf" >slides</a></div> <div class="downloads"><a href="http://vimeo.com/17556309" >video</a></div></li>
+<li><strong>J2EE vs Python for web development</strong>, by <a href="http://www.dnorth.net" >David North</a> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-DavidNorth.odp">slides</a>, <a href="http://vimeo.com/17555446" >video</a></div></li>
 </ul>

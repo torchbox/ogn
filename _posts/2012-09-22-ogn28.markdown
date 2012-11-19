@@ -37,7 +37,7 @@ keynoters: [Ferment, James Darling]
   </li>
 </ul>
 
-<ul class="microslots">
+<ul>
   <li>
     <h2><a href="http://www.charlieperrins.com/">Charlie Perrins</a></h2>
     <p>JavaScript UI, accessibility &amp; keyboard navigation, by </p>
