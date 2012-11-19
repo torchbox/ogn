@@ -1,5 +1,7 @@
 $(function () {
   
+  var isDownload = new RegExp("\\.(7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|key|mp(2|3|4|e?g)|mov(ie)?|msi|msp|odp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip)$", "i");
+
   // enable resizing of main event number
   $(".header .event-number").fitText(0.45, { minFontSize: '96px', maxFontSize: '300px' });
 
@@ -30,7 +32,6 @@ $(function () {
   $(document).on('click', function(event) {
     $(event.target).closest("a,area").each(function() {
       var isInternal = new RegExp("^(https?):\/\/" + window.location.host, "i");
-      var isDownload = new RegExp("\\.(7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|odp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip)$", "i");
 
       if (isInternal.test(this.href)) {
         if (isDownload.test(this.href)) {
@@ -45,5 +46,13 @@ $(function () {
         window.open(this.href);
       }
     });
+  });
+  
+
+ $('#guessdownload').each(function(){
+    var filename404 = location.pathname.substr(location.pathname.lastIndexOf("/")+1,location.pathname.length);
+    if (isDownload.test(filename404)) {
+       $(this).show().find('.link-fat').attr("href", $(this).attr("href") + filename404);
+    }   
   });
 });

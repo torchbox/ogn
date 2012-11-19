@@ -98,10 +98,6 @@ a:active {
   color: #1aa9d5;
 }
 
-p {
-  font-size: 0.938em;
-}
-
 ul, li {
   list-style: none;
   padding: 0px;
@@ -122,6 +118,12 @@ h1 {
   text-transform: uppercase;
   font-size: 3em;
 }
+
+p {
+  font-size: 0.938em;
+  margin:0 0 1em 0;
+}
+
 
 input {
   font-size: 0.75em;
@@ -371,6 +373,9 @@ a:hover.link-fat {
   border-bottom: 1px dotted #ccc;
   padding: 1em;
 }
+  .speakers p{
+    margin:0;
+  }
   .speakers a:link,
   .speakers a:visited {
     color: #DF532D;
@@ -568,6 +573,17 @@ a:hover.link-fat {
       color: #4d4547;
       font-size: 1.35em;
     }
+
+
+
+/*
+ * 404 page
+ */
+#guessdownload{
+  display:none;
+}
+
+
 
 /*
  * MEDIA QUERIES
