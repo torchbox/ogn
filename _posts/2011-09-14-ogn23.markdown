@@ -21,7 +21,7 @@ geek_night_number: 23
 keynoters: [Vicky Buser, Jim Webber]
 ---
 <ul class="keynotes">
-<li><h2>Vicky Buser</h2><p>Telling stories: the ideas behind <a href="http://notube.tv/">NoTube</a></strong></p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/keynote-VickyBuser.pdf">slides</a></div></li>
+<li><h2>Vicky Buser</h2><p>Telling stories: the ideas behind <a href="http://notube.tv/">NoTube</a></p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/keynote-VickyBuser.pdf">slides</a></div></li>
 <li><h2><a href="http://jimwebber.org/shortbio.html">Jim Webber</a></h2><p>Euler be Back: Why graph data rocks my world</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/keynote-JimWebber.pdf">slides</a></div></li>
 </ul>
 
