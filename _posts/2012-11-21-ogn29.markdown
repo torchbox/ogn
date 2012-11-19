@@ -49,6 +49,10 @@ keynoters: [Jamie Andrews, Chris Thorpe]
     <a href="https://twitter.com/wwwUDEMIorg" itemprop="url"><h2 itemprop="name">Robert Gerlach</h2></a>
     <p><a href="http://www.udemi.org/">Bottom-up participation</a></p>
   </li>
+  <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <a href="http://www.jpstacey.info/" itemprop="url"><h2 itemprop="name">J-P Stacey</h2></a>
+    <p>Turning Kindles into literacy</p>
+  </li>
 </ul>
 
 
