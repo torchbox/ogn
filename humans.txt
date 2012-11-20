@@ -14,3 +14,4 @@
   Jekyll, Liquid, Yui-compressor, Uglify
   HTML5, CSS3
   jQuery, Modernizr
+  Amazon S3, Github Pages
