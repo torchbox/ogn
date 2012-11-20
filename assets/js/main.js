@@ -62,7 +62,7 @@ $(function () {
         200: function() {
           thelink.attr("href", thelink.attr("href") + filename404);
           $this.fadeIn();
-        }
+        },
         404: function(){
           $('#downloadnotfound').fadeIn();
         }
