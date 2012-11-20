@@ -57,9 +57,11 @@ $(function () {
       type: "HEAD",
       async: true,
       url: thelink.attr("href") + filename404,
-      success: function(message,text,response){
-        thelink.attr("href", thelink.attr("href") + filename404);
-        $(this).show();
+      statusCode: { 
+        200: function() {
+          thelink.attr("href", thelink.attr("href") + filename404);
+          $(this).show();
+        }
       }
     });
   });
