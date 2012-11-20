@@ -51,8 +51,10 @@ $(function () {
 
  $('#guessdownload').each(function(){
     var filename404 = location.pathname.substr(location.pathname.lastIndexOf("/")+1,location.pathname.length);
+    var thelink = $(this).find('.link-fat');
     if (isDownload.test(filename404)) {
-       $(this).show().find('.link-fat').attr("href", $(this).find('.link-fat').attr("href") + filename404);
+      thelink.attr("href", thelink.attr("href") + filename404);
+      $(this).show();
     }   
   });
 });
