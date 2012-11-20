@@ -50,8 +50,9 @@ $(function () {
   
 
  $('#guessdownload').each(function(){
+    $this = $(this);
     var filename404 = location.pathname.substr(location.pathname.lastIndexOf("/")+1,location.pathname.length);
-    var thelink = $(this).find('.link-fat');
+    var thelink = $this.find('.link-fat');
 
     $.ajax({
       type: "HEAD",
@@ -60,7 +61,7 @@ $(function () {
       statusCode: { 
         200: function() {
           thelink.attr("href", thelink.attr("href") + filename404);
-          $(this).show();
+          $this.show();
         }
       }
     });
