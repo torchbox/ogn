@@ -49,7 +49,7 @@ $(function () {
   });
   
 
- $('#guessdownload').each(function(){
+ $('#downloadfound').each(function(){
     $this = $(this);
     var filename404 = location.pathname.substr(location.pathname.lastIndexOf("/")+1,location.pathname.length);
     var thelink = $this.find('.link-fat');
@@ -62,6 +62,7 @@ $(function () {
         200: function() {
           thelink.attr("href", thelink.attr("href") + filename404);
           $this.show();
+          $('#downloadnotfound').hide();
         }
       }
     });
