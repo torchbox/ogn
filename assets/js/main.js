@@ -61,8 +61,10 @@ $(function () {
       statusCode: { 
         200: function() {
           thelink.attr("href", thelink.attr("href") + filename404);
-          $this.show();
-          $('#downloadnotfound').hide();
+          $this.fadeIn();
+        }
+        404: function(){
+          $('#downloadnotfound').fadeIn();
         }
       }
     });

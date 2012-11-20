@@ -579,7 +579,7 @@ a:hover.link-fat {
 /*
  * 404 page
  */
-#downloadfound{
+#downloadfound, #downloadnotfound{
   display:none;
 }
 
