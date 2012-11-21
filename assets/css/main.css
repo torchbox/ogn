@@ -321,7 +321,7 @@ a:hover.link-fat {
  */
 
 .header {
-  background: #4D4547;
+  background: #4D4547 url("../images/garrett_480.jpg");
   -webkit-background-size: cover;
      -moz-background-size: cover;
        -o-background-size: cover;
