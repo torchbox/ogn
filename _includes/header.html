@@ -2,7 +2,7 @@
   <a href="http://www.torchbox.com" target="_blank" class="tbx-link">Torchbox</a>
   
   <div class="animated fadeIn" >
-    <a href="/"><h1 itemprop="name">Oxford Geek Nights{% if page.geek_night_number %}<span class="event-number">#{{ page.geek_night_number }}</span>{% endif %}</h1></a> 
+    <a href="/"><h1 itemprop="name">Oxford Geek Nights {% if page.geek_night_number %}<span class="event-number">#{{ page.geek_night_number }}</span>{% endif %}</h1></a> 
     {% if page.geek_night_number %}
       <meta itemprop="startDate" content="{{ page.date | date: "%Y-%m-%d" }}T19:30" />
       <div class="date-time">
