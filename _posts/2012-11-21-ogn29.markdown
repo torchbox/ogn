@@ -29,10 +29,17 @@ keynoters: [Jamie Andrews, Chris Thorpe]
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name">Jamie Andrews</h2>
     <p><a href="http://www.wired.co.uk/news/archive/2011-06/15/european-rail-data">Tackling complex rail data challenges, without the data</a></p>
+    <div class="downloads">
+        <a href="http://media.ogn.s3.amazonaws.com/ogn29/keynote-JamieAndrews.pdf">slides</a>
+    </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <a href="https://twitter.com/jaggeree" itemprop="url"><h2 itemprop="name">Chris Thorpe</h2></a>
     <p>Scanning real trains with lasers and printing them back out again</p>
+    <div class="downloads">
+        <a href="http://media.ogn.s3.amazonaws.com/ogn29/keynote-ChrisThorpe.pdf">slides (40MB)</a>
+        <a href="http://vimeo.com/50820967">demo video</a>
+    </div>
   </li>
 </ul>
 
@@ -44,14 +51,23 @@ keynoters: [Jamie Andrews, Chris Thorpe]
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <a href="http://afandian.com/" itemprop="url"><h2 itemprop="name">Joe Wass</h2></a>
     <p>Unit testing in Go</p>
+    <div class="downloads">
+        <a href="http://media.ogn.s3.amazonaws.com/ogn29/microslot-JoeWass.pdf">slides</a>
+    </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <a href="https://twitter.com/wwwUDEMIorg" itemprop="url"><h2 itemprop="name">Robert Gerlach</h2></a>
     <p><a href="http://www.udemi.org/">Bottom-up participation</a></p>
+    <div class="downloads">
+        <a href="http://media.ogn.s3.amazonaws.com/ogn29/microslot-RobertGerlach.pdf">slides</a>
+    </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <a href="http://www.jpstacey.info/" itemprop="url"><h2 itemprop="name">J-P Stacey</h2></a>
     <p>Turning Kindles into literacy</p>
+    <div class="downloads">
+        <a href="http://media.ogn.s3.amazonaws.com/ogn29/microslot-JPStacey.pdf">slides</a>
+    </div>
   </li>
 </ul>
 
