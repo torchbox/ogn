@@ -41,7 +41,7 @@ keynoters: [Ferment, James Darling]
 <ul>
   <li>
     <h2><a href="http://www.charlieperrins.com/">Charlie Perrins</a></h2>
-    <p>JavaScript UI, accessibility &amp; keyboard navigation, by </p>
+    <p>JavaScript UI, accessibility &amp; keyboard navigation</p>
     <div class="downloads">
         <a href="http://media.ogn.s3.amazonaws.com/microslot-CharliePerrins.ppt">slides</a>
     </div>
