@@ -39,6 +39,7 @@ keynoters: [Jamie Andrews, Chris Thorpe]
     <div class="downloads">
         <a href="http://media.ogn.s3.amazonaws.com/ogn29/keynote-ChrisThorpe.pdf">slides (40MB)</a>
         <a href="http://vimeo.com/50820967">demo video</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn29/29-keynote-ChrisThorpe.mp3">audio</a>
     </div>
   </li>
 </ul>
@@ -47,12 +48,16 @@ keynoters: [Jamie Andrews, Chris Thorpe]
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <a href="http://www.babelquest.co.uk/" itemprop="url"><h2 itemprop="name">Eric Murphy</h2></a>
     <p>Why text is better than sex</p>
+    <div class="downloads">
+        <a href="http://media.ogn.s3.amazonaws.com/ogn29/29-microslot-EricMurphy.mp3">audio</a>
+    </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <a href="http://afandian.com/" itemprop="url"><h2 itemprop="name">Joe Wass</h2></a>
     <p>Unit testing in Go</p>
     <div class="downloads">
         <a href="http://media.ogn.s3.amazonaws.com/ogn29/microslot-JoeWass.pdf">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn29/29-microslot-JoeWass.mp3">audio</a>
     </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
@@ -60,6 +65,7 @@ keynoters: [Jamie Andrews, Chris Thorpe]
     <p><a href="http://www.udemi.org/">Bottom-up participation</a></p>
     <div class="downloads">
         <a href="http://media.ogn.s3.amazonaws.com/ogn29/microslot-RobertGerlach.pdf">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn29/29-microslot-RobertGerlach.mp3">audio</a>
     </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
@@ -67,8 +73,7 @@ keynoters: [Jamie Andrews, Chris Thorpe]
     <p>Turning Kindles into literacy</p>
     <div class="downloads">
         <a href="http://media.ogn.s3.amazonaws.com/ogn29/microslot-JPStacey.pdf">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn29/29-microslot-JPStacey.mp3">audio</a>
     </div>
   </li>
 </ul>
-
-
