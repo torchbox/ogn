@@ -23,7 +23,6 @@ geek_night_number: 27
 keynoters: [Paul Annett &amp; Tim Paul]
 ---
 
-
 <ul class="keynotes">
   <li>
     <h2><a href="http://twitter.com/nicepaul">Paul Annett</a> &amp; <a href="https://twitter.com/timpaul">Tim Paul</a></h2>
@@ -40,7 +39,7 @@ keynoters: [Paul Annett &amp; Tim Paul]
     <h2>Chris Rimmer</h2>
     <p>Getting mutants to test your tests</p>
     <div class="downloads">
-      <a href="http://media.ogn.s3.amazonaws.com/microslot-ChrisRimmer.pdf" target="_blank">slides</a>
+      <a href="http://media.ogn.s3.amazonaws.com/ogn27/microslot-ChrisRimmer.pdf" target="_blank">slides</a>
     </div>
   </li>
   <li>
@@ -65,9 +64,3 @@ keynoters: [Paul Annett &amp; Tim Paul]
      </div>
   </li>
 </ul>
-
-
-
-
-
-
