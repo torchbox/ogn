@@ -1,0 +1,33 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+sponsor: 
+- Sonnox: sponsor-sonnox.png
+
+# The Geek Night number
+geek_night_number: 30
+
+# Lanyrd short url
+lanyrd_short_url: cktmd
+
+# Keynoters
+keynoters: [Eben Upton]
+---
+
+<ul class="keynotes">
+  <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <h2 itemprop="name">Eben Upton</h2>
+    <p>Founder and trustee of the <a href="http://www.raspberrypi.org/about" >Raspberry Pi foundation</a>, Eben will talk on a topic to be confirmed!</p>
+  </li>
+</ul>
