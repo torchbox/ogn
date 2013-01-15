@@ -37,8 +37,8 @@ keynoters: [Eben Upton]
     <p><a href="http://www.scanpi.co.uk">Pi: shellplayer, SCANPI and SCANPIMOB</a></p>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-    <h2 itemprop="name">Matthew Westcott</h2>
-    <p><a href="http://moose.torchbox.com/">Pi: Manuel the Moose</a></p>
+    <a href="http://matt.west.co.tt/" ><h2 itemprop="name">Matthew Westcott</h2></a>
+    <p><a href="http://moose.torchbox.com/">Pi: Manuel's Alive! The making of Torchbox's talking moose</a></p>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name">Nick Burch</h2>
