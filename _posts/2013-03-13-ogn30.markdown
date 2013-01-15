@@ -31,3 +31,17 @@ keynoters: [Eben Upton]
     <p>Founder and trustee of the <a href="http://www.raspberrypi.org/about" >Raspberry Pi Foundation</a>, Eben will talk on a topic to be confirmed!</p>
   </li>
 </ul>
+<ul>
+  <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <h2 itemprop="name">Peter Arbuthnott</h2>
+    <p><a href="http://www.scanpi.co.uk">Pi: shellplayer, SCANPI and SCANPIMOB</a></p>
+  </li>
+  <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <h2 itemprop="name">Matthew Westcott</h2>
+    <p><a href="http://moose.torchbox.com/">Pi: Manuel the Moose</a></p>
+  </li>
+  <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <h2 itemprop="name">Nick Burch</h2>
+    <p>Pi: 3g-to-wifi at the Oxford Geek Nights</p>
+  </li>
+</ul>
