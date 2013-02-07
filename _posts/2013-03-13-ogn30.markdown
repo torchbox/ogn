@@ -44,4 +44,8 @@ keynoters: [Eben Upton]
     <h2 itemprop="name">Nick Burch</h2>
     <p>Pi: 3g-to-wifi at the Oxford Geek Nights</p>
   </li>
+  <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <h2 itemprop="name">Pete Andrew</h2>
+    <p><a href="http://www.youtube.com/watch?v=mtu9AtU4GQ4">Pi: Solenoid Sequencer</a></p>
+  </li>
 </ul>
