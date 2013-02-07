@@ -55,10 +55,10 @@ keynoters: [Eben Upton]
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name"><a href="http://github.com/henrahmagix" >Henry Blyth</a></h2>
-    <p><a href="http://henrahmagix.github.com/gistdeck">Using Gists For More</a></li>
+    <p><a href="http://henrahmagix.github.com/gistdeck">Using Gists For More</a></p>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name"><a href="http://marknormanfrancis.com/">Mark Norman Francis</a></h2>
-    <p>Our 30,000 line nginx configuration</li>
+    <p>Our 30,000 line nginx configuration</p>
   </li>
 </ul>
