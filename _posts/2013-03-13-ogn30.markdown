@@ -59,6 +59,6 @@ keynoters: [Eben Upton]
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name"><a href="http://whatfettle.com">Paul Downey</a></h2>
-    <p>Our 30,000 line nginx configuration</p>
+    <p>Our 150,000+ line nginx configuration</p>
   </li>
 </ul>
