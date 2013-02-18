@@ -28,7 +28,7 @@ keynoters: [Eben Upton]
 <ul class="keynotes">
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name">Eben Upton</h2>
-    <p>Founder and trustee of the <a href="http://www.raspberrypi.org/about" >Raspberry Pi Foundation</a>, Eben will talk on a topic to be confirmed!</p>
+    <p><a href="http://www.raspberrypi.org/about" >Raspberry Pi, one year in</a></p>
   </li>
 </ul>
 <ul>
