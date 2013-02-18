@@ -58,7 +58,7 @@ keynoters: [Eben Upton]
     <p><a href="http://github.com/henrahmagix/gistdeck-your-css">Using Gists For More</a></p>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-    <h2 itemprop="name"><a href="http://marknormanfrancis.com/">Mark Norman Francis</a></h2>
+    <h2 itemprop="name"><a href="http://whatfettle.com">Paul Downey</a></h2>
     <p>Our 30,000 line nginx configuration</p>
   </li>
 </ul>
