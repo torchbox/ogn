@@ -1,0 +1,78 @@
+#---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+sponsor: 
+- Torchbox: sponsor-torchbox.png
+- Nokia Ovi Store: sponsor-ovi.png
+- Data.gov.uk: sponsor-hmgov.jpg
+
+# The Geek Night number
+geek_night_number: 19
+
+# Lanyrd short url
+lanyrd_short_url: cqpq
+
+# Keynoters
+keynoters: [Leila Johnston, David Caruana]
+#---
+
+<ul class="keynotes">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://enemyofchaos.wordpress.com/" itemprop="url"><h2 itemprop="name">Leila Johnston</h2></a>
+        <p><a href="http://finalbullet.com/" >Making things fast</a></p>
+        <div class="downloads">
+Downloads tbc.
+        </div>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">David Caruana</h2>
+        <p>CMIS: encouraging connections</p>
+        <div class="downloads">
+Downloads tbc.
+        </div>
+    </li>
+</ul>
+
+<ul class="microslots">
+    <li temprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://crouchingbadger.com/" itemprop="url"><h2 itemprop="name">Ben Ward</h2></a>
+        <p>Internet Plumbing for Beginners</p>
+        <div class="downloads">
+Downloads tbc.
+        </div>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Matt Thorne</h2>
+        <p><a href="http://blog.mattythorne.com/2010/09/18/scribblybot-the-full-story/"">Industrial Twitter Robot Slays Oxford Geeks; Total Carnage At Local Tech Event</a></p>
+        <div class="downloads">
+Downloads tbc.
+        </div>
+    </li>
+    <li temprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://timfernando.com" itemprop="url"><h2 itemprop="name">Tim Fernando</h2></a>
+        <p><a href="http://m.ox.ac.uk">Mobile Ox and the Molly Project</a></p>
+        <div class="downloads">
+Downloads tbc.
+        </div>
+    </li>
+    <li temprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.dnorth.net" itemprop="url"><h2 itemprop="name">David North</h2></a>
+        <p>J2EE vs Python for web development</p>
+        <div class="downloads">
+Downloads tbc.
+        </div>
+    </li>
+</ul>
+
+
