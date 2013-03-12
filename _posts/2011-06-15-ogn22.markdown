@@ -23,14 +23,14 @@ keynoters: [Louise Crow, Tyler Tate]
 ---
 
 <ul class="keynotes">
-<li><h2>Louise Crow</h2><p>FixMyTransport</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/keynote-LouiseCrow.pdf">slides</a></div></li>
-<li><h2><a href="http://tylertate.com/" >Tyler Tate</a></h2><p>The UX of Learning</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/keynote-TylerTate.pdf">slides</a></div></li>
+<li><h2>Louise Crow</h2><p>FixMyTransport</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn22/keynote-LouiseCrow.pdf">slides</a></div></li>
+<li><h2><a href="http://tylertate.com/" >Tyler Tate</a></h2><p>The UX of Learning</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn22/keynote-TylerTate.pdf">slides</a></div></li>
 </ul>
 
 <ul>
-<li><h2><a href="http://jonathanleighton.com/">Jon Leighton</a></h2><p>Time and Relative Dimension in Cyberspace: Coming to a browser near you</p>  <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-JonathanLeighton.pdf">slides</a></div></li>
-<li><h2><a href="http://www.clockworkrobot.co.uk/">Branden Faulls</a></h2><p><a href="http://vagrantup.com/" >Vagrant: How I stopped worrying and learned to love the VM</a></p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-BrandenFaulls.pdf">slides</a></div></li>
-<li><h2><a href="http://simonclayson.co.uk/">Simon Clayson</a></h2><p>Designing around bad business decisions</p>  <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-SimonClayson.pdf">slides</a></div></li>
-<li><h2>John Barron</h2><p><a href="http://www.pirateparty.org.uk/events/2011/jun/9/oxford-pirates-2011-06/">The Pirate Party: Politics for a digital information age</a></p>  <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-JohnBarron.png">slides</a></div></li>
+<li><h2><a href="http://jonathanleighton.com/">Jon Leighton</a></h2><p>Time and Relative Dimension in Cyberspace: Coming to a browser near you</p>  <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn22/microslot-JonathanLeighton.pdf">slides</a></div></li>
+<li><h2><a href="http://www.clockworkrobot.co.uk/">Branden Faulls</a></h2><p><a href="http://vagrantup.com/" >Vagrant: How I stopped worrying and learned to love the VM</a></p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn22/microslot-BrandenFaulls.pdf">slides</a></div></li>
+<li><h2><a href="http://simonclayson.co.uk/">Simon Clayson</a></h2><p>Designing around bad business decisions</p>  <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn22/microslot-SimonClayson.pdf">slides</a></div></li>
+<li><h2>John Barron</h2><p><a href="http://www.pirateparty.org.uk/events/2011/jun/9/oxford-pirates-2011-06/">The Pirate Party: Politics for a digital information age</a></p>  <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn22/microslot-JohnBarron.png">slides</a></div></li>
 </ul>
 
