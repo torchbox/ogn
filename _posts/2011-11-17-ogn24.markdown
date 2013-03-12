@@ -22,13 +22,13 @@ geek_night_number: 24
 keynoters: [John Graham-Cumming, Chris Wild]
 ---
 <ul class="keynotes">
-<li><h2><a href="http://www.jgc.org/">John Graham-Cumming</a></h2><p><a href="http://plan28.org/">It's crazy, but it just might work! Building Charles Babbage's Analytical Engine</a></p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/24-keynote-JohnGrahamCumming.mp3">audio</a></div></li>
-<li><h2>Chris Wild</h2><p>How not to build a time machine</p><div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/24-keynote-ChrisWild.mp3">audio</a></div></li>
+<li><h2><a href="http://www.jgc.org/">John Graham-Cumming</a></h2><p><a href="http://plan28.org/">It's crazy, but it just might work! Building Charles Babbage's Analytical Engine</a></p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn24/24-keynote-JohnGrahamCumming.mp3">audio</a></div></li>
+<li><h2>Chris Wild</h2><p>How not to build a time machine</p><div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn24/24-keynote-ChrisWild.mp3">audio</a></div></li>
 </ul>
 
 <ul>
-  <li><h2>Carl Reynolds</h2><p>Hacker/doctor collaboration to improve healthcare</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-CarlReynolds.pps">slides</a> <a href="http://media.ogn.s3.amazonaws.com/24-microslot-CarlReynolds.mp3">audio</a></div></li>
-  <li><h2><a href="http://www.kategriffin.info" >Kate Griffin</a></h2><p>Why can't a Luddite be more like a geek?</p>  <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-KateGriffin.odp">slides</a> <a href="http://media.ogn.s3.amazonaws.com/24-microslot-KateGriffin.mp3">audio</a></div></li>
-  <li><h2><a href="http://onishiweb.co.uk" >Adam Onishi</a></h2><p><a href="http://www.onishiweb.co.uk/2011/02/education-in-the-web-industry/" >Teaching the Web - Universities are a bit rubbish</a></p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-AdamOnishi.pdf">slides</a> <a href="http://media.ogn.s3.amazonaws.com/24-microslot-AdamOnishi.mp3">audio</a></div></li>
-  <li><h2>Chris Thorpe &amp; Max Mason </h2><p>Social media and the pop-up sausage</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-ChrisThorpe.key">slides</a> <a href="http://media.ogn.s3.amazonaws.com/24-microslot-ChrisThorpeAndMaxMason.mp3">audio</a></div></li>
+  <li><h2>Carl Reynolds</h2><p>Hacker/doctor collaboration to improve healthcare</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn24/microslot-CarlReynolds.pps">slides</a> <a href="http://media.ogn.s3.amazonaws.com/ogn24/24-microslot-CarlReynolds.mp3">audio</a></div></li>
+  <li><h2><a href="http://www.kategriffin.info" >Kate Griffin</a></h2><p>Why can't a Luddite be more like a geek?</p>  <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn24/microslot-KateGriffin.odp">slides</a> <a href="http://media.ogn.s3.amazonaws.com/ogn24/24-microslot-KateGriffin.mp3">audio</a></div></li>
+  <li><h2><a href="http://onishiweb.co.uk" >Adam Onishi</a></h2><p><a href="http://www.onishiweb.co.uk/2011/02/education-in-the-web-industry/" >Teaching the Web - Universities are a bit rubbish</a></p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn24/microslot-AdamOnishi.pdf">slides</a> <a href="http://media.ogn.s3.amazonaws.com/ogn24/24-microslot-AdamOnishi.mp3">audio</a></div></li>
+  <li><h2>Chris Thorpe &amp; Max Mason </h2><p>Social media and the pop-up sausage</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn24/microslot-ChrisThorpe.key">slides</a> <a href="http://media.ogn.s3.amazonaws.com/ogn24/24-microslot-ChrisThorpeAndMaxMason.mp3">audio</a></div></li>
 </ul>
