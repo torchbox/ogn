@@ -24,16 +24,16 @@ keynoters: [Tom Wilkinson, Matthew Westcott]
 
 <ul class="keynotes">
 <li><h2>Tom Wilkinson</h2><p>How to make rowing sexy: a web video case study</p>
-	<div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/keynote-TomWilkinson.pptx">slides</a> <a href="http://media.ogn.s3.amazonaws.com/25-keynote-TomWilkinson.mp3">audio</a></div></li>
+	<div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn25/keynote-TomWilkinson.pptx">slides</a> <a href="http://media.ogn.s3.amazonaws.com/ogn25/25-keynote-TomWilkinson.mp3">audio</a></div></li>
 <li><h2><a href="http://matt.west.co.tt/" >Matthew Westcott</a></h2><p>Getting geeks singing with Javascript</p>
-	<div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/keynote-MatthewWestcott.pdf">slides</a> <a href="http://media.ogn.s3.amazonaws.com/25-keynote-MatthewWestcott.mp3">audio</a></div></li>
+	<div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn25/keynote-MatthewWestcott.pdf">slides</a> <a href="http://media.ogn.s3.amazonaws.com/ogn25/25-keynote-MatthewWestcott.mp3">audio</a></div></li>
 </ul>
 
 <ul>
-<li><h2>Chris Rimmer </h2><p>Solr: Your One Stop Search Shop</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-ChrisRimmer.pdf">slides</a> <a href="http://media.ogn.s3.amazonaws.com/25-microslot-ChrisRimmer.mp3">audio</a></div></li>
-<li><h2>James Webster</h2><p>Access in the cloud: databases as webservices</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/25-microslot-JamesWebster.mp3">audio</a></div></li>
+<li><h2>Chris Rimmer </h2><p>Solr: Your One Stop Search Shop</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn25/microslot-ChrisRimmer.pdf">slides</a> <a href="http://media.ogn.s3.amazonaws.com/ogn25/25-microslot-ChrisRimmer.mp3">audio</a></div></li>
+<li><h2>James Webster</h2><p>Access in the cloud: databases as webservices</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn25/25-microslot-JamesWebster.mp3">audio</a></div></li>
 <li><h2>Matthew Owen</h2><p><a href="http://www.oxbus.co.uk/" >OxBus</a>, or: how I learned to stop worrying about when the bus would arrive and do something about it instead</p> 
-	<div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-MatthewOwen.odp">slides</a> <a href="http://media.ogn.s3.amazonaws.com/25-microslot-MatthewOwen.mp3">audio</a></div></li>
-<li><h2>Stuart Armstrong</h2><p><a href="http://www.existential-risk.org/">Existential risks and AI</a></p><div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-StuartArmstrong.odp">slides</a> <a href="http://media.ogn.s3.amazonaws.com/25-microslot-StuartArmstrong.mp3">audio</a></div></li>
-<li><h2><a href="http://ghickman.co.uk" >George Hickman</a></h2><p><a href="http://refreshoxford.co.uk/">Refresh Oxford hack day</a></p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-GeorgeHickman.key">slides</a> <a href="http://media.ogn.s3.amazonaws.com/25-microslot-GeorgeHickman.mp3">audio</a></div></li>
+	<div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn25/microslot-MatthewOwen.odp">slides</a> <a href="http://media.ogn.s3.amazonaws.com/ogn25/25-microslot-MatthewOwen.mp3">audio</a></div></li>
+<li><h2>Stuart Armstrong</h2><p><a href="http://www.existential-risk.org/">Existential risks and AI</a></p><div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn25/microslot-StuartArmstrong.odp">slides</a> <a href="http://media.ogn.s3.amazonaws.com/ogn25/25-microslot-StuartArmstrong.mp3">audio</a></div></li>
+<li><h2><a href="http://ghickman.co.uk" >George Hickman</a></h2><p><a href="http://refreshoxford.co.uk/">Refresh Oxford hack day</a></p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn25/microslot-GeorgeHickman.key">slides</a> <a href="http://media.ogn.s3.amazonaws.com/ogn25/25-microslot-GeorgeHickman.mp3">audio</a></div></li>
 </ul>
