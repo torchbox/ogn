@@ -29,15 +29,15 @@ keynoters: [Ferment, James Darling]
     <h2><a href="http://fermentzine.com/">Ferment</a></h2>
     <p>Creative blind dates printed on newspapers and receipts</p>
     <div class="downloads">
-        <a href="http://media.ogn.s3.amazonaws.com/ogn28/28-keynote-Ferment.mp3">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn28/28-keynote-Ferment.mp3">Audio</a>
     </div>
   </li>
   <li>
     <h2><a href="http://berglondon.com/studio/james-darling/">James Darling</a></h2>
     <p><a href="http://bergcloud.com/littleprinter/">Little Printer</a> - An internet connected receipt printer for the home</p>
     <div class="downloads">
-        <a href="http://media.ogn.s3.amazonaws.com/keynote-JamesDarling.pdf">slides</a>
-        <a href="http://media.ogn.s3.amazonaws.com/ogn28/28-keynote-JamesDarling.mp3">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn28/keynote-JamesDarling.pdf">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn28/28-keynote-JamesDarling.mp3">Audio</a>
     </div>
   </li>
 </ul>
@@ -47,7 +47,7 @@ keynoters: [Ferment, James Darling]
     <h2><a href="http://www.charlieperrins.com/">Charlie Perrins</a></h2>
     <p>JavaScript UI, accessibility &amp; keyboard navigation</p>
     <div class="downloads">
-        <a href="http://media.ogn.s3.amazonaws.com/microslot-CharliePerrins.ppt">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn28/microslot-CharliePerrins.ppt">slides</a>
         <a href="http://media.ogn.s3.amazonaws.com/ogn28/28-microslot-CharliePerrins.mp3">audio</a>
     </div>
   </li>
@@ -55,7 +55,7 @@ keynoters: [Ferment, James Darling]
     <h2>Andrew Wood</h2>
     <p><a href="http://airqualityegg.wikispaces.com/AirQualityEgg">Air Quality Egg</a></p>
     <div class="downloads">
-        <a href="http://media.ogn.s3.amazonaws.com/microslot-AndrewWood.odp">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn28/microslot-AndrewWood.odp">slides</a>
         <a href="http://media.ogn.s3.amazonaws.com/ogn28/28-microslot-AndrewWood.mp3">audio</a>
     </div>
   </li>
@@ -63,7 +63,7 @@ keynoters: [Ferment, James Darling]
    <h2>Mike Curtis-Rouse</h2>
     <p><a href="http://www.stfc.ac.uk/hip">Data and Doughnuts</a></p>
     <div class="downloads">
-        <a href="http://media.ogn.s3.amazonaws.com/microslot-MikeCurtisRouse.pdf">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn28/microslot-MikeCurtisRouse.pdf">slides</a>
         <a href="http://media.ogn.s3.amazonaws.com/ogn28/28-microslot-MikeCurtisRouse.mp3">audio</a>
     </div>
   </li>
