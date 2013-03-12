@@ -45,7 +45,7 @@ Downloads tbc.
 </ul>
 
 <ul class="microslots">
-    <li temprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://crouchingbadger.com/" itemprop="url"><h2 itemprop="name">Ben Ward</h2></a>
         <p>Internet Plumbing for Beginners</p>
         <div class="downloads">
@@ -54,19 +54,19 @@ Downloads tbc.
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Matt Thorne</h2>
-        <p><a href="http://blog.mattythorne.com/2010/09/18/scribblybot-the-full-story/"">Industrial Twitter Robot Slays Oxford Geeks; Total Carnage At Local Tech Event</a></p>
+        <p><a href="http://blog.mattythorne.com/2010/09/18/scribblybot-the-full-story/">Industrial Twitter Robot Slays Oxford Geeks; Total Carnage At Local Tech Event</a></p>
         <div class="downloads">
 Downloads tbc.
         </div>
     </li>
-    <li temprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://timfernando.com" itemprop="url"><h2 itemprop="name">Tim Fernando</h2></a>
         <p><a href="http://m.ox.ac.uk">Mobile Ox and the Molly Project</a></p>
         <div class="downloads">
 Downloads tbc.
         </div>
     </li>
-    <li temprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.dnorth.net" itemprop="url"><h2 itemprop="name">David North</h2></a>
         <p>J2EE vs Python for web development</p>
         <div class="downloads">
