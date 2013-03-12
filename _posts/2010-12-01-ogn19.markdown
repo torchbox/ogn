@@ -5,6 +5,9 @@ layout: event
 # Event time
 time: 7:30pm
 
+# Permalink for old OGNs
+permalink: /2010/dec-1st
+
 # A short address of Geek Night location. 
 short_address: Jericho Tavern, Oxford
 
@@ -25,7 +28,7 @@ lanyrd_short_url: cqpq
 
 # Keynoters
 keynoters: [Leila Johnston, David Caruana]
-#---
+---
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">

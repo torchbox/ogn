@@ -25,6 +25,8 @@ lanyrd_short_url: xxxxx
 
 # Keynoters
 keynoters: [Keynote name 1, Keynote name 2]
+
+# Remove this comment symbol too
 #---
 
 <ul class="keynotes">
