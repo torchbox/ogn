@@ -28,7 +28,8 @@ keynoters: [Paul Annett &amp; Tim Paul]
     <h2><a href="http://twitter.com/nicepaul">Paul Annett</a> &amp; <a href="https://twitter.com/timpaul">Tim Paul</a></h2>
     <p><strong>Designing for everyone</strong> from the <a href="http://digital.cabinetoffice.gov.uk/" >Government Digital Service</a> and <a href="http://www.gov.uk/" >gov.uk</a></p>
     <div class="downloads">
-      <a href="http://www.slideshare.net/DigEngHMG/designing-for-everyone" target="_blank">slides</a>
+      <a href="http://www.slideshare.net/DigEngHMG/designing-for-everyone">slides</a>
+      <a href="http://media.ogn.s3.amazonaws.com/ogn27/27-keynote-PaulAnnettAndTimPaul.mp3" >audio</a>
     </div>
   </li>
  </ul>
@@ -39,28 +40,32 @@ keynoters: [Paul Annett &amp; Tim Paul]
     <h2>Chris Rimmer</h2>
     <p>Getting mutants to test your tests</p>
     <div class="downloads">
-      <a href="http://media.ogn.s3.amazonaws.com/ogn27/microslot-ChrisRimmer.pdf" target="_blank">slides</a>
+      <a href="http://media.ogn.s3.amazonaws.com/ogn27/microslot-ChrisRimmer.pdf" >slides</a>
+      <a href="http://media.ogn.s3.amazonaws.com/ogn27/27-microslot-ChrisRimmer.mp3" >audio</a>
     </div>
   </li>
   <li>
-    <h2><a href="http://www.jaani.net/" target="_blank">Jaani Riordan</a></h2>
+    <h2><a href="http://www.jaani.net/" >Jaani Riordan</a></h2>
     <p><a href="http://www.playfi.com/" >Playfi.com</a> - The technology of streaming live video to the world</p>
     <div class="downloads">
-      <a href="http://media.ogn.s3.amazonaws.com/microslot-JaaniRiordan.pptx" target="_blank">slides</a>
+      <a href="http://media.ogn.s3.amazonaws.com/ogn27/microslot-JaaniRiordan.pptx" >slides</a>
+      <a href="http://media.ogn.s3.amazonaws.com/ogn27/27-microslot-ChrisRimmer.mp3" >audio</a>
     </div>
   </li>
   <li>
    <h2>Phil Leichauer</h2>
     <p>Lightning testing</p>
     <div class="downloads">
-      <a href="http://media.ogn.s3.amazonaws.com/microslot-PhilLeichauer.pdf" target="_blank">slides</a> <a href="http://www.youtube.com/user/Electrophotography" target="_blank">video</a>
+      <a href="http://media.ogn.s3.amazonaws.com/ogn27/microslot-PhilLeichauer.pdf" >slides</a> <a href="http://www.youtube.com/user/Electrophotography" >video</a>
+      <a href="http://media.ogn.s3.amazonaws.com/ogn27/27-microslot-PhilLeichauer.mp3" >audio</a>
     </div>
   </li>
   <li>
     <h2><a href="http://www.jonbounds.co.uk">Jon Bounds</a></h2>
     <p><a href="http://twitter.com/isoxfordhappy">Is Oxford Happy?</a></p>
      <div class="downloads">
-      <a href="http://media.ogn.s3.amazonaws.com/microslot-JonBounds.pdf" target="_blank">slides</a>
+      <a href="http://media.ogn.s3.amazonaws.com/ogn27/microslot-JonBounds.pdf" >slides</a>
+      <a href="http://media.ogn.s3.amazonaws.com/ogn27/27-microslot-JonBounds.mp3" >audio</a>
      </div>
   </li>
 </ul>
