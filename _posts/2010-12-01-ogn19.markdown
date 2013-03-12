@@ -16,7 +16,6 @@ map_url: http://bit.ly/Pesy75
 
 # Sponsors in the form - [name]: [logo imag path (in /assets/images)]
 sponsor: 
-- Torchbox: sponsor-torchbox.png
 - Nokia Ovi Store: sponsor-ovi.png
 - Data.gov.uk: sponsor-hmgov.jpg
 

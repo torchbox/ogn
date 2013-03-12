@@ -14,8 +14,9 @@ short_address: Jericho Tavern, Oxford
 map_url: http://bit.ly/Pesy75
 
 # Sponsors in the form - [name]: [logo imag path (in /assets/images)]
-sponsor: 
-- Torchbox: sponsor-torchbox.png
+# Do not include Torchbox
+# sponsor:
+# - Initech: sponsor-stapler.png
 
 # The Geek Night number
 geek_night_number: 99
