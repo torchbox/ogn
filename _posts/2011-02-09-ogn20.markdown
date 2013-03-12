@@ -23,13 +23,13 @@ keynoters: [Chris Govias &amp; Andrew Godwin, Alex Powell]
 ---
 
 <ul class="keynotes">
-<li><h2>Chris Govias &amp; Andrew Godwin</h2><a href="http://spacelog.org/" ><p>SPACE!</p></a> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn21/keynote-AndrewGodwin.pdf" >slides</a> <a href="http://media.ogn.s3.amazonaws.com/ogn21/keynote-JamesAylett.pdf" >slides</a></div></li>
-<li><h2> Alex Powell</h2><p>Mobile App Development: an F1 case study</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn21/keynote-AlexPowell.ppt">slides</a></div></li>
+<li><h2>Chris Govias &amp; Andrew Godwin</h2><a href="http://spacelog.org/" ><p>SPACE!</p></a> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn20/keynote-AndrewGodwin.pdf" >slides</a> <a href="http://media.ogn.s3.amazonaws.com/ogn20/keynote-JamesAylett.pdf" >slides</a></div></li>
+<li><h2> Alex Powell</h2><p>Mobile App Development: an F1 case study</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn20/keynote-AlexPowell.ppt">slides</a></div></li>
 </ul>
 
 <ul>
-<li><h2><a href="http://alunr.com/" >Alun Rowe</a></h2><p>Spicing up your web life</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn21/microslot-AlunRowe.pdf">slides</a></div></li>
-<li><h2><a href="http://www.thedatastudio.co.uk/category/blog/the-data-studio-blog/andy-cotgreave" >Andy Cotgreave</a></h2><p>Pie charts: good or evil?</p>  <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn21/microslot-AndyCotgreave.pdf">slides</a></div></li>
-<li><h2>Simon Crossley </h2><p>Transparent swimwear</p><div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn21/microslot-SimonCrossley.ppt">slides</a></div></li>
-<li><h2><a href="http://matt.west.co.tt/" >Matthew Westcott</a></h2><p><a href="http://matt.west.co.tt/music/jasmid-midi-synthesis-with-javascript-and-html5-audio/" >HTML5 Audio: revenge of the MIDI files</a></p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn21/microslot-MatthewWestcott.pdf">slides</a></div></li>
+<li><h2><a href="http://alunr.com/" >Alun Rowe</a></h2><p>Spicing up your web life</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn20/microslot-AlunRowe.pdf">slides</a></div></li>
+<li><h2><a href="http://www.thedatastudio.co.uk/category/blog/the-data-studio-blog/andy-cotgreave" >Andy Cotgreave</a></h2><p>Pie charts: good or evil?</p>  <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn20/microslot-AndyCotgreave.pdf">slides</a></div></li>
+<li><h2>Simon Crossley </h2><p>Transparent swimwear</p><div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn20/microslot-SimonCrossley.ppt">slides</a></div></li>
+<li><h2><a href="http://matt.west.co.tt/" >Matthew Westcott</a></h2><p><a href="http://matt.west.co.tt/music/jasmid-midi-synthesis-with-javascript-and-html5-audio/" >HTML5 Audio: revenge of the MIDI files</a></p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn20/microslot-MatthewWestcott.pdf">slides</a></div></li>
 </ul>
