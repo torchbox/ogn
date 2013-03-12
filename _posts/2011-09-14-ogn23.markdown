@@ -22,13 +22,13 @@ geek_night_number: 23
 keynoters: [Vicky Buser, Jim Webber]
 ---
 <ul class="keynotes">
-<li><h2>Vicky Buser</h2><p>Telling stories: the ideas behind <a href="http://notube.tv/">NoTube</a></p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/keynote-VickyBuser.pdf">slides</a></div></li>
-<li><h2><a href="http://jimwebber.org/shortbio.html">Jim Webber</a></h2><p>Euler be Back: Why graph data rocks my world</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/keynote-JimWebber.pdf">slides</a></div></li>
+<li><h2>Vicky Buser</h2><p>Telling stories: the ideas behind <a href="http://notube.tv/">NoTube</a></p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn23/keynote-VickyBuser.pdf">slides</a></div></li>
+<li><h2><a href="http://jimwebber.org/shortbio.html">Jim Webber</a></h2><p>Euler be Back: Why graph data rocks my world</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn23/keynote-JimWebber.pdf">slides</a></div></li>
 </ul>
 
 <ul>
 <li><h2>Matt Prescott</h2><p><a href="http://www.e-day.org.uk/">The Energy Pet</a></p> </li>
-<li><h2>James Tunnicliffe</h2><p>Linaro: Linux on ARM</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-JamesTunnicliffe.odp">slides</a></div></li>
-<li><h2><a href="http://twitter.com/robertdouglass">Robert Douglass</a></h2><p>Why contributing to Drupal is awesome</p>  <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-RobertDouglass.pdf">slides</a></div></li>
-<li><h2> <a href="http://necaris.net">Rami Chowdhury</a></h2><p>Swirl: Syntactic Sugar to Make Tornado Easy</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/microslot-RamiChowdhury.tgz">slides</a></div></li>
+<li><h2>James Tunnicliffe</h2><p>Linaro: Linux on ARM</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn23/microslot-JamesTunnicliffe.odp">slides</a></div></li>
+<li><h2><a href="http://twitter.com/robertdouglass">Robert Douglass</a></h2><p>Why contributing to Drupal is awesome</p>  <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn23/microslot-RobertDouglass.pdf">slides</a></div></li>
+<li><h2> <a href="http://necaris.net">Rami Chowdhury</a></h2><p>Swirl: Syntactic Sugar to Make Tornado Easy</p> <div class="downloads"><a href="http://media.ogn.s3.amazonaws.com/ogn23/microslot-RamiChowdhury.tgz">slides</a></div></li>
 </ul>
