@@ -12,7 +12,7 @@
  {% for post in site.posts limit:1 order:ascending %}
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:url" content="http://oxford.geeknights.net{{ post.url }}" />
-    <meta name="twitter:title" content="Oxford Geek Nights {% if post.title %}- {{ post.title }}{% endif %}" />
+    <meta name="twitter:title" content="Oxford Geek Nights {% if post.geek_night_number %}#{{ post.geek_night_number }}{% endif %}" />
     <meta name="twitter:description" content="{{ post.date | date: "%d %B %Y" }} at {{ post.short_address }}. Speakers: {% for item in post.keynoters %}{{ item }},{% endfor %}" />
   {% endfor %}
   <meta name="twitter:creator" content="@torchbox" />
