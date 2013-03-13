@@ -11,7 +11,7 @@
   <meta name="viewport" content="width=device-width" />
  {% for post in site.posts limit:1 order:ascending %}
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:url" content="{{ site.url }}{{ post.url }}" />
+  <meta name="twitter:url" content="http://oxford.geeknights.net{{ post.url }}" />
     <meta name="twitter:title" content="Oxford Geek Nights {% if post.title %}- {{ post.title }}{% endif %}" />
     <meta name="twitter:description" content="Speakers: {% for item in post.keynoters %}{{ item }},{% endfor %}" />
   {% endfor %}
