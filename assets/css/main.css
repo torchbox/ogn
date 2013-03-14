@@ -318,7 +318,7 @@ a:hover.link-fat {
 }
 
 .lanyrd, .sponsor{
-  padding: 0.750em;
+  padding: 1.5em 0;
 }
 
 .lanyrd{
@@ -478,8 +478,10 @@ a:hover.link-fat {
  */
  
 .sponsor h3{
-
+  color: #999;
+  letter-spacing: 0.25em;
 }
+
 .sponsor img {
   max-width: 140px;
   text-align: center;
@@ -611,12 +613,16 @@ a:hover.link-fat {
  * MEDIA QUERIES
  */
 
-@media only screen and (min-width: 35em) {
+@media only screen and (min-width: 47.5em) {
 
   .header{
     background-image: url("../images/garrett.jpeg");
     background-position: center center;
     background-repeat: no-repeat;
+  }
+
+  .speakers {
+    max-width: 54em;
   }
 
   .speakers h2{
@@ -625,6 +631,23 @@ a:hover.link-fat {
     .keynotes h2 {
       font-size: 4.125em;
     }
+
+    .microslots li {
+      display: block;
+      width: 46%;
+      float: left;
+      padding: 2em 1em;
+      margin: auto 2%;
+      min-height: 10em;
+      border:none;
+      -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+         -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+              box-sizing: border-box;         /* Opera/IE 8+ */
+    }
+
+  .event-info, .sponsor, .speakers {
+    max-width: 54em; 
+  }
 
   .hashtag {
     font-size: 6em;
@@ -646,17 +669,15 @@ a:hover.link-fat {
       margin-right: 3.333%;
     } 
   
-  .speak a {
-    display: inline; /* force a line break */
-  }
+.lanyrd {
+  border-top: 1px;
+}
   
   input[type="email"] {
     display: inline-block;
     width: inherit;
     width: 240px;
   }
-  
-
   
   .sponsor img {
     max-width: 200px;

@@ -31,7 +31,7 @@ keynoters: [Eben Upton]
     <p><a href="http://www.raspberrypi.org/about" >Raspberry Pi, one year in</a></p>
   </li>
 </ul>
-<ul>
+<ul class="microslots">
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name">Peter Arbuthnott</h2>
     <p><a href="http://www.scanpi.co.uk">Pi: shellplayer, SCANPI and SCANPIMOB</a></p>
