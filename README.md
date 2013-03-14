@@ -8,7 +8,7 @@ And the following gems installed ("sudo gem install xxxx"):
 * jekyll
 
 (The following don't work on github pages but should be installed if hosting elsewhere)
-* yui-compressor
+* yui-compressor - sudo gem install yui-compressor
 * uglifier
 * html_press
 
