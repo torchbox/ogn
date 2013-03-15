@@ -44,28 +44,28 @@ keynoters: [Keynote name 1, Keynote name 2]
 </ul>
 
 <ul class="microslots">
-    <li temprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="" itemprop="url"><h2 itemprop="name">Microslotter name</h2></a>
         <p><a href="">Description/Name of microslot talk</a></p>
          <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
         </div>
     </li>
-    <li temprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="" itemprop="url"><h2 itemprop="name">Microslotter name</h2></a>
         <p><a href="">Description/Name of microslot talk</a></p>
          <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
         </div>
     </li>
-    <li temprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="" itemprop="url"><h2 itemprop="name">Microslotter name</h2></a>
         <p><a href="">Description/Name of microslot talk</a></p>
          <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
         </div>
     </li>
-    <li temprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="" itemprop="url"><h2 itemprop="name">Microslotter name</h2></a>
         <p><a href="">Description/Name of microslot talk</a></p>
          <div class="downloads">
