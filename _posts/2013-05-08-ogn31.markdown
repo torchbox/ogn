@@ -40,7 +40,7 @@ keynoters: [Seb Lee-Delisle, Jake Smith]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://jp74.com" itemprop="url"><h2 itemprop="name">Jake Smith</h2></a>
-        <p>Designing and developing D&AD's Awards system</p>
+        <p>Judging by mobile: designing and developing D&AD's Awards system</p>
         <!-- <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Video</a>
         </div> -->
