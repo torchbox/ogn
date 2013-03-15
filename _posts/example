@@ -1,6 +1,4 @@
-#---
-# Remove that comment symbol, top-left, to activate markdown "front matter"
-
+---
 # Layout, no need to change this
 layout: event
 
@@ -26,9 +24,7 @@ lanyrd_short_url: xxxxx
 
 # Keynoters
 keynoters: [Keynote name 1, Keynote name 2]
-
-# Remove this comment symbol too
-#---
+---
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
