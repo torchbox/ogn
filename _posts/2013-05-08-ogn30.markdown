@@ -1,4 +1,4 @@
-#---
+---
 # Remove that comment symbol, top-left, to activate markdown "front matter"
 
 # Layout, no need to change this
@@ -19,35 +19,35 @@ map_url: http://bit.ly/Pesy75
 # - Initech: sponsor-stapler.png
 
 # The Geek Night number
-geek_night_number: 99
+geek_night_number: 31
 
 # Lanyrd short url
-lanyrd_short_url: xxxxx
+lanyrd_short_url: cmxcg
 
 # Keynoters
-keynoters: [Keynote name 1, Keynote name 2]
+keynoters: [Seb Lee-Delisle, Jake Smith]
 
 # Remove this comment symbol too
-#---
+---
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">Keynoter name</h2></a>
-        <p><a href="">Description/Name of keynote talk</a></p>
-        <div class="downloads">
+        <a href="http://seb.ly/about" itemprop="url"><h2 itemprop="name">Seb Lee-Delisle</h2></a>
+        <p>Title tbc.</p>
+        <!-- <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
-        </div>
+        </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">Keynoter name</h2></a>
-        <p><a href="">Description/Name of keynote talk</a></p>
-         <div class="downloads">
+        <a href="http://jp74.com" itemprop="url"><h2 itemprop="name">Jake Smith</h2></a>
+        <p>Designing and developing D&AD's Awards system</p>
+        <!-- <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Video</a>
-        </div>
+        </div> -->
     </li>
 </ul>
 
-<ul class="microslots">
+<!-- <ul class="microslots">
     <li temprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="" itemprop="url"><h2 itemprop="name">Microslotter name</h2></a>
         <p><a href="">Description/Name of microslot talk</a></p>
@@ -76,6 +76,4 @@ keynoters: [Keynote name 1, Keynote name 2]
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
         </div>
     </li>
-</ul>
-
-
+</ul> -->
