@@ -35,30 +35,52 @@ keynoters: [Eben Upton]
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name">Peter Arbuthnott</h2>
     <p><a href="http://www.scanpi.co.uk">Pi: shellplayer, SCANPI and SCANPIMOB</a></p>
+    <div class="downloads">
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-PeterArbuthnott.zip">slides</a>
+    </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <a href="http://matt.west.co.tt/" ><h2 itemprop="name">Matthew Westcott</h2></a>
     <p><a href="http://moose.torchbox.com/">Pi: Manuel's Alive! The making of Torchbox's talking moose</a></p>
+    <div class="downloads">
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-MatthewWestcott.odp">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-MatthewWestcott.m4v">video</a>
+    </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name">Nick Burch</h2>
     <p>Pi: 3g-to-wifi at the Oxford Geek Nights</p>
+    <div class="downloads">
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-NickBurch.odp">slides</a>
+    </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name">Pete Andrew</h2>
     <p><a href="http://www.youtube.com/watch?v=mtu9AtU4GQ4">Pi: Solenoid Sequencer</a></p>
+    <div class="downloads">
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-PeteAndrew.odp">slides</a>
+    </div>
   </li>
 
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name">Ben Ward</h2>
     <p><a href="http://badgertrack.com/post/37192131877/whitespace-spectrum" >Whitespace Spectrum: The Digital Dividend</a></p>
+    <div class="downloads">
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-BenWard.pdf">slides</a>
+    </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name"><a href="http://github.com/henrahmagix" >Henry Blyth</a></h2>
     <p><a href="http://github.com/henrahmagix/gistdeck-your-css">Using Gists For More</a></p>
+    <div class="downloads">
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-HenryBlyth.tgz">slides</a>
+    </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name"><a href="http://whatfettle.com">Paul Downey</a></h2>
     <p>Our 150,000+ line nginx configuration</p>
+    <div class="downloads">
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-PaulDowney.pdf">slides</a>
+    </div>
   </li>
 </ul>
