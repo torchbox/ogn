@@ -47,33 +47,33 @@ keynoters: [Seb Lee-Delisle, Jake Smith]
     </li>
 </ul>
 
-<!-- <ul class="microslots">
+<ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://penandpixeldesign.com/" itemprop="url"><h2 itemprop="name">Jo Lankester</h2></a>
+        <p>Real-life Responsive</p>
+        <!-- <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Jeremy Ruston</h2>
+        <p><a href="http://five.tiddlywiki.com/">Free your stuff with TiddlyWiki5</a></p>
+        <!-- <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.livingstories.coop" itemprop="url"><h2 itemprop="name">Colm Massey</h2></a>
+        <p><a href="https://www.leapmotion.com/">LeapMotion Animation</a></p>
+        <!-- <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div> -->
+    </li>
+    <!-- <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="" itemprop="url"><h2 itemprop="name">Microslotter name</h2></a>
         <p><a href="">Description/Name of microslot talk</a></p>
          <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
         </div>
-    </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">Microslotter name</h2></a>
-        <p><a href="">Description/Name of microslot talk</a></p>
-         <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
-        </div>
-    </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">Microslotter name</h2></a>
-        <p><a href="">Description/Name of microslot talk</a></p>
-         <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
-        </div>
-    </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">Microslotter name</h2></a>
-        <p><a href="">Description/Name of microslot talk</a></p>
-         <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
-        </div>
-    </li>
-</ul> -->
+    </li> -->
+</ul>
