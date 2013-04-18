@@ -69,11 +69,11 @@ keynoters: [Seb Lee-Delisle, Jake Smith]
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
         </div> -->
     </li>
-    <!-- <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">Microslotter name</h2></a>
-        <p><a href="">Description/Name of microslot talk</a></p>
-         <div class="downloads">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.orbitingfrog.com" itemprop="url"><h2 itemprop="name">Robert Simpson</h2></a>
+        <p><a href="http://www.zooniverse.org">The Zooniverse</a></p>
+        <!-- <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
-        </div>
-    </li> -->
+        </div> -->
+    </li>
 </ul>
