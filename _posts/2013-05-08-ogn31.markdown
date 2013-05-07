@@ -1,5 +1,4 @@
 ---
-# Remove that comment symbol, top-left, to activate markdown "front matter"
 
 # Layout, no need to change this
 layout: event
@@ -27,22 +26,21 @@ lanyrd_short_url: cmxcg
 # Keynoters
 keynoters: [Seb Lee-Delisle, Jake Smith]
 
-# Remove this comment symbol too
 ---
 
 <ul class="keynotes">
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://seb.ly/about" itemprop="url"><h2 itemprop="name">Seb Lee-Delisle</h2></a>
-        <p>Title tbc.</p>
-        <!-- <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
-        </div> -->
-    </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://jp74.com" itemprop="url"><h2 itemprop="name">Jake Smith</h2></a>
         <p>Judging by mobile: designing and developing D&AD's Awards system</p>
         <!-- <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Video</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Jeremy Ruston</h2>
+        <p><a href="http://five.tiddlywiki.com/">Free your stuff with TiddlyWiki5</a></p>
+        <!-- <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
         </div> -->
     </li>
 </ul>
@@ -56,8 +54,8 @@ keynoters: [Seb Lee-Delisle, Jake Smith]
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">Jeremy Ruston</h2>
-        <p><a href="http://five.tiddlywiki.com/">Free your stuff with TiddlyWiki5</a></p>
+        <a href="http://iacobcl.wordpress.com"><h2 itemprop="name">Claudia Iacob</h2></a>
+        <p><a href="http://hamae2013.wordpress.com">Human Aspects in Mobile Applications Engineering</a></p>
         <!-- <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
         </div> -->
