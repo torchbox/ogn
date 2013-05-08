@@ -29,6 +29,9 @@ keynoters: [Eben Upton]
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name">Eben Upton</h2>
     <p><a href="http://www.raspberrypi.org/about" >Raspberry Pi, one year in</a></p>
+    <div class="downloads">
+      <a href="http://media.ogn.s3.amazonaws.com/ogn30/30-keynote-EbenUpton.mp3">audio</a>
+    </div>
   </li>
 </ul>
 <ul class="microslots">
@@ -37,6 +40,7 @@ keynoters: [Eben Upton]
     <p><a href="http://www.scanpi.co.uk">Pi: shellplayer, SCANPI and SCANPIMOB</a></p>
     <div class="downloads">
         <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-PeterArbuthnott.zip">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/30-microslot-PeterArbuthnott.mp3">audio</a>
     </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
@@ -45,6 +49,7 @@ keynoters: [Eben Upton]
     <div class="downloads">
         <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-MatthewWestcott.odp">slides</a>
         <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-MatthewWestcott.m4v">video</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/30-microslot-MatthewWestcott.mp3">audio</a>
     </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
@@ -52,6 +57,7 @@ keynoters: [Eben Upton]
     <p>Pi: 3g-to-wifi at the Oxford Geek Nights</p>
     <div class="downloads">
         <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-NickBurch.odp">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/30-microslot-NickBurch.mp3">audio</a>
     </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
@@ -59,6 +65,7 @@ keynoters: [Eben Upton]
     <p><a href="http://www.youtube.com/watch?v=mtu9AtU4GQ4">Pi: Solenoid Sequencer</a></p>
     <div class="downloads">
         <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-PeteAndrew.odp">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/30-microslot-PeteAndrew.mp3">audio</a>
     </div>
   </li>
 
@@ -67,6 +74,7 @@ keynoters: [Eben Upton]
     <p><a href="http://badgertrack.com/post/37192131877/whitespace-spectrum" >Whitespace Spectrum: The Digital Dividend</a></p>
     <div class="downloads">
         <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-BenWard.pdf">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/30-microslot-BenWard.mp3">audio</a>
     </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
@@ -74,6 +82,7 @@ keynoters: [Eben Upton]
     <p><a href="http://github.com/henrahmagix/gistdeck-your-css">Using Gists For More</a></p>
     <div class="downloads">
         <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-HenryBlyth.tgz">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/30-microslot-HenryBlyth.mp3">audio</a>
     </div>
   </li>
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
@@ -81,6 +90,7 @@ keynoters: [Eben Upton]
     <p>Our 150,000+ line nginx configuration</p>
     <div class="downloads">
         <a href="http://media.ogn.s3.amazonaws.com/ogn30/microslot-PaulDowney.pdf">slides</a>
+        <a href="http://media.ogn.s3.amazonaws.com/ogn30/30-microslot-PaulDowney.mp3">audio</a>
     </div>
   </li>
 </ul>
