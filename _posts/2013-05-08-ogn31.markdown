@@ -24,7 +24,7 @@ geek_night_number: 31
 lanyrd_short_url: cmxcg
 
 # Keynoters
-keynoters: [Seb Lee-Delisle, Jake Smith]
+keynoters: [Jake Smith, Jeremy Ruston]
 
 ---
 
@@ -54,24 +54,25 @@ keynoters: [Seb Lee-Delisle, Jake Smith]
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://iacobcl.wordpress.com"><h2 itemprop="name">Claudia Iacob</h2></a>
+        <a href="http://iacobcl.wordpress.com"><h2 itemprop="name">Claudia Iacob and Shamal Faily</h2></a>
         <p><a href="http://hamae2013.wordpress.com">Human Aspects in Mobile Applications Engineering</a></p>
-        <!-- <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
-        </div> -->
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn31/microslot-ClaudiaIacob.pdf">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.livingstories.coop" itemprop="url"><h2 itemprop="name">Colm Massey</h2></a>
         <p><a href="https://www.leapmotion.com/">LeapMotion Animation</a></p>
-        <!-- <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
-        </div> -->
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn31/microslot-ColmMassey.pdf">Slides</a>
+            <a href="http://www.youtube.com/watch?v=N6hCwjwzUHg">Video</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.orbitingfrog.com" itemprop="url"><h2 itemprop="name">Robert Simpson</h2></a>
         <p><a href="http://www.zooniverse.org">The Zooniverse</a></p>
-        <!-- <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
-        </div> -->
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn31/microslot-RobertSimpson.pdf">Slides</a>
+        </div>
     </li>
 </ul>
