@@ -1,0 +1,84 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+# sponsor:
+# - Initech: sponsor-stapler.png
+
+# The Geek Night number
+geek_night_number: 32
+
+# Lanyrd short url
+lanyrd_short_url: xxxxx
+
+# Keynoters
+keynoters: [tbc]
+---
+
+<ul class="keynotes">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">tbc.</h2>
+        <!-- <p><a href="">Description/Name of keynote talk</a></p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div> -->
+    </li>
+    <!-- <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">Keynoter name</h2></a>
+        <p><a href="">Description/Name of keynote talk</a></p>
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Video</a>
+        </div>
+    </li> -->
+</ul>
+
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">tbc.</h2>
+        <!-- <p><a href="">Description/Name of keynote talk</a></p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div> -->
+    </li>
+    <!-- <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">Microslotter name</h2></a>
+        <p><a href="">Description/Name of microslot talk</a></p>
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">Microslotter name</h2></a>
+        <p><a href="">Description/Name of microslot talk</a></p>
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">Microslotter name</h2></a>
+        <p><a href="">Description/Name of microslot talk</a></p>
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">Microslotter name</h2></a>
+        <p><a href="">Description/Name of microslot talk</a></p>
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div>
+    </li> -->
+</ul>
+
+
