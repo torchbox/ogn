@@ -34,6 +34,7 @@ keynoters: [Eben Upton]
     </div>
   </li>
 </ul>
+
 <ul class="microslots">
   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
     <h2 itemprop="name">Peter Arbuthnott</h2>
