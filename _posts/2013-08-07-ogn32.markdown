@@ -34,8 +34,8 @@ keynoters: [tbc.]
 
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">This microslot is available</h2>
-        <p><a href="http://bit.ly/ogn-microslot">Volunteer for this microslot here!</a></p>
+        <h2 itemprop="name"><a href="http://benjaminbenben.com" >Ben Foxall</a></h2>
+        <p>Serving websites to websites</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">This microslot is available</h2>
