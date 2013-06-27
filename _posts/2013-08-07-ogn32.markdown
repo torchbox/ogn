@@ -28,13 +28,14 @@ keynoters: [tbc.]
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">tbc.</h2>
+        <h2 itemprop="name">Keynotes to be confirmed shortly!</h2>
     </li>
 </ul>
 
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">tbc.</h2>
+        <h2 itemprop="name">Microslots still available</h2>
+        <p><a href="http://bit.ly/ogn-microslot">Volunteer your microslot here!</a></p>
     </li>
 </ul>
 
