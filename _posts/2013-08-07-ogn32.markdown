@@ -38,8 +38,8 @@ keynoters: [tbc.]
         <p>Serving websites to websites with PhantomJS</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">This microslot is available</h2>
-        <p><a href="http://bit.ly/ogn-microslot">Volunteer for this microslot here!</a></p>
+        <h2 itemprop="name">Marc Carlucci</h2>
+        <p>Business monitoring</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">This microslot is available</h2>
