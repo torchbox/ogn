@@ -31,6 +31,10 @@ keynoters: [Mariana Mota]
         <a href="http://www.marianamota.com" ><h2 itemprop="name">Mariana Mota</h2></a>
         <p>Get it done! Practical techniques on making your amazing ideas happen.</p>
     </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <p>Second keynote tbc.</p>
+    </li>
+    
 </ul>
 
 <ul class="microslots">
