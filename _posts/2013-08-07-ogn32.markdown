@@ -32,7 +32,7 @@ keynoters: [Mariana Mota]
         <p>Get it done! Practical techniques on making your amazing ideas happen.</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <p>Second keynote tbc.</p>
+        <p><em>Second keynote tbc.</em></p>
     </li>
     
 </ul>
