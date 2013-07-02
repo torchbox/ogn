@@ -20,15 +20,16 @@ map_url: http://bit.ly/Pesy75
 geek_night_number: 32
 
 # Lanyrd short url
-lanyrd_short_url: xxxxx
+lanyrd_short_url: cqfdw
 
 # Keynoters
-keynoters: [tbc.]
+keynoters: [Mariana Mota]
 ---
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">Keynotes to be confirmed shortly!</h2>
+        <a href="http://www.marianamota.com" ><h2 itemprop="name">Mariana Mota</h2></a>
+        <p>Get it done! Practical techniques on making your amazing ideas happen.</p>
     </li>
 </ul>
 
