@@ -47,8 +47,8 @@ keynoters: [Mariana Mota]
         <p>Business monitoring</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">This microslot is available</h2>
-        <p><a href="http://bit.ly/ogn-microslot">Volunteer for this microslot here!</a></p>
+        <a href="http://mynameismartin.com" ><h2 itemprop="name">Martin Wright</h2></a>
+        <p>Designing without data</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">This microslot is available</h2>
