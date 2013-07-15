@@ -32,9 +32,9 @@ keynoters: [Mariana Mota]
         <p>Get it done! Practical techniques on making your amazing ideas happen.</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <p><em>Second keynote tbc.</em></p>
+        <h2 itemprop="name">Rich Caudle</h2></a>
+        <p>Delivering real-time apps</p>
     </li>
-    
 </ul>
 
 <ul class="microslots">
