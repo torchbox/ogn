@@ -33,7 +33,7 @@ keynoters: [Mariana Mota]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Rich Caudle</h2></a>
-        <p>Delivering real-time apps</p>
+        <p>Let me be your HTTP (Websocket remix)</p>
     </li>
 </ul>
 
