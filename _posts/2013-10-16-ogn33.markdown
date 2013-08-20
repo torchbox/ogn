@@ -50,10 +50,6 @@ keynoters: [Simon Metson]
         <h2 itemprop="name"><a href="http://bit.ly/ogn-microslot" >Microslot available</a></h2>
         <p><a href="http://bit.ly/ogn-microslot" >Contact us to reserve it!</a></p>
     </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name"><a href="http://bit.ly/ogn-microslot" >Microslot available</a></h2>
-        <p><a href="http://bit.ly/ogn-microslot" >Contact us to reserve it!</a></p>
-    </li>
 </ul>
 
 
