@@ -1,0 +1,59 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+# sponsor:
+# - Initech: sponsor-stapler.png
+
+# The Geek Night number
+geek_night_number: 33
+
+# Lanyrd short url
+lanyrd_short_url: cqxdk
+
+# Keynoters
+keynoters: [Simon Metson]
+---
+
+<ul class="keynotes">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://drsm79.github.io/" ><h2 itemprop="name">Simon Metson</h2></a>
+        <p>tbc.</p>
+    </li>
+</ul>
+
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name"><a href="http://bit.ly/ogn-microslot" >Microslot available</a></h2>
+        <p><a href="http://bit.ly/ogn-microslot" >Contact us to reserve it!</a></p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name"><a href="http://bit.ly/ogn-microslot" >Microslot available</a></h2>
+        <p><a href="http://bit.ly/ogn-microslot" >Contact us to reserve it!</a></p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name"><a href="http://bit.ly/ogn-microslot" >Microslot available</a></h2>
+        <p><a href="http://bit.ly/ogn-microslot" >Contact us to reserve it!</a></p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name"><a href="http://bit.ly/ogn-microslot" >Microslot available</a></h2>
+        <p><a href="http://bit.ly/ogn-microslot" >Contact us to reserve it!</a></p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name"><a href="http://bit.ly/ogn-microslot" >Microslot available</a></h2>
+        <p><a href="http://bit.ly/ogn-microslot" >Contact us to reserve it!</a></p>
+    </li>
+</ul>
+
+
