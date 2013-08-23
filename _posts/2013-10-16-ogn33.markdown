@@ -29,7 +29,7 @@ keynoters: [Simon Metson]
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://drsm79.github.io/" ><h2 itemprop="name">Simon Metson</h2></a>
-        <p>tbc.</p>
+        <p>The life of LHC data (tbc.)</p>
     </li>
 </ul>
 
