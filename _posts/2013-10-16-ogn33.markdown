@@ -39,8 +39,8 @@ keynoters: [Simon Metson]
         <p>How to be an instrumental open-source contributor</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name"><a href="http://bit.ly/ogn-microslot" >Microslot available</a></h2>
-        <p><a href="http://bit.ly/ogn-microslot" >Contact us to reserve it!</a></p>
+        <h2 itemprop="name"><a href="http://www.bigdumbobject.co.uk/jamesbloomer/" >James Bloomer</a></h2>
+        <p>Tadaa! Using sound as an information radiator</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name"><a href="http://bit.ly/ogn-microslot" >Microslot available</a></h2>
