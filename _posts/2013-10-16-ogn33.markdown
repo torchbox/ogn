@@ -28,6 +28,10 @@ keynoters: [Simon Metson]
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://about.me/inessombra" ><h2 itemprop="name">Ines Sombra</h2></a>
+        <p>What is Big Data?</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://drsm79.github.io/" ><h2 itemprop="name">Simon Metson</h2></a>
         <p>The life of LHC data (tbc.)</p>
     </li>
