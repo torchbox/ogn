@@ -52,7 +52,7 @@ keynoters: [Simon Metson]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name"><a href="http://afandian.com/" >Joe Wass</a></h2>
-        <p>Strongly vs Weakly Typed Languages</p>
+        <p>Strength vs weakness</p>
     </li>
 </ul>
 
