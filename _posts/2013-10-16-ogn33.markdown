@@ -47,12 +47,12 @@ keynoters: [Simon Metson]
         <p>Tadaa! Using sound as an information radiator</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name"><a href="http://bit.ly/ogn-microslot" >Microslot available</a></h2>
-        <p><a href="http://bit.ly/ogn-microslot" >Contact us to reserve it!</a></p>
+        <h2 itemprop="name"><a href="http://www.dnorth.net/" >David North</a></h2>
+        <p>PUNctuality: wake-up calls with a joke</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name"><a href="http://bit.ly/ogn-microslot" >Microslot available</a></h2>
-        <p><a href="http://bit.ly/ogn-microslot" >Contact us to reserve it!</a></p>
+        <h2 itemprop="name"><a href="http://afandian.com/" >Joe Wass</h2>
+        <p>Strongly vs Weakly Typed Languages</p>
     </li>
 </ul>
 
