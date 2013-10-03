@@ -23,7 +23,7 @@ geek_night_number: 33
 lanyrd_short_url: cqxdk
 
 # Keynoters
-keynoters: [Simon Metson]
+keynoters: [Simon Metson, Ines Sombra]
 ---
 
 <ul class="keynotes">
