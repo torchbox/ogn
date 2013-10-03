@@ -26,6 +26,17 @@ lanyrd_short_url: cqxdk
 keynoters: [Simon Metson, Ines Sombra]
 ---
 
+<script type="text/javascript">
+  var d = jQuery("<div id='digitaloxfordweek'></div>")
+    .css({"position": "absolute", "display": "block", "top": "12px", "right": "12px"})
+    .appendTo("body");
+  var a = jQuery('<a></a>')
+    .attr("href", "http://www.digitaloxford.com/weekoctober2013/")
+    .appendTo(d);
+  jQuery('<img></img>')
+    .attr("src", "http://www.digitaloxford.com/img/digital-oxford-badge.png").appendTo(a);
+</script>
+
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://about.me/inessombra" ><h2 itemprop="name">Ines Sombra</h2></a>
