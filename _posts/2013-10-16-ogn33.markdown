@@ -26,23 +26,13 @@ lanyrd_short_url: cqxdk
 keynoters: [Simon Metson, Ines Sombra]
 ---
 
-<script type="text/javascript">
-  document.getElementsByTagName("body")[0].onload = function() {
-    var d = jQuery("<div id='digitaloxfordweek'></div>")
-      .css({"position": "absolute", "display": "block", "top": "12px", "right": "12px"})
-      .appendTo("body");
-    var a = jQuery('<a></a>')
-      .attr("href", "http://www.digitaloxford.com/weekoctober2013/")
-      .appendTo(d);
-    jQuery('<img></img>')
-      .attr("src", "http://www.digitaloxford.com/img/digital-oxford-badge.png").appendTo(a);
-  }
-</script>
-
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://about.me/inessombra" ><h2 itemprop="name">Ines Sombra</h2></a>
         <p>What is Big Data?</p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn33/keynote-InesSombra.pdf">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://drsm79.github.io/" ><h2 itemprop="name">Simon Metson</h2></a>
@@ -54,18 +44,30 @@ keynoters: [Simon Metson, Ines Sombra]
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name"><a href="http://henrahmagix.github.io/" >Henry Blyth</a></h2>
         <p>How to be an instrumental open-source contributor</p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn33/microslot-HenryBlyth.zip">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name"><a href="http://www.bigdumbobject.co.uk/jamesbloomer/" >James Bloomer</a></h2>
         <p>Tadaa! Using sound as an information radiator</p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn33/microslot-JamesBloomer.pdf">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name"><a href="http://www.dnorth.net/" >David North</a></h2>
         <p>PUNctuality: wake-up calls with a joke</p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn33/microslot-DavidNorth.odp">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name"><a href="http://afandian.com/" >Joe Wass</a></h2>
         <p>Strength vs weakness</p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn33/microslot-JoeWass.pdf">Slides</a>
+        </div>
     </li>
 </ul>
 
