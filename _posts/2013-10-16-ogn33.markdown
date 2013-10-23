@@ -36,7 +36,10 @@ keynoters: [Simon Metson, Ines Sombra]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://drsm79.github.io/" ><h2 itemprop="name">Simon Metson</h2></a>
-        <p>The life of LHC data (tbc.)</p>
+        <p>The life of LHC data</p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn33/keynote-SimonMetson.pdf">Slides</a>
+        </div>
     </li>
 </ul>
 
