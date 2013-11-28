@@ -1,0 +1,77 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:30pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+# sponsor:
+# - Haybrook IT: sponsor-haybrook.png
+
+# The Geek Night number
+geek_night_number: 34
+
+# Lanyrd short url
+lanyrd_short_url: ctkzx
+
+# Keynoters
+keynoters: [TBC]
+---
+
+<ul class="keynotes">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">TBC</h2>
+        <p>TBC</p>
+        <!-- <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">TBC</h2>
+        <p>TBC</p>
+        <!-- <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div> -->
+    </li>
+</ul>
+
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://bit.ly/ogn-microslot" itemprop="url"><h2 itemprop="name">Microslot available</h2></a>
+        <p><a href="http://bit.ly/ogn-microslot">Click here to submit your microslot proposal</a></p>
+         <!-- <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://bit.ly/ogn-microslot" itemprop="url"><h2 itemprop="name">Microslot available</h2></a>
+        <p><a href="http://bit.ly/ogn-microslot">Click here to submit your microslot proposal</a></p>
+         <!-- <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://bit.ly/ogn-microslot" itemprop="url"><h2 itemprop="name">Microslot available</h2></a>
+        <p><a href="http://bit.ly/ogn-microslot">Click here to submit your microslot proposal</a></p>
+         <!-- <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://bit.ly/ogn-microslot" itemprop="url"><h2 itemprop="name">Microslot available</h2></a>
+        <p><a href="http://bit.ly/ogn-microslot">Click here to submit your microslot proposal</a></p>
+         <!-- <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+        </div> -->
+    </li>
+</ul>
+
+
