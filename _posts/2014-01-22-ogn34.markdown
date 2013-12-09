@@ -45,8 +45,8 @@ keynoters: [TBC]
 
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://bit.ly/ogn-microslot" itemprop="url"><h2 itemprop="name">Microslot available</h2></a>
-        <p><a href="http://bit.ly/ogn-microslot">Click here to submit your microslot proposal</a></p>
+        <a href="http://benjaminbenben.com/" itemprop="url"><h2 itemprop="name">Ben Foxall</h2></a>
+        <p>Ping Pong</p>
          <!-- <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
         </div> -->
