@@ -59,8 +59,8 @@ keynoters: [TBC]
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://bit.ly/ogn-microslot" itemprop="url"><h2 itemprop="name">Microslot available</h2></a>
-        <p><a href="http://bit.ly/ogn-microslot">Click here to submit your microslot proposal</a></p>
+        <a href="http://www.bethmcmillan.com/" itemprop="url"><h2 itemprop="name">Beth McMillan</h2></a>
+        <p>Using computers to replace animal testing</p>
          <!-- <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
         </div> -->
