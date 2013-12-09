@@ -46,7 +46,7 @@ keynoters: [TBC]
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://benjaminbenben.com/" itemprop="url"><h2 itemprop="name">Ben Foxall</h2></a>
-        <p>Ping Pong</p>
+        <p>ping-pong</p>
          <!-- <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
         </div> -->
