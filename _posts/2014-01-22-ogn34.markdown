@@ -52,7 +52,7 @@ keynoters: [TBC]
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://alter-eco.co.uk/" itemprop="url"><h2 itemprop="name">Richard Roaf</h2>
+        <a href="http://alter-eco.co.uk/" itemprop="url"><h2 itemprop="name">Richard Roaf</h2></a>
         <p>Winning at Youtube</p>
          <!-- <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
