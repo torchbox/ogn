@@ -66,7 +66,7 @@ keynoters: [TBC]
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">Chris Whalen</h2>
+        <a href="http://www.domeheid.com/"<h2 itemprop="name">Chris Whalen</h2></a>
         <p>How Bradley Wiggins can improve your website</p>
          <!-- <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
