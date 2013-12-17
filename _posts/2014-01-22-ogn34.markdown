@@ -28,7 +28,7 @@ keynoters: [TBC]
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">Andy Cotgreave</h2>
+        <a href="http://about.me/acotgreave"<h2 itemprop="name">Andy Cotgreave</h2></a>
         <p>The zen of data visualisation</p>
         <!-- <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
