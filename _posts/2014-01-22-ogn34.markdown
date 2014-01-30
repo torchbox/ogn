@@ -56,7 +56,7 @@ keynoters: [TBC]
         <p>Winning at Youtube</p>
          <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/ogn34/richard-roaf.ppt">Slides</a>
-        </div> -->
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.bethmcmillan.com/" itemprop="url"><h2 itemprop="name">Beth McMillan</h2></a>
