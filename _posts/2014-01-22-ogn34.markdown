@@ -30,16 +30,16 @@ keynoters: [TBC]
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://about.me/acotgreave"><h2 itemprop="name">Andy Cotgreave</h2></a>
         <p>The zen of data visualisation</p>
-        <!-- <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
-        </div> -->
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/andy-cotgreave.zip">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.research.lancs.ac.uk/portal/en/people/john-hardy(b4d1a041-d274-4375-90b1-10811cf96afb).html"><h2 itemprop="name">John Hardy</h2></a>
         <p>How to program your bed</p>
-        <!-- <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
-        </div> -->
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/john-hardy.pdf">Slides</a>
+        </div>
     </li>
 </ul>
 
@@ -47,30 +47,30 @@ keynoters: [TBC]
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://benjaminbenben.com/" itemprop="url"><h2 itemprop="name">Ben Foxall</h2></a>
         <p>ping-pong</p>
-         <!-- <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
-        </div> -->
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/ben-foxall.zip">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://alter-eco.co.uk/" itemprop="url"><h2 itemprop="name">Richard Roaf</h2></a>
         <p>Winning at Youtube</p>
-         <!-- <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/richard-roaf.ppt">Slides</a>
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.bethmcmillan.com/" itemprop="url"><h2 itemprop="name">Beth McMillan</h2></a>
         <p>Using computers to replace animal testing</p>
-         <!-- <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
-        </div> -->
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/beth-mcmillan.zip">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.domeheid.com/" itemprop="url"><h2 itemprop="name">Christopher Whalen</h2></a>
         <p>How Bradley Wiggins can improve your website</p>
-         <!-- <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/">Slides</a>
-        </div> -->
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/christopher-whalen.ppt">Slides</a>
+        </div>
     </li>
 </ul>
 
