@@ -48,7 +48,7 @@ keynoters: [TBC]
         <a href="http://benjaminbenben.com/" itemprop="url"><h2 itemprop="name">Ben Foxall</h2></a>
         <p>ping-pong</p>
          <div class="downloads">
-            <a href="http://benjaminbenben.com/ping-pong/#/">Slides</a>
+            <a href="https://github.com/benfoxall/ping-pong">Slides</a>
         </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
