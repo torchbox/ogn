@@ -31,7 +31,7 @@ keynoters: [TBC]
         <a href="http://about.me/acotgreave"><h2 itemprop="name">Andy Cotgreave</h2></a>
         <p>The zen of data visualisation</p>
         <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/ogn34/andy-cotgreave.zip">Slides</a>
+            <a href="http://gravyanecdote.com/uncategorized/the-zen-of-visual-analysis-ogn34/">Slides</a>
         </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
