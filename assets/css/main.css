@@ -138,8 +138,8 @@ p {
   font-weight: 400;
   margin: 0 0 1.5em 0;
   padding: 0;
-  font-size: 1.1em;
-  color: #555555;
+  font-size: 1em;
+  color: #444;
   line-height: 1.6;
   letter-spacing: -0.01em;
 }
@@ -289,7 +289,7 @@ input[type="submit"]:hover {
 
 
 a.link-fat {
-  color: #2dc5f4;
+  color: #6dc0ea;
   font-size: 3em;
   text-transform: uppercase;
   line-height: 1em;
@@ -440,7 +440,9 @@ a:hover.link-fat {
   }
 
     .keynotes {
-      margin: 2em 0 0 0;
+      margin: 2em 0 2em 0;
+      display: block;
+      overflow: hidden;
     }
 
     .keynotes h2 {
@@ -449,6 +451,21 @@ a:hover.link-fat {
 
     .keynotes p {
       font-size: 1.4em;
+    }
+
+    .keynotes li {
+    display: block;
+    width: 48.5%;
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: 3%;
+    padding-bottom: 3em;
+  }
+
+    .keynotes li:first-child {
+      margin-left: 0;
     }
 
   .speakers a h2,
@@ -675,23 +692,28 @@ a:hover.link-fat {
   }
 
   .speakers h2{
-    font-size: 2.5em;
+    font-size: 2em;
   }
     .keynotes h2 {
       font-size: 4.125em;
     }
 
-    .microslots li {
-      display: block;
-      width: 46%;
-      float: left;
-      padding: 2em 1em;
-      margin: auto 2%;
-      min-height: 10em;
-      border-bottom:1px dotted #ccc;
-      -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-         -moz-box-sizing: border-box;    /* Firefox, other Gecko */
-              box-sizing: border-box;         /* Opera/IE 8+ */
+
+  .microslots li {
+    display: block;
+    width: 22.7%;
+    float: left;
+    padding: 2em 1em;
+    min-height: 13em;
+    border-bottom: 1px dotted #ccc;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: 3%;
+  }
+
+    .microslots li:first-child {
+      margin-left: 0;
     }
 
   .event-info, .sponsor, .speakers {
