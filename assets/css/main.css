@@ -129,12 +129,19 @@ h1,h2,h3,h4,h5,h6 {
 
 h1 {
   text-transform: uppercase;
-  font-size: 3em;
+  font-size: 7em;
 }
 
 p {
-  font-size: 1.5em;
-  margin:0 0 1em 0;
+  font-family: "open-sans",sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0 0 1.5em 0;
+  padding: 0;
+  font-size: 1.1em;
+  color: #555555;
+  line-height: 1.6;
+  letter-spacing: -0.01em;
 }
 
 
@@ -248,7 +255,7 @@ p{
 a.button,
 .button,
 input[type="submit"] {
-  background-color: #2dc5f4;
+  background-color: #6dc0ea;
   color: #fff;
   font-size: 1.313em; 
   text-transform: uppercase;
@@ -341,11 +348,27 @@ a:hover.link-fat {
           background-size: cover;
   text-align: center;
   color: #F5E290;
-  padding: 1.125em 0;
+  padding: 1.5em 0 3em 0;
 }
 
   .header a {
-    color: #fff;
+    color: white;
+  }
+
+  .header .venue a {
+    color: white;
+    border-bottom: 1px dotted #999999;
+    padding: 0.25em 0.5em 0.25em 0.5em;
+  }
+
+  .header .venue a i {
+    color: #ff653f;
+  }
+
+  .header .venue a:hover {
+    background: white;
+    color: #ff653f;
+    border-bottom: 1px solid #ff653f;
   }
 
   .tbx-link { 
@@ -366,15 +389,22 @@ a:hover.link-fat {
   .header .venue {
     font-size: 1.75em;
     color: #fff;
+    text-transform: none;
+  }
+
+  .header .venue {
+    font-size: 1.3em;
+    font-family: "open-sans",sans-serif;
   }
 
   .header .date-time {
-    font-size: 3em;
+    font-size: 4em;
+    margin: 0 0 0.25em 0;
   }
 
   .header .event-number {
     font-size: 5em;
-    color: #F5D236;
+    color: #6dc0ea;
     display: block;
     line-height: 0.8em;
   }
@@ -386,11 +416,12 @@ a:hover.link-fat {
 
 .speakers li{
   border-bottom: 1px dotted #ccc;
-  padding: 1em;
+  padding: 2em;
 }
-  .speakers p{
-    margin:0;
+  .speakers p {
+    margin:0 0 0.75em 0;
   }
+
   .speakers a:link,
   .speakers a:visited {
     color: #DF532D;
@@ -407,14 +438,30 @@ a:hover.link-fat {
     display: inline-block;
     margin-bottom: 6px;
   }
+
+    .keynotes {
+      margin: 2em 0 0 0;
+    }
+
     .keynotes h2 {
       font-size: 3.125em;
+    }
+
+    .keynotes p {
+      font-size: 1.4em;
     }
 
   .speakers a h2,
   .speakers h2 a:link {
     color: #4d4547;
     border-bottom: 1px dotted #4d4547;
+    padding: 0 0.25em;
+    margin-bottom: 0.25em;
+  }
+
+  .speakers a:hover h2 {
+    color: #ff653f;
+    border-bottom: 1px solid #ff653f;
   }
 
   .speakers a.button:hover,
@@ -428,21 +475,23 @@ a:hover.link-fat {
 }
   .downloads a:link,
   .downloads a:visited {
-    color: #4D4547;
+    color: white;
     font-size: 0.75em;
-    font-weight: bold;
     text-transform: uppercase;
     -webkit-border-radius: 3px;
        -moz-border-radius: 3px;
             border-radius: 3px;
-    background-color:#EDECED;
+    background-color:#ff653f;
     padding:2px 5px;
     margin-right:5px;
+    border: 1px solid #ff653f;
   }
 
   .downloads a:hover,
   .downloads a:active {
-    color: #000;
+    color: #ff653f;
+    border: 1px solid #ff653f;
+    background-color:white;
   } 
 
 
@@ -510,7 +559,7 @@ a:hover.link-fat {
 }
 
 .about {
-  background-color: #DE522C;
+  background-color: #ff653f;
   color: #fff;
   padding: 3em 0;
 }
@@ -639,14 +688,14 @@ a:hover.link-fat {
       padding: 2em 1em;
       margin: auto 2%;
       min-height: 10em;
-      border:none;
+      border-bottom:1px dotted #ccc;
       -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
          -moz-box-sizing: border-box;    /* Firefox, other Gecko */
               box-sizing: border-box;         /* Opera/IE 8+ */
     }
 
   .event-info, .sponsor, .speakers {
-    max-width: 54em; 
+    max-width: 70em; 
   }
 
   .hashtag {
