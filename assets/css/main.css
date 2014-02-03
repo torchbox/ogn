@@ -594,11 +594,11 @@ a:hover.link-fat {
 }
 
 .speak .button {
-  display: inline; /* force a line break */
-  background-color: #fff;
-  color: #6dc0ea;
+  background-color: #ff653f;
+  color: #fff;
   width: auto;
-  display: inline-block;
+  border: 1px solid white;
+  overflow: auto;
 }
 
 .speak .button:hover {
