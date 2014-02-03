@@ -281,7 +281,7 @@ input[type="submit"] {
 a:hover.button,
 .button:hover,
 input[type="submit"]:hover {
-  background-color: #1aa9d5;
+  background-color: #f3d439;
   -webkit-transition: .10s background ease-in-out;
        -moz-transition: .10s background ease-in-out;
             transition: .10s background ease-in-out;
@@ -599,6 +599,7 @@ a:hover.link-fat {
   width: auto;
   border: 1px solid white;
   overflow: auto;
+  font-size: 2em;
 }
 
 .speak .button:hover {
@@ -624,7 +625,6 @@ a:hover.link-fat {
   .past-events ul {
     font-size: 0;
     overflow: hidden;
-    text-align: left;
     padding: 0 3.3%;
   }
     .past-events li {
@@ -763,6 +763,10 @@ a:hover.link-fat {
     .past-events li:nth-child(even) {
       margin-right: 3.333%;
     } 
+
+    .past-events li:nth-child(3n+3)  {
+      margin-right: 0;
+    }
   
 .lanyrd {
   border-top: 1px;
