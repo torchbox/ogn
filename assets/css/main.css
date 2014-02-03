@@ -528,7 +528,7 @@ a:hover.link-fat {
     vertical-align: middle;
   }
     .connect li h2 {
-      margin: 0.2em 0 0 0;
+      margin: 0.4em 0 0 0;
     }
 
 .hashtag {
@@ -589,6 +589,10 @@ a:hover.link-fat {
   padding: 3em 0;
 }
 
+.about p {
+  color: #fff;
+}
+
 .speak .button {
   display: inline; /* force a line break */
   background-color: #fff;
@@ -596,6 +600,11 @@ a:hover.link-fat {
   width: auto;
   display: inline-block;
 }
+
+.speak .button:hover {
+  color: #fff;
+}
+
 
 
 /*
@@ -664,13 +673,14 @@ a:hover.link-fat {
       display: block;
       overflow: hidden;
       width: 100%;
-      color: #df532d;
+      color: #ff653f;
       line-height: 1em;    
     }
 
     .past-events .date {
       color: #4d4547;
       font-size: 1.35em;
+      text-transform: none;
     }
 
 
