@@ -100,7 +100,7 @@ a:active {
 }
 
 .button, input[type="submit"]{
-  background-color: #2dc5f4;
+  background-color: #6dc0ea;
   color: #fff;
   border: none;
   font-size: 1.313em;
@@ -260,9 +260,9 @@ input[type="submit"] {
   font-size: 1.313em; 
   text-transform: uppercase;
   padding: 0.28em 0.5em;
-  -webkit-border-radius: 0.25em;
-     -moz-border-radius: 0.25em;
-          border-radius: 0.25em;
+  -webkit-border-radius: 0.15em;
+     -moz-border-radius: 0.15em;
+          border-radius: 0.15em;
   
   -webkit-transition: .10s background ease-in-out;
      -moz-transition: .10s background ease-in-out;
@@ -273,7 +273,7 @@ input[type="submit"] {
   padding: 0.125em 0.375em;
   font-size: 3em;
   display: inline-block;
-  margin-bottom: 0.125em;
+  margin-bottom: 0.5em;
 
 }
 
@@ -290,7 +290,7 @@ input[type="submit"]:hover {
 
 a.link-fat {
   color: #6dc0ea;
-  font-size: 3em;
+  font-size: 4em;
   text-transform: uppercase;
   line-height: 1em;
   -webkit-transition: .10s color ease-in-out;
@@ -472,8 +472,8 @@ a:hover.link-fat {
   .speakers h2 a:link {
     color: #4d4547;
     border-bottom: 1px dotted #4d4547;
-    padding: 0 0.25em;
-    margin-bottom: 0.25em;
+    padding: 0 0.15em;
+    margin-bottom: 0.15em;
   }
 
   .speakers a:hover h2 {
@@ -527,6 +527,9 @@ a:hover.link-fat {
     line-height: 1em;
     vertical-align: middle;
   }
+    .connect li h2 {
+      margin: 0.2em 0 0 0;
+    }
 
 .hashtag {
   font-size: 4em;
@@ -543,15 +546,20 @@ a:hover.link-fat {
  * SPONSORS
  */
  
+.sponsor {
+  text-align: center;
+}
+
 .sponsor h3{
   color: #999;
   letter-spacing: 0.25em;
+  font-size: 1em;
+  display: inline-block;
+  margin-right: 0.5em;
 }
 
-.sponsor img {
-  max-width: 140px;
-  text-align: center;
-  margin: 0 0 10px 0;
+.sponsor img:first-child {
+  margin: 0 2em 0 0;
 }
 
 /*
@@ -584,7 +592,7 @@ a:hover.link-fat {
 .speak .button {
   display: inline; /* force a line break */
   background-color: #fff;
-  color: #2dc5f4;
+  color: #6dc0ea;
   width: auto;
   display: inline-block;
 }
@@ -600,7 +608,8 @@ a:hover.link-fat {
   color: #fff;
 }
   .past-events h2 {
-    font-size: 3.125em;    
+    font-size: 3.125em; 
+    margin: 0.5em 0 0.5em 0;   
   }
 
   .past-events ul {
@@ -647,7 +656,7 @@ a:hover.link-fat {
       font-size: 3em;
       line-height:1em;
       display: block;
-      color: #2DC5F4;
+      color: #6dc0ea;
     }
 
     .past-events .speakers {
@@ -698,6 +707,11 @@ a:hover.link-fat {
       font-size: 4.125em;
     }
 
+  .microslots {
+    margin: 0 0 2em 0;
+    display: block;
+    overflow: hidden;
+   } 
 
   .microslots li {
     display: block;
@@ -751,7 +765,7 @@ a:hover.link-fat {
   }
   
   .sponsor img {
-    max-width: 200px;
+    max-width: 160px;
     text-align: center;
   }
 
