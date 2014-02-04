@@ -341,7 +341,7 @@ a:hover.link-fat {
  */
 
 .header {
-  background: #4D4547 url("../images/garrett_480.jpg");
+  background: #4D4547 url("../images/main.jpg");
   -webkit-background-size: cover;
      -moz-background-size: cover;
        -o-background-size: cover;
@@ -641,7 +641,7 @@ a:hover.link-fat {
 
 .past-events {
   background-color: #4C4446;
-  background: #4D4547 url("../images/past.jpg");
+  background: #4D4547 url("../images/past2.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -734,7 +734,7 @@ a:hover.link-fat {
 @media only screen and (min-width: 47.5em) {
 
   .header{
-    background-image: url("../images/garrett.jpeg");
+    background-image: url("../images/main.jpg");
     background-position: center center;
     background-repeat: no-repeat;
   }
