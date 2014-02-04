@@ -255,7 +255,7 @@ p{
 a.button,
 .button,
 input[type="submit"] {
-  background-color: #6dc0ea;
+  background-color: #F5D236;
   color: #fff;
   font-size: 1.313em; 
   text-transform: uppercase;
@@ -281,7 +281,7 @@ input[type="submit"] {
 a:hover.button,
 .button:hover,
 input[type="submit"]:hover {
-  background-color: #f3d439;
+  background-color: #F5D236;
   -webkit-transition: .10s background ease-in-out;
        -moz-transition: .10s background ease-in-out;
             transition: .10s background ease-in-out;
@@ -405,7 +405,7 @@ a:hover.link-fat {
 
   .header .event-number {
     font-size: 5em;
-    color: #6dc0ea;
+    color: #F5D236;
     display: block;
     line-height: 0.8em;
   }
@@ -493,23 +493,22 @@ a:hover.link-fat {
 }
   .downloads a:link,
   .downloads a:visited {
-    color: white;
-    font-size: 0.75em;
-    text-transform: uppercase;
-    -webkit-border-radius: 3px;
-       -moz-border-radius: 3px;
-            border-radius: 3px;
-    background-color:#ff653f;
-    padding:2px 5px;
-    margin-right:5px;
+    color: #ff653f;
     border: 1px solid #ff653f;
+    background-color:white;
+    padding:2px 5px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+     font-size: 0.75em;
+    text-transform: uppercase;
   }
 
   .downloads a:hover,
   .downloads a:active {
-    color: #ff653f;
+    color: white;
+    background-color:#ff653f;
     border: 1px solid #ff653f;
-    background-color:white;
   } 
 
 
@@ -705,7 +704,7 @@ a:hover.link-fat {
       font-size: 3em;
       line-height:1em;
       display: block;
-      color: #6dc0ea;
+      color: #F5D236;
     }
 
     .past-events .speakers {
