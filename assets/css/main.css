@@ -324,12 +324,12 @@ a:hover.link-fat {
   margin: 0 auto;
 }
 
-.lanyrd, .sponsor{
-  padding: 1.5em 0;
+.lanyrd {
+  padding: 1.5em 0 0 0;
 }
 
 .lanyrd{
-  border-bottom: 1px dotted #ccc;
+
 }
 .vertically-padded{
   padding:4em 0;
@@ -519,7 +519,7 @@ a:hover.link-fat {
 .connect {
   margin-top:3em;
   background-color: #edeced;
-  padding: 0.75em 0;
+  padding: 1em 0;
 }
   .connect li {
     display: inline-block;
@@ -540,6 +540,31 @@ a:hover.link-fat {
   margin: 0.750em;
   display: block;
 }
+
+  .newsletter form {
+    display: inline-block;
+  }
+
+  .newsletter h2 {
+      font-size: 2em;
+      display: inline-block;
+      margin-right: 0.5em;
+  }
+
+  .newsletter input[type="email"] {
+    display: inline-block;
+    width: inherit;
+    width: 400px;
+    font-size: 1.1em;
+    margin-top: -25px;
+  }
+
+  .newsletter input[type="submit"] {
+    font-size: 1.2em;
+    text-align: center;
+    height: 56px;
+    margin-top: -25px;
+  }
 
 
 /*
@@ -603,7 +628,8 @@ a:hover.link-fat {
 }
 
 .speak .button:hover {
-  color: #fff;
+  color: #ff653f;
+  background: white;
 }
 
 
@@ -615,8 +641,15 @@ a:hover.link-fat {
 
 .past-events {
   background-color: #4C4446;
+  background: #4D4547 url("../images/past.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   color: #fff;
 }
+
+
   .past-events h2 {
     font-size: 3.125em; 
     margin: 0.5em 0 0.5em 0;   
