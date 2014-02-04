@@ -129,7 +129,7 @@ h1,h2,h3,h4,h5,h6 {
 
 h1 {
   text-transform: uppercase;
-  font-size: 7em;
+  font-size: 3em;
 }
 
 p {
@@ -346,6 +346,7 @@ a:hover.link-fat {
      -moz-background-size: cover;
        -o-background-size: cover;
           background-size: cover;
+  background-position: center center;
   text-align: center;
   color: #F5E290;
   padding: 1.5em 0 3em 0;
@@ -393,12 +394,12 @@ a:hover.link-fat {
   }
 
   .header .venue {
-    font-size: 1.3em;
+    font-size: 1em;
     font-family: "open-sans",sans-serif;
   }
 
   .header .date-time {
-    font-size: 4em;
+    font-size: 2em;
     margin: 0 0 0.25em 0;
   }
 
@@ -440,27 +441,27 @@ a:hover.link-fat {
   }
 
     .keynotes {
-      margin: 2em 0 2em 0;
+      margin: 1em 0 0 0;
       display: block;
       overflow: hidden;
     }
 
     .keynotes h2 {
-      font-size: 3.125em;
+      font-size: 2.5em;
     }
 
     .keynotes p {
-      font-size: 1.4em;
+      font-size: 1.2em;
+      line-height: 1.2;
     }
 
     .keynotes li {
     display: block;
-    width: 48.5%;
-    float: left;
+    width: 100%;
+    float: none;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin-left: 3%;
     padding-bottom: 3em;
   }
 
@@ -547,23 +548,24 @@ a:hover.link-fat {
 
   .newsletter h2 {
       font-size: 2em;
-      display: inline-block;
-      margin-right: 0.5em;
+      display: block;
+      margin: 1em 0 0 0;
   }
 
   .newsletter input[type="email"] {
     display: inline-block;
     width: inherit;
-    width: 400px;
+    width: 240px;
     font-size: 1.1em;
-    margin-top: -25px;
+    margin-top: 0;
+    text-align: center;
   }
 
   .newsletter input[type="submit"] {
     font-size: 1.2em;
     text-align: center;
     height: 56px;
-    margin-top: -25px;
+    margin-top: 0;
   }
 
 
@@ -579,13 +581,18 @@ a:hover.link-fat {
   color: #999;
   letter-spacing: 0.25em;
   font-size: 1em;
-  display: inline-block;
+  display: block;
   margin-right: 0.5em;
 }
 
 .sponsor img:first-child {
   margin: 0 2em 0 0;
 }
+
+  .sponsor img {
+    max-width: 160px;
+    text-align: center;
+  }
 
 /*
  * ABOUT
@@ -596,9 +603,9 @@ a:hover.link-fat {
   margin: 0 auto;
 }
 .description p:first-child {
-  max-width: 24em;
-  margin-bottom: 0.25em;
-  font-size: 1.75em;
+  max-width: none;
+  margin-bottom: 0.5em;
+  font-size: 1.4em;
   line-height: 1.5em;
 }
 
@@ -624,7 +631,7 @@ a:hover.link-fat {
   width: auto;
   border: 1px solid white;
   overflow: auto;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 .speak .button:hover {
@@ -718,6 +725,8 @@ a:hover.link-fat {
 
 
 
+
+
 /*
  * 404 page
  */
@@ -731,12 +740,26 @@ a:hover.link-fat {
  * MEDIA QUERIES
  */
 
-@media only screen and (min-width: 47.5em) {
+@media only screen and (min-width: 1024px) {
 
   .header{
     background-image: url("../images/main.jpg");
     background-position: center center;
     background-repeat: no-repeat;
+  }
+
+  h1 {
+    font-size: 7em;
+  }
+
+  .header .date-time {
+    font-size: 4em;
+    margin: 0 0 0.25em 0;
+  }
+
+  .header .venue {
+    font-size: 1.3em;
+    font-family: "open-sans",sans-serif;
   }
 
   .speakers {
@@ -746,8 +769,34 @@ a:hover.link-fat {
   .speakers h2{
     font-size: 2em;
   }
-    .keynotes h2 {
-      font-size: 4.125em;
+
+  .keynotes {
+    margin: 2em 0 2em 0;
+    display: block;
+    overflow: hidden;
+  }
+
+  .keynotes h2 {
+    font-size: 3.125em;
+  }
+
+  .keynotes p {
+    font-size: 1.4em;
+  }
+
+  .keynotes li {
+    display: block;
+    width: 48.5%;
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: 3%;
+    padding-bottom: 3em;
+  }
+
+    .keynotes li:first-child {
+      margin-left: 0;
     }
 
   .microslots {
@@ -777,8 +826,50 @@ a:hover.link-fat {
     max-width: 70em; 
   }
 
+  .sponsor h3 {
+    display: inline-block;
+  }
+
   .hashtag {
     font-size: 6em;
+  }
+
+  .newsletter h2 {
+      font-size: 2em;
+      display: inline-block;
+      margin-right: 0.5em;
+  }
+
+  .newsletter input[type="email"] {
+    display: inline-block;
+    width: inherit;
+    width: 400px;
+    font-size: 1.1em;
+    margin-top: -25px;
+    text-align: left;
+  }
+
+  .newsletter input[type="submit"] {
+    font-size: 1.2em;
+    text-align: center;
+    height: 56px;
+    margin-top: -25px;
+  }
+
+  .description p:first-child {
+    max-width: 24em;
+    margin-bottom: 0.25em;
+    font-size: 1.75em;
+    line-height: 1.5em;
+  }
+
+  .speak .button {
+    background-color: #ff653f;
+    color: #fff;
+    width: auto;
+    border: 1px solid white;
+    overflow: auto;
+    font-size: 2em;
   }
 
   .past-events {
