@@ -750,7 +750,9 @@ a:hover.link-fat {
 
   h1 {
     font-size: 7em;
+    position: relative;
   }
+
 
   .header .date-time {
     font-size: 4em;
@@ -776,8 +778,9 @@ a:hover.link-fat {
     overflow: hidden;
   }
 
+
   .keynotes h2 {
-    font-size: 3.125em;
+    font-size: 4.5em;
   }
 
   .keynotes p {
@@ -793,6 +796,7 @@ a:hover.link-fat {
     box-sizing: border-box;
     margin-left: 3%;
     padding-bottom: 3em;
+    position: relative;
   }
 
     .keynotes li:first-child {
