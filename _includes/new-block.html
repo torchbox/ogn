@@ -1,0 +1,26 @@
+<section class="connect">
+  <div class="wrapper league">
+    
+    <div class="description">
+        <p>Oxford Geek Night is a regular meet-up for designers &amp; developers run&nbsp;by&nbsp;Torchbox.</p> 
+        <p>We have two keynote talks of 15 minutes each followed by a handful of 5&nbsp;minute&nbsp;micro-slots.</p>
+      </div>
+      <h3 class="league speak"><a href="/volunteer.html" class="button">Volunteer your microslot</a></h3>
+      <div class="newsletter">
+    <h2>Join the mailing list</h2>
+    <form action="http://groups.google.com/group/oxford-geek-nights/boxsubscribe">
+      <input type="email" name="email" placeholder="Your email address" />
+      <input type="submit" value="sign up" />
+    </form>
+    </div>
+    <ul>
+      {% if page.geek_night_number %}
+        <li class="hashtag">#ogn{{ page.geek_night_number }}</li>
+      {% endif %}
+      <li>
+        <h2>Follow us on Twitter</h2> 
+        <a href="http://twitter.com/oxfordgeeks" class="link-fat twitter-handle">@oxfordgeeks</a>
+      </li>
+    </ul>
+  </div>
+</section>
