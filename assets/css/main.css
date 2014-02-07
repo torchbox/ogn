@@ -871,7 +871,7 @@ a:hover.link-fat {
     color: #fff;
     width: auto;
     border: 1px solid white;
-    overflow: auto;
+    overflow: hidden;
     font-size: 2em;
   }
 
