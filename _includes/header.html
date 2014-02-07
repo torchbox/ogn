@@ -6,10 +6,10 @@
     {% if page.geek_night_number %}
       <meta itemprop="startDate" content="{{ page.date | date: "%Y-%m-%d" }}T19:30" />
       <div class="date-time">
-        <span class="date">{{ page.date | date: "%d %B %Y" }}</span> | <span class="time">{{ page.time }}</span>
+        <span class="date">{{ page.date | date: "%d %B %Y" }}</span>, <span class="time">{{ page.time }}</span>
       </div>
       <div class="venue" itemprop="location" itemscope itemtype="http://schema.org/Place">
-        <a href="{{ page.map_url }}" itemprop="url"><span itemprop="name">{{ page.short_address }}</span></a>
+        <a href="{{ page.map_url }}" itemprop="url"><i class="fa fa-map-marker fa-lg"></i> <span itemprop="name">{{ page.short_address }}</span></a>
       </div>
     {% endif %}
   </div>
