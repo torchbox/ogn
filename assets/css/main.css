@@ -416,8 +416,12 @@ a:hover.link-fat {
  */
 
 .speakers li{
-  border-bottom: 1px dotted #ccc;
   padding: 2em;
+}
+
+.microslots li{
+  border-bottom: 1px dotted #ccc;
+  border-top: 1px dotted #ccc;
 }
   .speakers p {
     margin:0 0 0.75em 0;
@@ -456,14 +460,14 @@ a:hover.link-fat {
     }
 
     .keynotes li {
-    display: block;
-    width: 100%;
-    float: none;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    padding-bottom: 3em;
-  }
+      display: block;
+      width: 100%;
+      float: none;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+      padding-bottom: 3em;
+    }
 
     .keynotes li:first-child {
       margin-left: 0;
@@ -793,13 +797,14 @@ a:hover.link-fat {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin-left: 3%;
+    margin-right: 3%;
     padding-bottom: 3em;
     position: relative;
+    height: 16em;
   }
 
-    .keynotes li:first-child {
-      margin-left: 0;
+    .keynotes li:nth-child(2n+2) {
+      margin-right: 0;
     }
 
   .microslots {
