@@ -37,15 +37,15 @@ keynoters: [TBC]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://wagtail.io/"><h2 itemprop="name">Olly Willans &amp; Tom Dyson</h2></a>
-        <p>A fresh take on content management</p>
+        <p>A Fresh Take On Content Management</p>
         <!--
         <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/ogn34/john-hardy.pdf">Slides</a>
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://boagworld.com/"><h2 itemprop="name">Vitaly Friedman</h2></a>
-        <p>Introduction to digital adaptations/p>
+        <a href="http://boagworld.com/"><h2 itemprop="name">Paul Boag</h2></a>
+        <p>Introduction To Digital Adaptations</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
@@ -53,7 +53,7 @@ keynoters: [TBC]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://anna.ps/"><h2 itemprop="name">Anna Powell-Smith</h2></a>
-        <p>How I put the Domesday Book online</p>
+        <p>How I Put The Domesday Book Online</p>
         <!--
         <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/ogn34/john-hardy.pdf">Slides</a>
