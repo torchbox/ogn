@@ -14,10 +14,10 @@ map_url: http://bit.ly/Pesy75
 # Sponsors in the form - [name]: [logo imag path (in /assets/images)]
 # Do not include Torchbox
 sponsor:
-- haybrook: bladerunner-js-black-trans.png
+- BladeRunnerJS: sponsor-bladerunner.png
 
 # The Geek Night number
-geek_night_number: 34
+geek_night_number: 35
 
 # Lanyrd short url
 lanyrd_short_url: ctkzx
@@ -28,21 +28,40 @@ keynoters: [TBC]
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://about.me/acotgreave"><h2 itemprop="name">Andy Cotgreave</h2></a>
-        <p>The zen of data visualisation</p>
+        <a href="http://www.smashingmagazine.com/author/vitaly-friedman/"><h2 itemprop="name">Vitaly Friedman</h2></a>
+        <p>Real-Life Responsive Web Design: Lessons Learned</p>
+        <!--
         <div class="downloads">
-            <a href="http://gravyanecdote.com/uncategorized/the-zen-of-visual-analysis-ogn34/">Slides</a>
-        </div>
+            <a href="/">Slides</a>
+        </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://www.research.lancs.ac.uk/portal/en/people/john-hardy(b4d1a041-d274-4375-90b1-10811cf96afb).html"><h2 itemprop="name">John Hardy</h2></a>
-        <p>How to program your bed</p>
+        <a href="http://wagtail.io/"><h2 itemprop="name">Olly Willans &.amp; Tom Dyson</h2></a>
+        <p>A fresh take on content management</p>
+        <!--
         <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/ogn34/john-hardy.pdf">Slides</a>
-        </div>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://boagworld.com/"><h2 itemprop="name">Vitaly Friedman</h2></a>
+        <p>Introduction to digital adaptations/p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://anna.ps/"><h2 itemprop="name">Anna Powell-Smith</h2></a>
+        <p>How I put the Domesday Book online</p>
+        <!--
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/john-hardy.pdf">Slides</a>
+        </div> -->
     </li>
 </ul>
 
+<!-- 
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://benjaminbenben.com/" itemprop="url"><h2 itemprop="name">Ben Foxall</h2></a>
@@ -73,5 +92,5 @@ keynoters: [TBC]
         </div>
     </li>
 </ul>
-
+-->
 
