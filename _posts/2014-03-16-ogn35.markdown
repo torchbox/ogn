@@ -3,7 +3,7 @@
 layout: event
 
 # Event time
-time: 7:30pm
+time: 7:00pm
 
 # A short address of Geek Night location. 
 short_address: Jericho Tavern, Oxford
@@ -14,7 +14,7 @@ map_url: http://bit.ly/Pesy75
 # Sponsors in the form - [name]: [logo imag path (in /assets/images)]
 # Do not include Torchbox
 sponsor:
-- haybrook: sponsor-haybrook.png
+- haybrook: bladerunner-js-black-trans.png
 
 # The Geek Night number
 geek_night_number: 34
