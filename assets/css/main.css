@@ -783,11 +783,11 @@ a:hover.link-fat {
 
 
   .keynotes h2 {
-    font-size: 4.5em;
+    font-size: 3.7em;
   }
 
   .keynotes p {
-    font-size: 1.4em;
+    font-size: 1.2em;
   }
 
   .keynotes li {
@@ -800,7 +800,7 @@ a:hover.link-fat {
     margin-right: 3%;
     padding-bottom: 3em;
     position: relative;
-    height: 16em;
+    height: 12em;
   }
 
     .keynotes li:nth-child(2n+2) {
