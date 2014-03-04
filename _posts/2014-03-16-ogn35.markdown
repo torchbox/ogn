@@ -35,6 +35,14 @@ keynoters: [TBC]
             <a href="/">Slides</a>
         </div> -->
     </li>
+        <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://anna.ps/"><h2 itemprop="name">Anna Powell-Smith</h2></a>
+        <p>How I Put The Domesday Book Online</p>
+        <!--
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/john-hardy.pdf">Slides</a>
+        </div> -->
+    </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://wagtail.io/"><h2 itemprop="name">Olly Willans &amp; Tom Dyson</h2></a>
         <p>A Fresh Take On Content Management</p>
@@ -51,14 +59,7 @@ keynoters: [TBC]
             <a href="/">Slides</a>
         </div> -->
     </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://anna.ps/"><h2 itemprop="name">Anna Powell-Smith</h2></a>
-        <p>How I Put The Domesday Book Online</p>
-        <!--
-        <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/ogn34/john-hardy.pdf">Slides</a>
-        </div> -->
-    </li>
+
 </ul>
 
 <!-- 
