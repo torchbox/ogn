@@ -1,0 +1,97 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:00pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/Pesy75
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+sponsor:
+- BladeRunnerJS: sponsor-bladerunner.png
+
+# The Geek Night number
+geek_night_number: 35
+
+# Lanyrd short url
+lanyrd_short_url: ctkzx
+
+# Keynoters
+keynoters: [TBC]
+---
+
+<ul class="keynotes">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.smashingmagazine.com/author/vitaly-friedman/"><h2 itemprop="name">Vitaly Friedman</h2></a>
+        <p>Real-Life Responsive Web Design: Lessons Learned</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+        <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://anna.ps/"><h2 itemprop="name">Anna Powell-Smith</h2></a>
+        <p>How I Put The Domesday Book Online</p>
+        <!--
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/john-hardy.pdf">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://wagtail.io/"><h2 itemprop="name">Olly Willans &amp; Tom Dyson</h2></a>
+        <p>A Fresh Take On Content Management</p>
+        <!--
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/john-hardy.pdf">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://boagworld.com/"><h2 itemprop="name">Paul Boag</h2></a>
+        <p>Introduction To Digital Adaptations</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+
+</ul>
+
+<!-- 
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://benjaminbenben.com/" itemprop="url"><h2 itemprop="name">Ben Foxall</h2></a>
+        <p>ping-pong</p>
+         <div class="downloads">
+            <a href="https://github.com/benfoxall/ping-pong">Slides</a>
+        </div>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://alter-eco.co.uk/" itemprop="url"><h2 itemprop="name">Richard Roaf</h2></a>
+        <p>Winning at Youtube</p>
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/richard-roaf.ppt">Slides</a>
+        </div>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.bethmcmillan.com/" itemprop="url"><h2 itemprop="name">Beth McMillan</h2></a>
+        <p>Using computers to replace animal testing</p>
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/beth-mcmillan.zip">Slides</a>
+        </div>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.domeheid.com/" itemprop="url"><h2 itemprop="name">Christopher Whalen</h2></a>
+        <p>How Bradley Wiggins can improve your website</p>
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/christopher-whalen.ppt">Slides</a>
+        </div>
+    </li>
+</ul>
+-->
+
