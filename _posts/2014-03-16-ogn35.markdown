@@ -36,7 +36,7 @@ keynoters: [TBC]
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://wagtail.io/"><h2 itemprop="name">Olly Willans &.amp; Tom Dyson</h2></a>
+        <a href="http://wagtail.io/"><h2 itemprop="name">Olly Willans &amp; Tom Dyson</h2></a>
         <p>A fresh take on content management</p>
         <!--
         <div class="downloads">
