@@ -341,12 +341,8 @@ a:hover.link-fat {
  */
 
 .header {
-  background: #4D4547 url("../images/main.jpg");
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
-  background-position: center center;
+  background: #4D4547 url("../images/ogn-pattern.png");
+  background-repeat: repeat;
   text-align: center;
   color: #F5E290;
   padding: 1.5em 0 3em 0;
@@ -746,9 +742,9 @@ a:hover.link-fat {
 @media only screen and (min-width: 1024px) {
 
   .header{
-    background-image: url("../images/main.jpg");
+    background-image: url("../images/ogn-pattern.png");
     background-position: center center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
   }
 
   h1 {
