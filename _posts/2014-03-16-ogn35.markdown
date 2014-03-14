@@ -29,7 +29,7 @@ keynoters: [TBC]
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://joeleech.net/"><h2 itemprop="name">Joe Leech</h2></a>
-        <p>Responsive redesign projects</p>
+        <p>Responsive Redesign Projects</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
