@@ -61,7 +61,7 @@ keynoters: [TBC]
     </li>
 
 </ul>
-<p class="extra-info">June's Geek Night is a special one, put together in partnership with the <a href="http://www.mhs.ox.ac.uk/">Museum of the History of Science</a> to celebrate their "Geek is Good" exhibition. It's a free, but ticketed event (as space in the museum is limited) so please sign up using Eventbrite in order to confirm your attendance. Free drinks courtesy of <a href="http://www.haybrook.co.uk/">Haybrook IT</a> will be available to all guests. For the next Geek Night we'll return to our usual home at The Jericho Tavern!</p>
+<p class="extra-info">June's Geek Night is a special one, put together in partnership with the <a href="http://www.mhs.ox.ac.uk/">Museum of the History of Science</a> to celebrate their "Geek is Good" exhibition. It's free, but ticketed event (as space in the museum is limited) so please sign up using Eventbrite in order to confirm your attendance. Free drinks courtesy of <a href="http://www.haybrook.co.uk/">Haybrook IT</a> will be available to all guests. For the next Geek Night we'll return to our usual home at The Jericho Tavern!</p>
 
 <!-- 
 <ul class="microslots">
