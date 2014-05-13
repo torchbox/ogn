@@ -406,6 +406,11 @@ a:hover.link-fat {
     line-height: 0.8em;
   }
 
+  .geekisgood {
+    font-size: 3em;
+    color: #F5D236;
+  }
+
 
 /*
  * SPEAKER LISTINGS
@@ -510,6 +515,13 @@ a:hover.link-fat {
     background-color:#ff653f;
     border: 1px solid #ff653f;
   } 
+
+  p.extra-info {
+    width: 80%;
+    margin: 2em auto 1em auto;
+    line-height: 1.7em;
+    font-size: 1.3em;
+  }
 
 
 /*
@@ -909,6 +921,11 @@ a:hover.link-fat {
   .sponsor img {
     max-width: 160px;
     text-align: center;
+  }
+
+  .geekisgood {
+    font-size: 6em;
+    color: #F5D236;
   }
 
 }
