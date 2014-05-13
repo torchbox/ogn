@@ -23,7 +23,7 @@ geek_night_number: 35
 lanyrd_short_url: ctkzx
 
 # Keynoters
-keynoters: [TBC]
+keynoters: [Joe Leech, Anna Powell-Smith, Olly Willans & Tom Dyson, Paul Boag]
 ---
 
 <ul class="keynotes">
