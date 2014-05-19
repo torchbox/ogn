@@ -37,15 +37,15 @@ keynoters: [TBC]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://matt.west.co.tt/"><h2 itemprop="name">Matthew Westcott</h2></a>
-        <p>To be announced</p>
+        <p>30 years in the life of a ZX Spectrum fanatic</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="#"><h2 itemprop="name">To be announced</h2></a>
-        <p>To be announced</p>
+        <a href="#"><h2 itemprop="name">Mick Donegan</h2></a>
+        <p>Access all areas! - The SpecialEffect Charity show how they're making videogames accessible to all.</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
