@@ -1,0 +1,98 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:00pm
+
+# A short address of Geek Night location. 
+short_address: Museum of the History of Science, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/1oIH2cq
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+sponsor:
+- Haybrook IT: sponsor-haybrook.png
+
+# The Geek Night number
+geek_night_number: 37
+
+# Lanyrd short url
+lanyrd_short_url: ctkzx
+
+# Keynoters
+keynoters: [TBC]
+---
+
+<ul class="keynotes">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.mhs.ox.ac.uk/staff/saj/"><h2 itemprop="name">Stephen Johnston</h2></a>
+        <p>The Ancient Geekssssd</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://matt.west.co.tt/"><h2 itemprop="name">Matthew Westcott</h2></a>
+        <p>30 years in the life of a ZX Spectrum fanatic</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="#"><h2 itemprop="name">Mick Donegan</h2></a>
+        <p>Access all areas! - The SpecialEffect Charity show how they're making videogames accessible to all.</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://twitter.com/aprajitaverma"><h2 itemprop="name">Aprajita Verma</h2></a>
+        <p>Space Warps: Crowd-sourcing the discovery of gravitational lenses</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+
+</ul>
+<p class="extra-info">June's Geek Night is a special one, put together in partnership with the <a href="http://www.mhs.ox.ac.uk/">Museum of the History of Science</a> to celebrate their "Geek is Good" exhibition. It's a free, but ticketed event (as space in the museum is limited) so please sign up using Eventbrite in order to confirm your attendance. Free drinks courtesy of <a href="http://www.haybrook.co.uk/">Haybrook IT</a> will be available to all guests. For the next Geek Night we'll return to our usual home at The Jericho Tavern!</p>
+
+<!-- 
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://benjaminbenben.com/" itemprop="url"><h2 itemprop="name">Ben Foxall</h2></a>
+        <p>ping-pong</p>
+         <div class="downloads">
+            <a href="https://github.com/benfoxall/ping-pong">Slides</a>
+        </div>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://alter-eco.co.uk/" itemprop="url"><h2 itemprop="name">Richard Roaf</h2></a>
+        <p>Winning at Youtube</p>
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/richard-roaf.ppt">Slides</a>
+        </div>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.bethmcmillan.com/" itemprop="url"><h2 itemprop="name">Beth McMillan</h2></a>
+        <p>Using computers to replace animal testing</p>
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/beth-mcmillan.zip">Slides</a>
+        </div>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.domeheid.com/" itemprop="url"><h2 itemprop="name">Christopher Whalen</h2></a>
+        <p>How Bradley Wiggins can improve your website</p>
+         <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn34/christopher-whalen.ppt">Slides</a>
+        </div>
+    </li>
+</ul>
+-->
+
