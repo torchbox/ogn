@@ -28,14 +28,6 @@ keynoters: [TBC]
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://timharford.com/"><h2 itemprop="name">Tim Harford</h2></a>
-        <p>The undercover economist</p>
-        <!--
-        <div class="downloads">
-            <a href="/">Slides</a>
-        </div> -->
-    </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://digitalbydefault.com/"><h2 itemprop="name">Matt Jukes</h2></a>
         <p>Head of Digital Transformation at the Office for National Statistics </p>
         <!--
