@@ -23,13 +23,13 @@ geek_night_number: 35
 lanyrd_short_url: ctkzx
 
 # Keynoters
-keynoters: [TBC]
+keynoters: [Joe Leech, Anna Powell-Smith, Olly Willans & Tom Dyson, Paul Boag]
 ---
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://www.smashingmagazine.com/author/vitaly-friedman/"><h2 itemprop="name">Vitaly Friedman</h2></a>
-        <p>Real-Life Responsive Web Design: Lessons Learned</p>
+        <a href="http://joeleech.net/"><h2 itemprop="name">Joe Leech</h2></a>
+        <p>Responsive Redesign Projects</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>

@@ -23,7 +23,7 @@ geek_night_number: 34
 lanyrd_short_url: ctkzx
 
 # Keynoters
-keynoters: [TBC]
+keynoters: [Andy Cotgreave, John Hardy]
 ---
 
 <ul class="keynotes">
