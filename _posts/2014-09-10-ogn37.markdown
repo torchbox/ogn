@@ -35,42 +35,58 @@ keynoters: [TBC]
             <a href="/">Slides</a>
         </div> -->
     </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://rooreynolds.com/"><h2 itemprop="name">Roo Reynolds</h2></a>
+        <p>Product Manager at Government Digital Services</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
 
 </ul>
 
 <!--
 <p class="extra-info">June's Geek Night is a special one, put together in partnership with the <a href="http://www.mhs.ox.ac.uk/">Museum of the History of Science</a> to celebrate their "Geek is Good" exhibition. It's a free, but ticketed event (as space in the museum is limited) so please sign up using Eventbrite in order to confirm your attendance. Free drinks courtesy of <a href="http://www.haybrook.co.uk/">Haybrook IT</a> will be available to all guests. For the next Geek Night we'll return to our usual home at The Jericho Tavern!</p>-->
 
-<!-- 
+
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://benjaminbenben.com/" itemprop="url"><h2 itemprop="name">Ben Foxall</h2></a>
-        <p>ping-pong</p>
+        <a href="http://berniesumption.com/" itemprop="url"><h2 itemprop="name">Bernie Sumption</h2></a>
+        <p>How to generate an athlete's training plan from their DNA</p>
+        <!--
          <div class="downloads">
             <a href="https://github.com/benfoxall/ping-pong">Slides</a>
         </div>
+        -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://alter-eco.co.uk/" itemprop="url"><h2 itemprop="name">Richard Roaf</h2></a>
-        <p>Winning at Youtube</p>
+        <a href="http://becausewesayso.co.uk/" itemprop="url"><h2 itemprop="name">Wes West</h2></a>
+        <p>Making animation for the web</p>
+        <!--
          <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/ogn34/richard-roaf.ppt">Slides</a>
+            <a href="https://github.com/benfoxall/ping-pong">Slides</a>
         </div>
+        -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://www.bethmcmillan.com/" itemprop="url"><h2 itemprop="name">Beth McMillan</h2></a>
-        <p>Using computers to replace animal testing</p>
+        <a href="http://www.babelquest.co.uk/" itemprop="url"><h2 itemprop="name">Eric Murphy</h2></a>
+        <p>Why Marketing dumped sales and started dating IT</p>
+        <!--
          <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/ogn34/beth-mcmillan.zip">Slides</a>
+            <a href="https://github.com/benfoxall/ping-pong">Slides</a>
         </div>
+        -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://www.domeheid.com/" itemprop="url"><h2 itemprop="name">Christopher Whalen</h2></a>
-        <p>How Bradley Wiggins can improve your website</p>
+        <a href="http://chrisvoncsefalvay.com/" itemprop="url"><h2 itemprop="name">Chris von Csefalvay</h2></a>
+        <p>How much is 80%?</p>
+        <!--
          <div class="downloads">
-            <a href="http://media.ogn.s3.amazonaws.com/ogn34/christopher-whalen.ppt">Slides</a>
+            <a href="https://github.com/benfoxall/ping-pong">Slides</a>
         </div>
+        -->
     </li>
 </ul>
--->
+
 
