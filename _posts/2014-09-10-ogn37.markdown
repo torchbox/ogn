@@ -37,7 +37,7 @@ keynoters: [TBC]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://rooreynolds.com/"><h2 itemprop="name">Roo Reynolds</h2></a>
-        <p>Product Manager at Government Digital Services</p>
+        <p>'Some of my collections'</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
