@@ -23,7 +23,7 @@ geek_night_number: 36
 lanyrd_short_url: ctkzx
 
 # Keynoters
-keynoters: [TBC]
+keynoters: [Stephen Johnston, Matthew Westcott, Mick Donegan, Aprajita Verma]
 ---
 
 <ul class="keynotes">
