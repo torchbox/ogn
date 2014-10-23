@@ -1,0 +1,68 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:00pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/1zC79aw
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+sponsor:
+- Haybrook IT: sponsor-haybrook.png
+
+# The Geek Night number
+geek_night_number: 38
+
+# Lanyrd short url
+lanyrd_short_url: ctkzx
+
+# Keynoters
+keynoters: [TBC]
+---
+
+<ul class="keynotes">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://zooniverse.org/"><h2 itemprop="name">Grant Miller</h2></a>
+        <p>Community Manager at Zooniverse</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://benjaminbenben.com/"><h2 itemprop="name">Ben Foxall</h2></a>
+        <p>'Physical devices and building for the web'</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+
+</ul>
+
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://digitaloxford.com/" itemprop="url"><h2 itemprop="name">Dave Fletcher</h2></a>
+        <p>Digital Oxford Update</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://c2.com/cgi/wiki?ChrisRimmer/" itemprop="url"><h2 itemprop="name">Chris Rimmer</h2></a>
+        <p>Agile and how to do it better</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://jermolene.com" itemprop="url"><h2 itemprop="name">Jeremy Ruston</h2></a>
+        <p>The tenth anniversary of TiddlyWiki</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://corefiling.com/" itemprop="url"><h2 itemprop="name">Stephen White</h2></a>
+        <p>Implementing search, quickly</p>
+    </li>
+</ul>
+
+
