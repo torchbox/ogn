@@ -23,7 +23,7 @@ geek_night_number: 37
 lanyrd_short_url: ctkzx
 
 # Keynoters
-keynoters: [TBC]
+keynoters: [Matt Jukes, Roo Reynolds]
 ---
 
 <ul class="keynotes">
