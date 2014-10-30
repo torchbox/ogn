@@ -23,13 +23,13 @@ geek_night_number: 38
 lanyrd_short_url: ctkzx
 
 # Keynoters
-keynoters: [TBC]
+keynoters: [Grant Miller, Ben Foxall]
 ---
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://zooniverse.org/"><h2 itemprop="name">Grant Miller</h2></a>
-        <p>Community Manager at Zooniverse</p>
+        <p>Citizen Science with the Zooniverse</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
