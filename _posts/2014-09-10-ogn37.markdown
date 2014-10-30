@@ -28,7 +28,7 @@ keynoters: [Matt Jukes, Roo Reynolds]
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://digitalbydefault.com/"><h2 itemprop="name">Matt Jukes</h2></a>
+        <a href="http://digitalbydefault.com/"><h2 itemprop="name">Matt Jukebox</h2></a>
         <p>Head of Digital Transformation at the Office for National Statistics </p>
         <!--
         <div class="downloads">
