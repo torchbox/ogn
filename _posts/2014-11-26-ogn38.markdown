@@ -52,8 +52,8 @@ keynoters: [Grant Miller, Ben Foxall]
         <p>Digital Oxford Update</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://c2.com/cgi/wiki?ChrisRimmer/" itemprop="url"><h2 itemprop="name">Chris Rimmer</h2></a>
-        <p>Agile and how to do it better</p>
+        <a href="https://twitter.com/nespera" itemprop="url"><h2 itemprop="name">Chris Rimmer</h2></a>
+        <p>Keeping your new sprint resolutions</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://jermolene.com" itemprop="url"><h2 itemprop="name">Jeremy Ruston</h2></a>
