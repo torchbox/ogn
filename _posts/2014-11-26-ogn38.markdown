@@ -37,7 +37,7 @@ keynoters: [Grant Miller, Ben Foxall]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://benjaminbenben.com/"><h2 itemprop="name">Ben Foxall</h2></a>
-        <p>'Physical devices and building for the web'</p>
+        <p>'Getting Physical with The Web'</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
