@@ -1,0 +1,68 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:00pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/1zC79aw
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+sponsor:
+- Haybrook IT: sponsor-haybrook.png
+
+# The Geek Night number
+geek_night_number: 39
+
+# Lanyrd short url
+lanyrd_short_url: ctkzx
+
+# Keynoters
+keynoters: [Mark Graham]
+---
+
+<ul class="keynotes">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.oii.ox.ac.uk/"><h2 itemprop="name">Mark Graham</h2></a>
+        <p>'Understanding Life Online'</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href=""><h2 itemprop="name"></h2></a>
+        <p></p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+
+</ul>
+
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">Howard Noble</h2></a>
+        <p>Computer Gaming in Academic Research</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.github.com/simon-engledew" itemprop="url"><h2 itemprop="name">Simon Engledew</h2></a>
+        <p>Load Testing for Four Million Users</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://esplor.io" itemprop="url"><h2 itemprop="name">Tim Fernando</h2></a>
+        <p>Esplor.io</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://torchbox.com" itemprop="url"><h2 itemprop="name">Nick Smith</h2></a>
+        <p>iShamba</p>
+    </li>
+</ul>
+
+
