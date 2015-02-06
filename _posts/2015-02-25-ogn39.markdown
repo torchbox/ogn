@@ -36,7 +36,7 @@ keynoters: [Mark Graham]
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href=""><h2 itemprop="name">Richard Fairhurst</h2></a>
+        <a href="http://cycle.travel"><h2 itemprop="name">Richard Fairhurst</h2></a>
         <p>TBC</p>
         <!--
         <div class="downloads">
