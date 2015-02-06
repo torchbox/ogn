@@ -37,7 +37,7 @@ keynoters: [Mark Graham]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://cycle.travel"><h2 itemprop="name">Richard Fairhurst</h2></a>
-        <p>TBC</p>
+        <p>Better Cycling Through Technology</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
