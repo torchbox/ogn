@@ -28,8 +28,8 @@ keynoters: [Mark Graham]
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://www.oii.ox.ac.uk/"><h2 itemprop="name">Mark Graham</h2></a>
-        <p>'Understanding Life Online'</p>
+        <a href="http://www.oii.ox.ac.uk/people/graham"><h2 itemprop="name">Mark Graham</h2></a>
+        <p>'The Geography of the Internet'</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
