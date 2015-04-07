@@ -23,7 +23,7 @@ geek_night_number: 39
 lanyrd_short_url: ctkzx
 
 # Keynoters
-keynoters: [Mark Graham]
+keynoters: [Mark Graham, Richard Fairhurst]
 ---
 
 <ul class="keynotes">
