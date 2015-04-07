@@ -1,0 +1,68 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:00pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/1zC79aw
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+sponsor:
+- Haybrook IT: sponsor-haybrook.png
+
+# The Geek Night number
+geek_night_number: 40
+
+# Lanyrd short url
+lanyrd_short_url: ctkzx
+
+# Keynoters
+keynoters: [Tom Elgar, Mark Longair]
+---
+
+<ul class="keynotes">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://yournextmp.com"><h2 itemprop="name">Mark Longair</h2></a>
+        <p>'Your Next Mp: Post-Election Round Up'</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://passle.net"><h2 itemprop="name">Tom Elgar</h2></a>
+        <p>'Using games to create behavioural change OR getting people to use your software a lot'</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+
+</ul>
+
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.steveworkman.com" itemprop="url"><h2 itemprop="name">Steve Workman</h2></a>
+        <p>Life after jQuery</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.rs-online.com/designspark/electronics/eng/blog/hack-superman-launch-day" itemprop="url"><h2 itemprop="name">Pete Wood</h2></a>
+        <p>DesignSpark (Community and Software Tools)</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://tripadvisor.co.uk" itemprop="url"><h2 itemprop="name">John Wards</h2></a>
+        <p>Logstash</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">TBA</h2></a>
+        <p>TBA</p>
+    </li>
+</ul>
+
+
