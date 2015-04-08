@@ -53,7 +53,7 @@ keynoters: [Tom Elgar, Mark Longair]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.steveworkman.com" itemprop="url"><h2 itemprop="name">Steve Workman</h2></a>
-        <p>DesignSpark (Community and Software Tools)</p>
+        <p>Life After jQuery</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://tripadvisor.co.uk" itemprop="url"><h2 itemprop="name">John Wards</h2></a>
