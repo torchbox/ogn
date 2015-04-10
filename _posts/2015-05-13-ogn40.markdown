@@ -60,8 +60,8 @@ keynoters: [Tom Elgar, Mark Longair]
         <p>Logstash</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">TBA</h2></a>
-        <p>TBA</p>
+        <a href="https://github.com/ToonTalk/ToonTalk/wiki" itemprop="url"><h2 itemprop="name">Ken Kahn</h2></a>
+        <p>Programming by example by children</p>
     </li>
 </ul>
 
