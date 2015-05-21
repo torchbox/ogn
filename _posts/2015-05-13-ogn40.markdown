@@ -32,7 +32,7 @@ keynoters: [Tom Elgar, Mark Longair]
         <p>'Your Next Mp: Post-Election Round Up'</p>
         <!--
         <div class="downloads">
-            <a href="/">Slides</a>
+            <a href="http://media.ogn.s3.amazonaws.com/ogn40/yournextmp.pdf">Slides</a>
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
@@ -40,7 +40,7 @@ keynoters: [Tom Elgar, Mark Longair]
         <p>'Using games to create behavioural change OR getting people to use your software a lot'</p>
         <!--
         <div class="downloads">
-            <a href="/">Slides</a>
+            <a href="http://media.ogn.s3.amazonaws.com/ogn40/geek3.pptx">Slides</a>
         </div> -->
     </li>
 
@@ -50,14 +50,23 @@ keynoters: [Tom Elgar, Mark Longair]
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.rs-online.com/designspark/electronics/eng/blog/hack-superman-launch-day" itemprop="url"><h2 itemprop="name">Pete Wood</h2></a>
         <p>DesignSpark (Community and Software Tools)</p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn40/DesignSpark.pptx">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.steveworkman.com" itemprop="url"><h2 itemprop="name">Steve Workman</h2></a>
         <p>Life After jQuery</p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn40/LifeAfterjQuery.pptx">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://tripadvisor.co.uk" itemprop="url"><h2 itemprop="name">John Wards</h2></a>
         <p>Logstash</p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn40/Logstash.pdf">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="https://github.com/ToonTalk/ToonTalk/wiki" itemprop="url"><h2 itemprop="name">Ken Kahn</h2></a>
