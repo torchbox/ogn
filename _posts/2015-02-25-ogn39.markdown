@@ -30,18 +30,16 @@ keynoters: [Mark Graham, Richard Fairhurst]
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.oii.ox.ac.uk/people/graham"><h2 itemprop="name">Mark Graham</h2></a>
         <p>'The Geography of the Internet'</p>
-        <!--
         <div class="downloads">
-            <a href="/">Slides</a>
-        </div> -->
+            <a href="http://media.ogn.s3.amazonaws.com/ogn39/GeographyOfTheInternet.pdf">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://cycle.travel"><h2 itemprop="name">Richard Fairhurst</h2></a>
         <p>Better Cycling Through Technology</p>
-        <!--
         <div class="downloads">
-            <a href="/">Slides</a>
-        </div> -->
+            <a href="http://media.ogn.s3.amazonaws.com/ogn39/cycledotravel.pdf">Slides</a>
+        </div>
     </li>
 
 </ul>
@@ -50,10 +48,16 @@ keynoters: [Mark Graham, Richard Fairhurst]
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="https://blogs.it.ox.ac.uk/modelling4all/oxgame/" itemprop="url"><h2 itemprop="name">Howard Noble & David Zeitlyn</h2></a>
         <p>Agent Based Models, Farmers, Games, Cameroon: permute</p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn39/agent-based-models.pptx">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.github.com/simon-engledew" itemprop="url"><h2 itemprop="name">Simon Engledew</h2></a>
         <p>Load Testing for Four Million Users</p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn39/LoadTesting.pdf">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://esplor.io" itemprop="url"><h2 itemprop="name">Tim Fernando</h2></a>
@@ -62,6 +66,9 @@ keynoters: [Mark Graham, Richard Fairhurst]
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://torchbox.com/blog/sms-support-kenyan-farmers/" itemprop="url"><h2 itemprop="name">Nick Smith</h2></a>
         <p>SMS Support for Kenyan Farmers</p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn39/ishamba.pdf">Slides</a>
+        </div>
     </li>
 </ul>
 

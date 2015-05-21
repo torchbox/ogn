@@ -30,18 +30,16 @@ keynoters: [Tom Elgar, Mark Longair]
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://yournextmp.com"><h2 itemprop="name">Mark Longair</h2></a>
         <p>'Your Next Mp: Post-Election Round Up'</p>
-        <!--
         <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/ogn40/yournextmp.pdf">Slides</a>
-        </div> -->
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://passle.net"><h2 itemprop="name">Tom Elgar</h2></a>
         <p>'Using games to create behavioural change OR getting people to use your software a lot'</p>
-        <!--
         <div class="downloads">
             <a href="http://media.ogn.s3.amazonaws.com/ogn40/geek3.pptx">Slides</a>
-        </div> -->
+        </div>
     </li>
 
 </ul>
