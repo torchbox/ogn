@@ -60,8 +60,8 @@ keynoters: [Richard Comont, Bethany Palumbo]
         <p>DIY Sensor for Air Quality</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">TBC</h2></a>
-        <p>TBC</p>
+        <a href="http://blog.thiseldo.co.uk" itemprop="url"><h2 itemprop="name">Andrew Lindsay</h2></a>
+        <p>Oxford Flood Network</p>
     </li>
 </ul>
 
