@@ -30,10 +30,9 @@ keynoters: [Grant Miller, Ben Foxall]
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://zooniverse.org/"><h2 itemprop="name">Grant Miller</h2></a>
         <p>'Citizen Science with the Zooniverse'</p>
-        <!--
         <div class="downloads">
-            <a href="/">Slides</a>
-        </div> -->
+            <a href="http://media.ogn.s3.amazonaws.com/ogn38/zooniverse.pdf">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://benjaminbenben.com/"><h2 itemprop="name">Ben Foxall</h2></a>
@@ -54,6 +53,9 @@ keynoters: [Grant Miller, Ben Foxall]
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="https://twitter.com/nespera" itemprop="url"><h2 itemprop="name">Chris Rimmer</h2></a>
         <p>Keeping your new sprint resolutions</p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn38/SprintResolutions.pdf">Slides</a>
+        </div>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://jermolene.com" itemprop="url"><h2 itemprop="name">Jeremy Ruston</h2></a>
@@ -62,6 +64,9 @@ keynoters: [Grant Miller, Ben Foxall]
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://corefiling.com/" itemprop="url"><h2 itemprop="name">Stephen White</h2></a>
         <p>Implementing search, quickly</p>
+        <div class="downloads">
+            <a href="http://media.ogn.s3.amazonaws.com/ogn38/ImplementingSearchQuickly.odp">Slides</a>
+        </div>
     </li>
 </ul>
 
