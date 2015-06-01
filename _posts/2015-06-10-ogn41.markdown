@@ -28,8 +28,8 @@ keynoters: [Richard Comont, Bethany Palumbo]
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://www.gardenbioblitz.org/gardenbioblitz_gbb.htm"><h2 itemprop="name">Richard Comont</h2></a>
-        <p>'BioBlitz App'</p>
+        <a href="http://timelapsebeehive.com/"><h2 itemprop="name">Joe Wass</h2></a>
+        <p>'Timelapse Beehive'</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
@@ -52,8 +52,8 @@ keynoters: [Richard Comont, Bethany Palumbo]
         <p>'Nature Locator'</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://timelapsebeehive.com/" itemprop="url"><h2 itemprop="name">Joe Wass</h2></a>
-        <p>'Timelapse Beehive'</p>
+        <a href="http://matt.west.co.tt/spectrum/the-mahler-project/" itemprop="url"><h2 itemprop="name">Matthew Westcott</h2></a>
+        <p>'Mahler's First Beep'</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="" itemprop="url"><h2 itemprop="name">Dario Salvi</h2></a>
