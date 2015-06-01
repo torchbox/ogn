@@ -52,8 +52,8 @@ keynoters: [Richard Comont, Bethany Palumbo]
         <p>'Nature Locator'</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">Joe Wass</h2></a>
-        <p>'Timelapse Study of Beehives'</p>
+        <a href="http://timelapsebeehive.com/" itemprop="url"><h2 itemprop="name">Joe Wass</h2></a>
+        <p>'Timelapse Beehive'</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="" itemprop="url"><h2 itemprop="name">Dario Salvi</h2></a>
