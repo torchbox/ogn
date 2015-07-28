@@ -767,7 +767,11 @@ a:hover.link-fat {
 
   .header .date-time {
     font-size: 4em;
-    margin: 0 0 0.25em 0;
+    margin: 0;
+  }
+
+  .header .start-time {
+    margin-bottom: 0.25em;
   }
 
   .header .venue {

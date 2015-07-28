@@ -1,0 +1,71 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:00pm
+
+# Talk start time 
+start: 8:00pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/1zC79aw
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+sponsor:
+- Haybrook IT: sponsor-haybrook.png
+
+# The Geek Night number
+geek_night_number: 42
+
+# Lanyrd short url
+lanyrd_short_url: ctkzx
+
+# Keynoters
+keynoters: [TBA, TBA]
+---
+
+<ul class="keynotes">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href=""><h2 itemprop="name">TBA</h2></a>
+        <p></p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href=""><h2 itemprop="name">TBA</h2></a>
+        <p></p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+
+</ul>
+
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">TBA</h2></a>
+        <p></p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">TBA</h2></a>
+        <p></p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">TBA</h2></a>
+        <p></p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">TBA</h2></a>
+        <p></p>
+    </li>
+</ul>
+
+
