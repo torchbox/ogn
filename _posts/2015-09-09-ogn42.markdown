@@ -31,16 +31,16 @@ keynoters: [TBA, TBA]
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href=""><h2 itemprop="name">TBA</h2></a>
-        <p></p>
+        <a href="http://zegami.com/"><h2 itemprop="name">Steve Taylor</h2></a>
+        <p>Big data image mining using the latest web technologies</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href=""><h2 itemprop="name">TBA</h2></a>
-        <p></p>
+        <a href="http://www.ox.ac.uk/news/2014-04-16-firm-targets-3d-printing-synthetic-tissues-organs"><h2 itemprop="name">Hagan Bayley</h2></a>
+        <p>3D printed tissues: extending the frontiers of synthetic biology</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
@@ -51,16 +51,16 @@ keynoters: [TBA, TBA]
 
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">TBA</h2></a>
-        <p></p>
+        <a href="" itemprop="url"><h2 itemprop="name">David North</h2></a>
+        <p>Sysadmin and the Raspberry Pi</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">TBA</h2></a>
-        <p></p>
+        <a href="" itemprop="url"><h2 itemprop="name">Henry Blyth</h2></a>
+        <p>Unfolding the Future of Javascript</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">TBA</h2></a>
-        <p></p>
+        <a href="" itemprop="url"><h2 itemprop="name">Denis Radenkovic</h2></a>
+        <p>Identity Design for Startups</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="" itemprop="url"><h2 itemprop="name">TBA</h2></a>
