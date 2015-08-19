@@ -63,8 +63,8 @@ keynoters: [TBA, TBA]
         <p>Identity Design for Startups</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">TBA</h2></a>
-        <p></p>
+        <a href="" itemprop="url"><h2 itemprop="name">Dario Salvi</h2></a>
+        <p>pIoT a pico/personal internet of things</p>
     </li>
 </ul>
 
