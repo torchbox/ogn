@@ -7,7 +7,9 @@
     <h3>Sponsored by</h3>
     {% for logo in page.sponsor %} 
       {% for item in logo %}
-        <img src="{{ site.baseurl }}/assets/images/{{item[1]}}" alt="{{item[0]}}" />
+        <a href="http://haybrook.co.uk">
+          <img src="{{ site.baseurl }}/assets/images/{{item[1]}}" alt="{{item[0]}}" />
+        </a>
       {% endfor %}
     {% endfor %}
   {% endif %}
