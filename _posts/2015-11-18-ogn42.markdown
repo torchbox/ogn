@@ -1,0 +1,71 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:00pm
+
+# Talk start time 
+start: 8:00pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/1zC79aw
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+sponsor:
+- Haybrook IT: sponsor-haybrook.png
+
+# The Geek Night number
+geek_night_number: 43
+
+# Lanyrd short url
+lanyrd_short_url: ctkzx
+
+# Keynoters
+keynoters: James Williams, Tom Scholes]
+---
+
+<ul class="keynotes">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://zegami.com/"><h2 itemprop="name">James Williams</h2></a>
+        <p>Distraction by Design</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.ox.ac.uk/news/2014-04-16-firm-targets-3d-printing-synthetic-tissues-organs"><h2 itemprop="name">Tom Scholes</h2></a>
+        <p>The digital story arc: going out with a bang</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+
+</ul>
+
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">Eric Murphy</h2></a>
+        <p>The Salesman is Dead, Long Live the Geek!</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">TBC</h2></a>
+        <p></p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">TBC</h2></a>
+        <p></p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">Raffle draw</h2></a>
+        <p><a href="http://www.haybrook.co.uk/">Haybrook IT</a> and <a href="http://www.specialeffect.org.uk/" title="Special Effect use technology to enhance the quality of life of people with physical disabilities">SpecialEffect</a> are hosting a raffle for the chance to win a Raspberry Pi.</p>
+    </li>
+</ul>
+
+
