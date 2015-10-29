@@ -39,7 +39,7 @@ keynoters: James Williams, Tom Scholes]
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="www.grovestreetmedia.com"><h2 itemprop="name">Tom Scholes</h2></a>
+        <a href="http://www.grovestreetmedia.com"><h2 itemprop="name">Tom Scholes</h2></a>
         <p>The digital story arc: going out with a bang</p>
         <!--
         <div class="downloads">
