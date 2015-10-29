@@ -26,21 +26,21 @@ geek_night_number: 43
 lanyrd_short_url: ctkzx
 
 # Keynoters
-keynoters: James Williams, Tom Scholes]
+keynoters: Tom Scholes]
 ---
 
 <ul class="keynotes">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://www.oii.ox.ac.uk/people/?id=275"><h2 itemprop="name">James Williams</h2></a>
-        <p>Distraction by Design</p>
+        <a href="http://www.grovestreetmedia.com"><h2 itemprop="name">Tom Scholes</h2></a>
+        <p>The digital story arc: going out with a bang</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://www.grovestreetmedia.com"><h2 itemprop="name">Tom Scholes</h2></a>
-        <p>The digital story arc: going out with a bang</p>
+        <a href=""><h2 itemprop="name">TBA</h2></a>
+        <p></p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
@@ -51,16 +51,16 @@ keynoters: James Williams, Tom Scholes]
 
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">Eric Murphy</h2></a>
+        <a href="http://www.specialeffect.org.uk/" itemprop="url"><h2 itemprop="name">Nick Streeter</h2></a>
+        <p></p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.babelquest.co.uk/" itemprop="url"><h2 itemprop="name">Eric Murphy</h2></a>
         <p>The Salesman is Dead, Long Live the Geek!</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">TBC</h2></a>
-        <p></p>
-    </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">TBC</h2></a>
-        <p></p>
+        <a href="http://projecttide.co.uk" itemprop="url"><h2 itemprop="name">Matt Ellen</h2></a>
+        <p>Project Tide</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="" itemprop="url"><h2 itemprop="name">Raffle draw</h2></a>
