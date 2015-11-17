@@ -39,8 +39,8 @@ keynoters: Tom Scholes]
         </div> -->
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href=""><h2 itemprop="name">TBA</h2></a>
-        <p></p>
+        <a href="http://www.geos.com/news/news-2015/fugro-supports-caa-helicopter-operations-safety-research/"><h2 itemprop="name">John Marshall</h2></a>
+        <p>Cleared to Land - Offshore Heli-deck monitoring</p>
         <!--
         <div class="downloads">
             <a href="/">Slides</a>
