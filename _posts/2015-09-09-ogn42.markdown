@@ -26,7 +26,7 @@ geek_night_number: 42
 lanyrd_short_url: ctkzx
 
 # Keynoters
-keynoters: [TBA, TBA]
+keynoters: [Steve Taylor, Hagan Bayley]
 ---
 
 <ul class="keynotes">
