@@ -51,7 +51,7 @@ keynoters: [John Marshall, Tom Scholes]
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.specialeffect.org.uk/" itemprop="url"><h2 itemprop="name">Mark Saville</h2></a>
-        <p></p>
+        <p>One Size Fits Nobody</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.torchbox.com/" itemprop="url"><h2 itemprop="name">Toby Brancher</h2></a>
