@@ -50,8 +50,12 @@ keynoters: [John Marshall, Tom Scholes]
 
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://www.specialeffect.org.uk/" itemprop="url"><h2 itemprop="name">Nick Streeter</h2></a>
+        <a href="http://www.specialeffect.org.uk/" itemprop="url"><h2 itemprop="name">Mark Saville</h2></a>
         <p></p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.torchbox.com/" itemprop="url"><h2 itemprop="name">Toby Brancher</h2></a>
+        <p>Hardware accelerated transitions</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.babelquest.co.uk/" itemprop="url"><h2 itemprop="name">Eric Murphy</h2></a>
