@@ -58,8 +58,8 @@ keynoters: [Dr. Sue Black, James Williams]
         <p>Wikipedia and it's battles with correct information</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="/volunteer.html" itemprop="url"><h2 itemprop="name">Your name here?</h2></a>
-        <p></p>
+        <a href="http://unicodepowersymbol.com/" itemprop="url"><h2 itemprop="name">Terence Eden</h2></a>
+        <p>Getting new characters into Unicode</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="" itemprop="url"><h2 itemprop="name">Your name here?</h2></a>
