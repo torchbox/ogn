@@ -13,8 +13,8 @@ And the following gems installed ("sudo gem install xxxx"):
 * html_press
 
 # Other notes
-
-* All previous talk slides/media should be uploaded to the s3 bucket at http://media.ogn.s3.amazonaws.com/ and links prefixed with that URL.
+* All previous talk slides/media should be uploaded to the google drive folder https://drive.google.com/open?id=0B5AJvPDoKTmNa3ZodklSWFc4cHM.
+* Older ones are uploaded to the s3 bucket at http://media.ogn.s3.amazonaws.com/ and links prefixed with that URL - but that was too complicated for me!
 * The _posts folder contains an "example" post, to be used as a guide.
 * The site has launched with links to talks from the last 2 years. Others exist (unlinked and not prepared for the new style) in the posts_archive folder.
 * If supported (Github Pages doesn't) the CSS/JS/HTML compression can be toggled with the "compress" configuration variables in _config.yml. 

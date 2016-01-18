@@ -31,12 +31,11 @@ keynoters: [John Marshall, Tom Scholes]
 
 <ul class="keynotes">
      <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://www.geos.com/news/news-2015/fugro-supports-caa-helicopter-operations-safety-research/"><h2 itemprop="name">John Marshall</h2></a>
+        <a href="http://www.fugro.com/media-centre/press-releases/fulldetails/2015/05/05/fugro-supports-caa-helicopter-operations-safety-research"><h2 itemprop="name">John Marshall</h2></a>
         <p>Cleared to Land - Offshore Heli-deck monitoring</p>
-        <!--
         <div class="downloads">
-            <a href="/">Slides</a>
-        </div> -->
+            <a href="http://www.fugro.com/media-centre/press-releases/fulldetails/2015/05/05/fugro-supports-caa-helicopter-operations-safety-research">Slides</a>
+        </div> 
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://www.grovestreetmedia.com"><h2 itemprop="name">Tom Scholes</h2></a>
@@ -50,19 +49,19 @@ keynoters: [John Marshall, Tom Scholes]
 
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://www.specialeffect.org.uk/" itemprop="url"><h2 itemprop="name">Mark Saville</h2></a>
+        <a href="https://www.youtube.com/watch?v=CHbzFMggIm0" itemprop="url"><h2 itemprop="name">Mark Saville</h2></a>
         <p>One Size Fits Nobody</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://www.torchbox.com/" itemprop="url"><h2 itemprop="name">Toby Brancher</h2></a>
+        <a href="https://docs.google.com/presentation/d/1GOcrRIpdlxdFJtSIYbrdSkkSJETRfpmevRyMyMp2uYE/" itemprop="url"><h2 itemprop="name">Toby Brancher</h2></a>
         <p>Hardware accelerated transitions</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://www.babelquest.co.uk/" itemprop="url"><h2 itemprop="name">Eric Murphy</h2></a>
+        <a href="http://www.babelquest.co.uk/whitepaper-future-sales-it-resellers?utm_campaign=Future%20of%20Sales&utm_medium=Public%20Speaking&utm_source=Oxford%20Geek%20Night" itemprop="url"><h2 itemprop="name">Eric Murphy</h2></a>
         <p>The Salesman is Dead, Long Live the Geek!</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://projecttide.co.uk" itemprop="url"><h2 itemprop="name">Matt Ellen</h2></a>
+        <a href="https://drive.google.com/open?id=0B5AJvPDoKTmNaEdPTWtac2x6S2h3blNGVjVhMUhVTEdrWFl3" itemprop="url"><h2 itemprop="name">Matt Ellen</h2></a>
         <p>Project Tide</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">

@@ -1,0 +1,74 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:00pm
+
+# Talk start time 
+start: 8:00pm
+
+# A short address of Geek Night location. 
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/1zC79aw
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+sponsor:
+- Haybrook IT: sponsor-haybrook.png
+
+# The Geek Night number
+geek_night_number: 44
+
+# Lanyrd short url
+lanyrd_short_url: cfyzkz
+
+# Keynoters
+keynoters: [Dr. Sue Black, James Williams]
+---
+
+<ul class="keynotes">
+     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="https://unbound.co.uk/books/saving-bletchley-park"><h2 itemprop="name">Dr. Sue Black</h2><sub>OBE</sub></a>
+        <p>Saving Bletchley Park and book signing</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.oii.ox.ac.uk/people/?id=275"><h2 itemprop="name">James Williams</h2></a>
+        <p>Distraction by Design</p>
+        <!--
+        <div class="downloads">
+            <a href="/">Slides</a>
+        </div> -->
+    </li>
+</ul>
+
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="https://bochovj.wordpress.com/2015/04/06/piot-a-picopersonal-internet-of-thing-diy-platform/" itemprop="url"><h2 itemprop="name">Dario Salvi</h2></a>
+        <p>Internet of things.</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">Martin Poulter</h2></a>
+        <p>Wikipedia and it's battles with correct information</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="/volunteer.html" itemprop="url"><h2 itemprop="name">Your name here?</h2></a>
+        <p></p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">Your name here?</h2></a>
+        <p></p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="https://unbound.co.uk/books/saving-bletchley-park" itemprop="url"><h2 itemprop="name">Book signing</h2></a>
+        <p>Sue Black will be signing her new book Saving Betchley Park</p>
+    </li>
+</ul>
+
+
