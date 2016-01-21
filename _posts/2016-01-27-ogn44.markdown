@@ -55,7 +55,7 @@ keynoters: [Dr. Sue Black, James Williams]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="" itemprop="url"><h2 itemprop="name">Martin Poulter</h2></a>
-        <p>Wikipedia and its battles with correct information</p>
+        <p>Bias on Wikipedia</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="http://unicodepowersymbol.com/" itemprop="url"><h2 itemprop="name">Terence Eden</h2></a>
