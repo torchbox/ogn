@@ -62,8 +62,8 @@ keynoters: [Dr. Sue Black, James Williams]
         <p>Getting new characters into Unicode</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">Your name here?</h2></a>
-        <p></p>
+        <a href="" itemprop="url"><h2 itemprop="name">James Cook</h2></a>
+        <p>Digitising a billion dollar industry</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="https://unbound.co.uk/books/saving-bletchley-park" itemprop="url"><h2 itemprop="name">Book signing</h2></a>
