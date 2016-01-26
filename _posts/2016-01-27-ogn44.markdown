@@ -64,6 +64,10 @@ keynoters: [Dr. Sue Black, James Williams]
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="" itemprop="url"><h2 itemprop="name">James Cook</h2></a>
         <p>Digitising a billion dollar industry</p>
+    </li> 
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.doctors.net.uk/" itemprop="url"><h2 itemprop="name">Rick Knowles</h2></a>
+        <p>zero to sixty: from ASP.net 1.1 to Node in one step </p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="https://unbound.co.uk/books/saving-bletchley-park" itemprop="url"><h2 itemprop="name">Book signing</h2></a>
