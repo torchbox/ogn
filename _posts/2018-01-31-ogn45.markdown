@@ -43,35 +43,20 @@ keynoters: [Ben Foxall, Leila Johnston, Krisztián Gergely, Seren Davies, Mark J
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Seren Davies</h2>
+        <p>Accessibility is not just about screen readers</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Mark Johnson</h2>
+        <p>Podcasting for fun</p>
     </li>
 </ul>
 
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="https://bochovj.wordpress.com/2015/04/06/piot-a-picopersonal-internet-of-thing-diy-platform/" itemprop="url"><h2 itemprop="name">Dario Salvi</h2></a>
-        <p>Internet of things.</p>
+        <a href="" itemprop="url"><h2 itemprop="name">Also featuring: Remembering JP Stacey</h2></a>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">Martin Poulter</h2></a>
-        <p>Bias on Wikipedia</p>
-    </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://unicodepowersymbol.com/" itemprop="url"><h2 itemprop="name">Terence Eden</h2></a>
-        <p>Getting new characters into Unicode</p>
-    </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">James Cook</h2></a>
-        <p>Digitising a billion dollar industry</p>
-    </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="http://www.doctors.net.uk/" itemprop="url"><h2 itemprop="name">Rick Knowles</h2></a>
-        <p>zero to sixty: from ASP.net 1.1 to Node in one step </p>
-    </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="https://unbound.co.uk/books/saving-bletchley-park" itemprop="url"><h2 itemprop="name">Book signing</h2></a>
-        <p>Sue Black will be signing her new book Saving Betchley Park</p>
+        <a href="" itemprop="url"><h2 itemprop="name">And Matt Westcott live performance</h2></a>
+        <p>His new song “In The Future”</p>
     </li>
 </ul>
