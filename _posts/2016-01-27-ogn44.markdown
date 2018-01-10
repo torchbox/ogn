@@ -71,6 +71,6 @@ keynoters: [Dr. Sue Black, James Williams]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <a href="https://unbound.co.uk/books/saving-bletchley-park" itemprop="url"><h2 itemprop="name">Book signing</h2></a>
-        <p>Sue Black will be signing her new book Saving Betchley Park. Awesome test, does this work?</p>
+        <p>Sue Black will be signing her new book Saving Betchley Park</p>
     </li>
 </ul>
