@@ -21,5 +21,5 @@ And the following gems installed ("sudo gem install xxxx"):
 * CNAME file in root is used by github to serve pages from the domain specified.
 * All previous OGNs have an explicit permalink in the format "[year]/[mmm]-[dd][ordinal]". This is purely to keep google juice. All future OGNs should have a permalink of "ogn[number]", thus dropping the non-memorable date.
 
-#Deploying
+# Deploying
 * Simply commit to `gh-pages` branch to automatically dpeloy to http://oxford.geeknights.net/
