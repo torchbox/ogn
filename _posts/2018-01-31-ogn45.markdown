@@ -1,0 +1,77 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:00pm
+
+# Talk start time
+start: 7:30pm
+
+# A short address of Geek Night location.
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/1zC79aw
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+sponsor:
+- Haybrook IT: sponsor-haybrook.png
+- Nominet: sponsor-nominet.png
+
+# The Geek Night number
+geek_night_number: 45
+
+# Lanyrd short url
+lanyrd_short_url: cfyzkz
+
+# Keynoters
+keynoters: [Ben Foxall, Leila Johnston, Krisztián Gergely, Seren Davies, Mark Johnson]
+---
+
+<ul class="keynotes">
+     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Ben Foxall</h2>
+        <p>Saving Bletchley Park and book signing</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Leila Johnston</h2>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Krisztián Gergely</h2>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Seren Davies</h2>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Mark Johnson</h2>
+    </li>
+</ul>
+
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="https://bochovj.wordpress.com/2015/04/06/piot-a-picopersonal-internet-of-thing-diy-platform/" itemprop="url"><h2 itemprop="name">Dario Salvi</h2></a>
+        <p>Internet of things.</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">Martin Poulter</h2></a>
+        <p>Bias on Wikipedia</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://unicodepowersymbol.com/" itemprop="url"><h2 itemprop="name">Terence Eden</h2></a>
+        <p>Getting new characters into Unicode</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="" itemprop="url"><h2 itemprop="name">James Cook</h2></a>
+        <p>Digitising a billion dollar industry</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="http://www.doctors.net.uk/" itemprop="url"><h2 itemprop="name">Rick Knowles</h2></a>
+        <p>zero to sixty: from ASP.net 1.1 to Node in one step </p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <a href="https://unbound.co.uk/books/saving-bletchley-park" itemprop="url"><h2 itemprop="name">Book signing</h2></a>
+        <p>Sue Black will be signing her new book Saving Betchley Park</p>
+    </li>
+</ul>
