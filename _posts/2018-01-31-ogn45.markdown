@@ -33,7 +33,6 @@ keynoters: [Ben Foxall, Leila Johnston, Krisztián Gergely, Seren Davies, Mark J
 <ul class="keynotes">
      <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Ben Foxall</h2>
-        <p>Saving Bletchley Park and book signing</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Leila Johnston</h2>
@@ -53,10 +52,13 @@ keynoters: [Ben Foxall, Leila Johnston, Krisztián Gergely, Seren Davies, Mark J
 
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">Also featuring: Remembering JP Stacey</h2></a>
+        <h2 itemprop="name">Also featuring</h2>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <a href="" itemprop="url"><h2 itemprop="name">And Matt Westcott live performance</h2></a>
+        <h2 itemprop="name">Remembering JP Stacey</h2>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">And Matt Westcott live performance</h2>
         <p>His new song “In The Future”</p>
     </li>
 </ul>
