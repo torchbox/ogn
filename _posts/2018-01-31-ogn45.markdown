@@ -33,9 +33,14 @@ keynoters: [Ben Foxall, Leila Johnston, Krisztián Gergely, Seren Davies, Mark J
 <ul class="keynotes">
      <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Ben Foxall</h2>
+        <p>Fairy lights</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Leila Johnston</h2>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Tom Dyson</h2>
+        <p>Remembering JP Stacey</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Krisztián Gergely</h2>
@@ -44,10 +49,6 @@ keynoters: [Ben Foxall, Leila Johnston, Krisztián Gergely, Seren Davies, Mark J
         <h2 itemprop="name">Seren Davies</h2>
         <p>Accessibility is not just about screen readers</p>
     </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">Mark Johnson</h2>
-        <p>Podcasting for fun</p>
-    </li>
 </ul>
 
 <ul class="microslots">
@@ -55,10 +56,6 @@ keynoters: [Ben Foxall, Leila Johnston, Krisztián Gergely, Seren Davies, Mark J
         <h2 itemprop="name">Also featuring</h2>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">Remembering JP Stacey</h2>
-    </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">And Matt Westcott live performance</h2>
-        <p>His new song “In The Future”</p>
+        <h2 itemprop="name">Matt Westcott's live performance of his new song, "In the future".</h2>
     </li>
 </ul>
