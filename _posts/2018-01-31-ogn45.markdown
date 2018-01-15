@@ -37,6 +37,7 @@ keynoters: [Ben Foxall, Leila Johnston, Krisztián Gergely, Seren Davies, Mark J
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Leila Johnston</h2>
+        <p>Do humans dream of real sleep</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Tom Dyson</h2>
