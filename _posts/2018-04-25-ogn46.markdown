@@ -43,6 +43,10 @@ keynoters: [Mark Johnson, Joe Wass, Helena Pichler]
         <h2 itemprop="name">Helena Pichler</h2>
         <p>Agile user documentation</p>
     </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Simon Crossley</h2>
+        <p>Privacy by design</p>
+    </li>
 </ul>
 
 <ul class="microslots">
