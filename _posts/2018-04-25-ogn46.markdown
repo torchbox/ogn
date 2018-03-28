@@ -37,7 +37,7 @@ keynoters: [Mark Johnson, Joe Wass, Helena Pichler]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Joe Wass</h2>
-        <p>TBC</p>
+        <p>Tracking scholarly discussion online, as it happens.</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Helena Pichler</h2>
