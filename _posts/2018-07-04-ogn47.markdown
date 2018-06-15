@@ -1,0 +1,60 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:00pm
+
+# Talk start time
+start: 7:30pm
+
+# A short address of Geek Night location.
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/1zC79aw
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+sponsor:
+- Haybrook IT: sponsor-haybrook.png
+- Nominet: sponsor-nominet.png
+
+# The Geek Night number
+geek_night_number: 46
+
+# Lanyrd short url
+lanyrd_short_url: cfyzkz
+
+# Keynoters
+keynoters: [David Mills, Tom Greenwood, Beverley Newing, Jeremy Keith]
+---
+
+<ul class="keynotes">
+     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">David Mills</h2>
+        <p>The Use and Abuse of CT Scanners</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Tom Greenwood</h2>
+        <p>Greening the web: How can we create zero carbon websites?</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Beverley Newing</h2>
+        <p>How to run awesome tech internships</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Jeremy Keith</h2>
+        <p>Evaluating Technology</p>
+    </li>
+</ul>
+
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Gordon Williams</h2>
+        <p>Live Coding (Open Source JavaScript for microcontrolloers Project)</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">With Tom Dyson providing a musical interlude.</h2>
+    </li>
+</ul>
