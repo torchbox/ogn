@@ -21,7 +21,7 @@ sponsor:
 - Nominet: sponsor-nominet.png
 
 # The Geek Night number
-geek_night_number: 46
+geek_night_number: 47
 
 # Lanyrd short url
 lanyrd_short_url: cfyzkz
