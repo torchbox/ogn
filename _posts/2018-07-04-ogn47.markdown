@@ -55,6 +55,10 @@ keynoters: [David Mills, Tom Greenwood, Beverley Newing, Jeremy Keith]
         <p>Live Coding (Open Source JavaScript for microcontrolloers Project)</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Andrew Chapman</h2>
+        <p>Analysing fiction</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">With Tom Dyson providing a musical interlude.</h2>
     </li>
 </ul>
