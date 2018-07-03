@@ -45,7 +45,7 @@ keynoters: [David Mills, Tom Greenwood, Beverley Newing, Jeremy Keith]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Jeremy Keith</h2>
-        <p>Evaluating Technology</p>
+        <p>Taking Back The Web</p>
     </li>
 </ul>
 
