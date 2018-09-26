@@ -1,0 +1,65 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:00pm
+
+# Talk start time
+start: 7:30pm
+
+# A short address of Geek Night location.
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/1zC79aw
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+sponsor:
+- Haybrook IT: sponsor-haybrook.png
+- Nominet: sponsor-nominet.png
+
+# The Geek Night number
+geek_night_number: 48
+
+# Lanyrd short url
+lanyrd_short_url: cfyzkz
+
+# Keynoters
+keynoters: [Sasha Salter, Robin Houston, Simon Whitaker, Matt Westcott]
+---
+
+<ul class="keynotes">
+     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Sasha Salter</h2>
+        <p>Enabling Robots to Efficiently Generalise from Simulation to the Real World</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Robin Houston</h2>
+        <p>TBC</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Simon Whitaker</h2>
+        <p>Comedy</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Matt Westcott</h2>
+        <p>SpecZilla: how to take a joke too far</p>
+    </li>
+</ul>
+
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">AJ Justo</h2>
+        <p>Rumsfeld Knowns and Unknowns framework as a Design Thinking Tool</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Dan Q</h2>
+        <p>How I Made My Own Dog Food and Accidentally Stole a Dog</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Jack Salt</h2>
+        <p>Beatbox musical interlude</p>
+    </li>
+</ul>
