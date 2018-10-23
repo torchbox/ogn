@@ -37,11 +37,11 @@ keynoters: [Sasha Salter, Robin Houston, Simon Whitaker, Matt Westcott]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Robin Houston</h2>
-        <p>TBC</p>
+        <p>What the Travelling Salesman does on his day off</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Simon Whitaker</h2>
-        <p>Comedy</p>
+        <p>Stand up comic</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Matt Westcott</h2>
