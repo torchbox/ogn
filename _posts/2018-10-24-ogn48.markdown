@@ -41,7 +41,7 @@ keynoters: [Sasha Salter, Robin Houston, Simon Whitaker, Matt Westcott]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Simon Whitaker</h2>
-        <p>Stand up comic</p>
+        <p>Stand up comic </p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Matt Westcott</h2>
