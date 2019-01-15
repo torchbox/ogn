@@ -1,0 +1,61 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:00pm
+
+# Talk start time
+start: 7:30pm
+
+# A short address of Geek Night location.
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/1zC79aw
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+sponsor:
+- Haybrook IT: sponsor-haybrook.png
+- Nominet: sponsor-nominet.png
+
+# The Geek Night number
+geek_night_number: 49
+
+# Lanyrd short url
+lanyrd_short_url: cfyzkz
+
+# Keynoters
+keynoters: [Phil Hawksworth, Tom Dyson, Kirsty McKnaught]
+---
+
+<ul class="keynotes">
+     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Phil Hawksworth</h2>
+        <p>JAM Stack</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Tom Dyson</h2>
+        <p>Here Come the Robots - Django and Machine Learning</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Kirsty McKnaught</h2>
+        <p>Eye Controlled Minecraft</p>
+    </li>
+</ul>
+
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Griff Rees</h2>
+        <p>Collab-Cavans: p5js + django = art</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Andrew Chapman</h2>
+        <p>Analysing Fiction</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Musical interlude</h2>
+        <p>TBC</p>
+    </li>
+</ul>
