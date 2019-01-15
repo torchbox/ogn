@@ -27,7 +27,7 @@ geek_night_number: 49
 lanyrd_short_url: cfyzkz
 
 # Keynoters
-keynoters: [Phil Hawksworth, Tom Dyson, Kirsty McKnaught]
+keynoters: [Phil Hawksworth, Tom Dyson, Kirsty McNaught]
 ---
 
 <ul class="keynotes">
@@ -40,7 +40,7 @@ keynoters: [Phil Hawksworth, Tom Dyson, Kirsty McKnaught]
         <p>Here Come the Robots - Django and Machine Learning</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">Kirsty McKnaught</h2>
+        <h2 itemprop="name">Kirsty McNaught</h2>
         <p>Eye Controlled Minecraft</p>
     </li>
 </ul>
