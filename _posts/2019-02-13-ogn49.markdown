@@ -27,13 +27,13 @@ geek_night_number: 49
 lanyrd_short_url: cfyzkz
 
 # Keynoters
-keynoters: [Phil Hawksworth, Tom Dyson, Kirsty McNaught]
+keynoters: [Phil Hawksworth, Tom Dyson, Kirsty McNaught, Juan Delgado]
 ---
 
 <ul class="keynotes">
      <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Phil Hawksworth</h2>
-        <p>JAM Stack</p>
+        <p>TBC</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Tom Dyson</h2>
@@ -42,6 +42,10 @@ keynoters: [Phil Hawksworth, Tom Dyson, Kirsty McNaught]
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Kirsty McNaught</h2>
         <p>Eye Controlled Minecraft</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Juan Delgado</h2>
+        <p>Tumours in 3D</p>
     </li>
 </ul>
 
