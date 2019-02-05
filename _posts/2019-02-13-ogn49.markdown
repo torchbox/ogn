@@ -33,7 +33,7 @@ keynoters: [Phil Hawksworth, Tom Dyson, Kirsty McNaught, Juan Delgado]
 <ul class="keynotes">
      <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Phil Hawksworth</h2>
-        <p>TBC</p>
+        <p>What, why and how to JAMstack</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Tom Dyson</h2>
@@ -44,8 +44,7 @@ keynoters: [Phil Hawksworth, Tom Dyson, Kirsty McNaught, Juan Delgado]
         <p>Eye Controlled Minecraft</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">Juan Delgado</h2>
-        <p>Tumours in 3D</p>
+        <h2 itemprop="name">TBC</h2>
     </li>
 </ul>
 
