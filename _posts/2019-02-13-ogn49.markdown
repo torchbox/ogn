@@ -44,7 +44,8 @@ keynoters: [Phil Hawksworth, Tom Dyson, Kirsty McNaught, Juan Delgado]
         <p>Eye Controlled Minecraft</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">TBC</h2>
+        <h2 itemprop="name">Simon Biles</h2>
+        <p>Open Source Digital Forensics</p>
     </li>
 </ul>
 
@@ -59,6 +60,6 @@ keynoters: [Phil Hawksworth, Tom Dyson, Kirsty McNaught, Juan Delgado]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Musical interlude</h2>
-        <p>TBC</p>
+        <p>Mark Johnson & Friends - 'The Unquiet'</p>
     </li>
 </ul>
