@@ -27,23 +27,35 @@ geek_night_number: 50
 lanyrd_short_url: cfyzkz
 
 # Keynoters
-keynoters: [Ben Goldacre, Amy Orben]
+keynoters: [Liz Rice, Ben Goldacre, Amy Orben, Angelina Aleksandrovich]
 ---
 
 <ul class="keynotes">
      <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">Ben Goldacre</h2>
-        <p>Bad Science</p>
+        <h2 itemprop="name">Liz Rice</h2>
+        <p>Debuggers from Scratch</p>
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+       <h2 itemprop="name">Ben Goldacre</h2>
+       <p>Bad Science</p>
+   </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Amy Orben</h2>
-        <p>Social Media Psychology</p>
+        <p>Teens, Screens & Sketchy Data</p>
     </li>
+   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+      <h2 itemprop="name">Angelina Aleksandrovich</h2>
+      <p>Multi-sensory XR - from Mushrooms to Sex</p>
+  </li>
 </ul>
 
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Ken Khan</h2>
         <p>AI programming by children in the browser</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Alex Martin</h2>
+        <p>Live music - ambient guitar</p>
     </li>
 </ul>
