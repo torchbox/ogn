@@ -37,7 +37,7 @@ keynoters: [Alexey Tereshenkov, Steve Taylor, Elena Lampalap, Dan Melville]
     </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
        <h2 itemprop="name">Steve Taylor</h2>
-       <p>Bio info</p>
+       <p>The Use of Virtual Reality in Medicine</p>
    </li>
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Elena Lampalap</h2>
