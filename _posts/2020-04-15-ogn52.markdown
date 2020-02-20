@@ -1,0 +1,61 @@
+---
+# Layout, no need to change this
+layout: event
+
+# Event time
+time: 7:00pm
+
+# Talk start time
+start: 7:30pm
+
+# A short address of Geek Night location.
+short_address: Jericho Tavern, Oxford
+
+# Map URL to location of Geek Night
+map_url: http://bit.ly/1zC79aw
+
+# Sponsors in the form - [name]: [logo imag path (in /assets/images)]
+# Do not include Torchbox
+sponsor:
+  - Haybrook IT: sponsor-haybrook.png
+  - Nominet: sponsor-nominet.png
+
+# The Geek Night number
+geek_night_number: 52
+
+# Lanyrd short url
+lanyrd_short_url: cfyzkz
+
+# Keynoters
+keynoters: [Coming soon]
+---
+
+<!-- <ul class="keynotes">
+     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Alexey Tereshenkov</h2>
+        <p>Community-driven Software Security (Securing software, together)</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+       <h2 itemprop="name">Steve Taylor</h2>
+       <p>The Use of Virtual Reality in Medicine</p>
+   </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Elena Lampalap</h2>
+        <p>talk title bc</p>
+    </li>
+   <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+      <h2 itemprop="name">Dan Melville</h2>
+      <p>How Technology Changed My Life</p>
+  </li>
+</ul>
+
+<ul class="microslots">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Mark Johnson</h2>
+        <p>MZORPG</p>
+    </li>
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+        <h2 itemprop="name">Joe Wass</h2>
+        <p>User Experience for toddlers</p>
+    </li>
+</ul> -->
