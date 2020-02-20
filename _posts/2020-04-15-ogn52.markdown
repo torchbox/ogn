@@ -32,7 +32,7 @@ keynoters: [Coming soon]
 
 <ul class="keynotes">
      <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">Coming soon</h2>
+        <h2 itemprop="name">Keynotes to be announced soon</h2>
     </li>
     <!-- <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
        <h2 itemprop="name">Steve Taylor</h2>
@@ -48,12 +48,12 @@ keynoters: [Coming soon]
   </li> -->
 </ul>
 
-<ul class="microslots">
+<!-- <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Coming soon</h2>
     </li>
-    <!-- <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Joe Wass</h2>
         <p>User Experience for toddlers</p>
-    </li> -->
-</ul>
+    </li>
+</ul> -->
