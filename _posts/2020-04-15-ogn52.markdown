@@ -30,12 +30,11 @@ lanyrd_short_url: cfyzkz
 keynoters: [Coming soon]
 ---
 
-<!-- <ul class="keynotes">
+<ul class="keynotes">
      <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">Alexey Tereshenkov</h2>
-        <p>Community-driven Software Security (Securing software, together)</p>
+        <h2 itemprop="name">Coming soon</h2>
     </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <!-- <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
        <h2 itemprop="name">Steve Taylor</h2>
        <p>The Use of Virtual Reality in Medicine</p>
    </li>
@@ -46,16 +45,15 @@ keynoters: [Coming soon]
    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
       <h2 itemprop="name">Dan Melville</h2>
       <p>How Technology Changed My Life</p>
-  </li>
+  </li> -->
 </ul>
 
 <ul class="microslots">
     <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
-        <h2 itemprop="name">Mark Johnson</h2>
-        <p>MZORPG</p>
+        <h2 itemprop="name">Coming soon</h2>
     </li>
-    <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
+    <!-- <li itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person">
         <h2 itemprop="name">Joe Wass</h2>
         <p>User Experience for toddlers</p>
-    </li>
-</ul> -->
+    </li> -->
+</ul>
